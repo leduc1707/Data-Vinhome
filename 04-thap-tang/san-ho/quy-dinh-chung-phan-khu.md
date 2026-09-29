@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+phan_khu: San Hô
 ---
 
-# san-ho
+# Ghi chú San Hô
 
-Mở, sát VinUni.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Đã điền sáu file nghiệp vụ trong thư mục này. Slot biệt thự và shophouse chỉ thêm điều khác với nhà ở hoặc mặt phố.

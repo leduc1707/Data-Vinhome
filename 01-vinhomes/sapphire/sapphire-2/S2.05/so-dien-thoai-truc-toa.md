@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: S2.05
 ---
 
 # Số điện thoại trực tòa — S2.05
 
-Số ca trực của tòa này.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Không ghi số máy lẻ. Gọi an ninh trên ứng dụng, mã tòa S2.05. Hồ sơ cụm Sapphire 2: nguồn cư dân ghi tòa S2.18. Khẩn cấp 114, 115, 113.

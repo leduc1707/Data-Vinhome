@@ -76,4 +76,4 @@ Công bố sở hữu lâu dài với người Việt. Tỷ lệ đã cấp từ
 - market.vinhomes.vn/phan-khu/the-sapphire-1-vinhomes-ocean-park
 - market.vinhomes.vn bài phí 3 quận Ocean City
 - 9group.com.vn vé tháng 2026
-- thuenhavinhomesoceanpark.com — VP BQL S1.03
+- thuenhavinhomesoceanpark.com — văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03

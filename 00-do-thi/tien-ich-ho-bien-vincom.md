@@ -1,16 +1,14 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+cap_nhat: 2026-09-30
 ---
 
-# Tiện ích chung
+# Tiện ích chung đô thị Vinhomes Ocean Park 1
 
-Hồ Ngọc Trai, biển hồ nước mặn, Vincom, VinUni, Vinschool.
+Không gắn nội quy một tòa vào file này.
 
-## Fact
+Hồ Ngọc Trai khoảng 24,5 hecta. Biển hồ nước mặn khoảng 6,1 hecta. Vincom Mega Mall nằm phía Sao Biển. VinUni và Vinschool nằm phía San Hô. Vinmec trong đô thị.
 
--
+Cư dân Sapphire đóng phí hồ bơi theo bảng Market Vinhomes. Cư dân thấp tầng và Ruby được ghi miễn phí. Giờ mở cửa lấy bảng tại cổng hồ.
 
-## Nguồn
-
--
+Đường nội khu có nội quy giao thông riêng nếu ban quản lý ban hành. File `noi-quy-giao-thong.md` còn trống cho văn bản đó.

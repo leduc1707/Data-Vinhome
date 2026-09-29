@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-loai: quy-trinh-van-hanh
+trang_thai: da-thu-thap-mot-phan
+phan_khu: Ngọc Trai
 ---
 
-# Quy trình vận hành
+# Quy trình vận hành — Ngọc Trai
 
-SOP tiếp nhận và xử lý của ban quản lý phân khu.
+Tạo phiếu trên ứng dụng, ghi đúng tiểu khu và số nhà. Sự cố cổng, điện đường, ngập: gọi an ninh trên ứng dụng. Khẩn cấp 114, 115, 113.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Không chuyển phiếu thấp tầng sang lễ tân Masteri hoặc sảnh Sapphire.

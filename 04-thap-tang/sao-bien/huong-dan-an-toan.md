@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-loai: huong-dan-an-toan
+trang_thai: da-thu-thap-mot-phan
+phan_khu: Sao Biển
 ---
 
-# Hướng dẫn an toàn
+# Hướng dẫn an toàn — Sao Biển
 
-Quy tắc an toàn dùng chung phân khu. Sơ đồ từng tòa nằm trong folder tòa.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Nhà phố không có thang máy tòa. Lối thoát là cửa chính, sân và đường nội khu. Không để xe chắn họng nước. Trẻ em ra hồ và biển phải có người lớn. Hồ cảnh quan không phải bãi tắm tự do.

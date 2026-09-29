@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+phan_khu: Ngọc Trai
 ---
 
-# Shophouse đại diện ngoc-trai
+# Quy định kinh doanh shophouse — Ngọc Trai
 
-Kinh doanh mặt phố.
+Shophouse trong Ngọc Trai nếu có vẫn phải xin phép. Không suy quyền kinh doanh từ Hải Âu.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Biển hiệu, giờ nhận hàng, để hàng trên vỉa hè phải theo nội quy mặt phố. Phòng cháy mặt tiền: bình chữa cháy, lối thoát cửa hàng. Còn phải chụp nội quy kinh doanh niêm yết.

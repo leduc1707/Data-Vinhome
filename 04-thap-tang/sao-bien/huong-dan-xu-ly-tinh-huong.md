@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-loai: huong-dan-xu-ly-tinh-huong
+trang_thai: da-thu-thap-mot-phan
+phan_khu: Sao Biển
 ---
 
-# Hướng dẫn xử lý tình huống
+# Hướng dẫn xử lý tình huống — Sao Biển
 
-Thang kẹt, rò nước, mất điện, quên chìa, gây rối. Không thay sơ đồ thoát hiểm.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Mất điện căn: kiểm tra aptomat rồi báo kỹ thuật. Ngập cống, cây đổ, cổng hỏng: phiếu trên ứng dụng. Cháy nhà phố: gọi 114, sơ tán ra đường nội khu, không chạy vào ngõ cụt. Quên chìa: bảo vệ xác minh chủ nhà.

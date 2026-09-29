@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: S2.05
 ---
 
 # Phòng cháy chữa cháy và thoát hiểm — S2.05
 
-Chỉ tòa đại diện này.
+Sơ đồ thoát nạn lấy trên ứng dụng hoặc tấm mica sảnh S2.05. Tòa 26 tầng nổi, chữ L, 550 căn, bốn thang cư dân và một thang hàng. Khi cháy đi thang bộ. Không dùng sơ đồ S2.01.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Còn phải chụp tấm mica và tải PDF trên ứng dụng.

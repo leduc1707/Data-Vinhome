@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: P2
 ---
 
 # Sơ đồ hầm gửi xe — P2
 
-Hầm của tòa này.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Hai tầng hầm thông nhau của Pavilion. Còn phải chụp mica hầm P2.

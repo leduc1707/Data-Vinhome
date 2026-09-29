@@ -1,16 +1,12 @@
 ---
-trang_thai: chua-thu-thap
-loai: huong-dan-dich-vu
+trang_thai: da-thu-thap-mot-phan
+phan_khu: The Pavilion
 ---
 
-# Hướng dẫn dịch vụ
+# Hướng dẫn dịch vụ — The Pavilion
 
-Lễ tân, hồ bơi, gym, đặt tiện ích, dịch vụ có phí.
+Tiện ích nội khu công bố: vườn thực vật, sân chơi, hồ cảnh quan, bể bơi. Cư dân dùng tiện ích đại đô thị ở thư mục tiện ích đô thị.
 
-## Fact
+Hai tầng hầm thông nhau. Một số tòa có tiện ích và bể sục tầng 13, phí cao hơn. Giờ mở cửa lấy bảng tại chỗ.
 
--
-
-## Nguồn
-
--
+Sảnh vận hành Vinhomes, không phải lễ tân năm sao Masterise.

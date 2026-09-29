@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+phan_khu: The Pavilion
 ---
 
-# Pavilion
+# Ghi chú The Pavilion
 
-4 tòa, mã P, Ocean View, phong cách Singapore. Nguồn 8/2026 ghi P.xx. Đại diện P1, P2.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Bốn tòa P1 đến P4. Tòa mẫu trong kho: P1 và P2. Mã P1, P2 đã đối chiếu nguồn bán hàng. Vận hành Vinhomes, dòng Sapphire cộng, bàn giao năm 2024.

@@ -6,22 +6,29 @@ cap_nhat: 2026-09-29
 
 # Số điện thoại trực tòa — S1.01
 
-Số máy lẻ bảo vệ sảnh S1.01 chưa có trên nguồn mở. Dùng đầu mối cụm Sapphire 1, đối chiếu bảng sảnh trước khi lưu chính thức.
+Không ghi số máy lẻ bảo vệ sảnh. Vinhomes không public số lẻ để tránh làm phiền ca trực.
 
-## Đầu mối
+## Cách gọi an ninh S1.01
 
-| Việc | Nơi liên hệ |
+Ứng dụng Vinhomes Resident > Yêu cầu hỗ trợ > An ninh. Báo bảo vệ lên sảnh. Ghi nhận team: 3–5 phút.
+
+Mã tòa trên ứng dụng: S1.01. Không nhầm S1.01 Smart City.
+
+## Đầu mối khác
+
+| Việc | Nơi |
 |---|---|
-| Sự cố tại chỗ | Bảo vệ sảnh S1.01 — số lấy biển sảnh |
-| Hồ sơ, thẻ, phí, vé xe | Văn phòng ban quản lý cụm S1 tại tòa S1.03 |
-| Phiếu kỹ thuật | Ứng dụng Vinhomes Resident, chọn tòa S1.01 |
-| Hotline khu | 1900 232 389 nhánh 4; 024 7102 3626 nhánh 4 (bài cư dân, cần kiểm tra còn hiệu lực) |
-| Email cụm S1 | bqt.s1.vhop@gmail.com (bài cũ, cần kiểm tra) |
+| Hồ sơ, thẻ, phí, vé xe | Văn phòng ban quản lý cụm S1 — nguồn mở ghi S1.03 |
+| Trưởng tòa và bảng thời gian cam kết xử lý S1.01 | Ghi nhận team: văn phòng tại tòa S1.02 |
+| Hotline khu (bài cư dân, kiểm tra còn hiệu lực) | 1900 232 389 nhánh 4; 024 7102 3626 nhánh 4 |
 | Khẩn cấp | 114 / 115 / 113 |
 
-Mã tòa trên ứng dụng: S1.01. Không nhầm với S1.01 Vinhomes Smart City (Tây Mỗ).
+## Việc team phải thu
+
+- Ảnh biển hướng dẫn gọi an ninh tại sảnh S1.01
+- Xác nhận trưởng tòa đang ngồi S1.02 hay S1.03
 
 ## Nguồn
 
-- thuenhavinhomesoceanpark.com — BQL S1 tại S1.03
-- canhovinhomes.info — hotline và email BQT cụm S1
+- Không public số lẻ: ghi nhận team 29/09/2026
+- Văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03: thuenhavinhomesoceanpark.com

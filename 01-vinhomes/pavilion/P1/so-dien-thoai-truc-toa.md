@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: P1
 ---
 
 # Số điện thoại trực tòa — P1
 
-Số ca trực của tòa này.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Không ghi số máy lẻ. Gọi an ninh trên ứng dụng, mã tòa P1. Khẩn cấp 114, 115, 113. Còn phải chụp biển sảnh.

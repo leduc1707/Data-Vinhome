@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+phan_khu: Sao Biển
 ---
 
-# sao-bien
+# Ghi chú Sao Biển
 
-Shophouse dày, sát biển mặn và Vincom.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Đã điền sáu file nghiệp vụ trong thư mục này. Slot biệt thự và shophouse chỉ thêm điều khác với nhà ở hoặc mặt phố.

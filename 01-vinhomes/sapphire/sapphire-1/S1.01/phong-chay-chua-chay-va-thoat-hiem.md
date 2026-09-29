@@ -6,39 +6,28 @@ cap_nhat: 2026-09-29
 
 # Phòng cháy chữa cháy và thoát hiểm — S1.01
 
-Chưa có bản scan sơ đồ thoát nạn chính thức. Dưới đây là hiện vật tòa đã đối chiếu nguồn mở.
+Bản PDF sơ đồ thoát nạn có dấu đỏ không public. Lấy trong ứng dụng Vinhomes Resident: chọn căn S1.01 > Tài liệu bàn giao / Cẩm nang PCCC. Bản giấy: bảng mica cạnh cụm thang máy sảnh S1.01, ghi 2 thang bộ trên mặt bằng chữ L.
 
-## Hiện vật tòa
+## Hiện vật đã đối chiếu nguồn mở
 
 - 27 tầng nổi + 1 tầng hầm
-- Tầng 1–2: shophouse
-- Tầng 3–27: căn hộ
+- Tầng 1–2 shophouse, tầng 3–27 căn hộ
 - Layout chữ L, 22 căn/sàn, 550 căn
-- 4 thang máy cư dân + 1 thang hàng
-- 2 thang bộ thoát hiểm (nguồn Market Vinhomes ghi 2 thang bộ và 5 thang máy đi lại)
+- 4 thang cư dân + 1 thang hàng
+- 2 thang bộ thoát hiểm
 
-Khi cháy: không dùng 5 cabin thang máy. Xuống bằng 2 thang bộ. Điểm tập kết lấy biển tại sảnh S1.01 — chưa có tọa độ trong kho.
+Khi cháy không dùng thang máy. Xuống 2 thang bộ. Điểm tập kết đọc biển sảnh.
 
-## Vị trí tòa để lực lượng tiếp cận
+## Việc team phải chụp
 
-- Đường Hải Đăng
-- Đông Bắc: S1.03 và ngọn hải đăng 16 m
-- Đông Nam: đường nội khu 13 m và 30 m
-- Tây Nam: Sapphire 2
-- Tây Bắc: S1.02
+- Ảnh bảng mica sơ đồ thoát hiểm sảnh S1.01
+- PDF cẩm nang PCCC trên ứng dụng
+- Tầng lánh nạn nếu biển có ghi
+- Họng nước, tủ cứu hỏa, điểm tập kết ngoài nhà
 
-Xe chữa cháy tiếp cận từ đường nội khu 13 m / 30 m. Không để xe chắn họng nước và lối sảnh.
-
-## Việc còn thiếu
-
-- File PDF sơ đồ từng tầng
-- Tầng lánh nạn nếu có
-- Vị trí họng nước, bình bột, tủ cứu hỏa
-- Điểm tập kết ngoài nhà
+Không vẽ sơ đồ giả từ mặt bằng bán hàng.
 
 ## Nguồn
 
-- vinhomesland.vn/toa-s101-vinhomes-ocean-park
-- market.vinhomes.vn/toa-nha/s1-01-vinhomes-ocean-park
-- market.vinhomes.vn/blog/mat-bang-s1-01-vinhomes-ocean-park-thong-tin-moi-nhat
-- OneHousing — S1.01 hình chữ L, 27 tầng, 550 căn
+- vinhomesland.vn, market.vinhomes.vn — số tầng, số thang
+- Cách lấy sơ đồ: ghi nhận team 29/09/2026

@@ -2,6 +2,7 @@
 trang_thai: da-thu-thap-mot-phan
 phan_khu: The Sapphire / Sapphire 1
 cap_nhat: 2026-09-29
+bo_sung: thu-nuoi-muc-phat-ghi-nhan-team
 ---
 
 # Quy định — The Sapphire / Sapphire 1
@@ -38,8 +39,31 @@ Chủ đầu tư và vận hành: Vinhomes. Ứng dụng: Vinhomes Resident.
 
 Khung yên tĩnh thông dụng: khoảng 22h–6h. Karaoke, loa kéo, đục tường không làm trong khung này. Giờ phạt chính thức lấy thông báo ban quản lý.
 
+## Thú nuôi
+
+Quy định công khai chung Vinhomes Ocean Park, áp cho Sapphire 1 / S1.01:
+
+- Đăng ký với ban quản lý trước khi nuôi.
+- Chó rọ mõm và dây dắt khi ra ngoài căn.
+- Bế qua sảnh, không để chó tự đi hành lang.
+- Không thả rông ở công viên nội khu S1.01.
+- Chủ nuôi dọn vệ sinh ngay.
+
+Chưa có bản scan nội quy thú nuôi trong kho. Loài cấm, cân nặng tối đa, số con/căn: để trống cho đến khi chụp bảng hoặc lấy file trên ứng dụng.
+
+## Mức xử lý
+
+Ghi nhận team, chưa có văn bản phạt ký số trong kho:
+
+- Lần 1–2: nhắc nhở.
+- Lần 3: lập biên bản.
+- Có thể trừ điểm trên ứng dụng cư dân.
+- Tái phạm có thể bị cắt tiện ích.
+
+Không tự bịa số tiền phạt.
+
 ## Nguồn
 
-- market.vinhomes.vn — The Sapphire 1, mặt bằng S1.01 (bài 10/01/2026)
-- vinhomes.vn — mặt bằng Ocean Park, Sapphire 1 đã bàn giao
-- Điều khoản thú nuôi và mức phạt chưa có văn bản gốc trên nguồn mở
+- market.vinhomes.vn — The Sapphire 1, mặt bằng S1.01
+- vinhomes.vn — mặt bằng Ocean Park
+- Thú nuôi và mức xử lý: ghi nhận team 29/09/2026, đối chiếu bảng niêm yết

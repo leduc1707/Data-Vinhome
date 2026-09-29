@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-loai: huong-dan-dich-vu
+trang_thai: da-thu-thap-mot-phan
+phan_khu: San Hô
 ---
 
-# Hướng dẫn dịch vụ
+# Hướng dẫn dịch vụ — San Hô
 
-Lễ tân, hồ bơi, gym, đặt tiện ích, dịch vụ có phí.
+Đường nội khu thông với trường đại học. Giờ ồn và gửi xe khách theo bảng tiểu khu.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Tiện ích đại đô thị: hồ Ngọc Trai khoảng 24,5 hecta, biển hồ nước mặn khoảng 6,1 hecta, Vincom Mega Mall, Vinschool, VinUni. Chi tiết ở thư mục tiện ích đô thị.

@@ -1,6 +1,6 @@
 # Kho tri thức Vinhomes Ocean Park 1
 
-Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Phần lớn file trong repo đang để trống (`trang_thai: chua-thu-thap`). Riêng sáu file chung của Sapphire và folder tòa S1.01 đã thu thập một phần ngày 29/09/2026 (`trang_thai: da-thu-thap-mot-phan`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
+Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Trạng thái ngày 30/09/2026: Sapphire, Pavilion, bốn khu thấp tầng và `00-do-thi/` đã điền một phần. Zenpark, Masteri Waterfront và file chung Masterise còn để trống (`trang_thai: chua-thu-thap`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
 
 Mốc lọc phân khu: 28/09/2026. Chỉ giữ khu đã bàn giao.
 
@@ -24,7 +24,8 @@ kb-ocean-park/
 ├── AGENTS.md
 ├── NGUON.md                                   # khu đã bỏ vì chưa bàn giao
 ├── 00-do-thi/
-│   └── tien-ich-ho-bien-vincom.md
+│   ├── tien-ich-ho-bien-vincom.md
+│   └── noi-quy-giao-thong.md                  # còn chờ văn bản ban quản lý
 ├── 01-vinhomes/
 │   ├── sapphire/
 │   │   ├── quy-dinh-chung-dong-sapphire.md    # tổng quan dòng Sapphire
@@ -35,16 +36,17 @@ kb-ocean-park/
 │   │   ├── huong-dan-xu-ly-tinh-huong.md
 │   │   ├── huong-dan-an-toan.md
 │   │   ├── sapphire-1/
-│   │   │   ├── S1.01/                         # 3 file tòa + THONG-TIN-TOA.md
-│   │   │   └── S1.02/                         # 3 file tòa
+│   │   │   ├── S1.01/                         # 5 file tòa
+│   │   │   └── S1.02/                         # 5 file tòa
 │   │   └── sapphire-2/
-│   │       ├── S2.01/                         # 3 file tòa
-│   │       └── S2.05/                         # 3 file tòa, căn hộ dịch vụ
-│   ├── zenpark/                               # quy-dinh-chung-phan-khu.md + 6 file, rồi R1.02/, R1.03/
-│   └── pavilion/                              # quy-dinh-chung-phan-khu.md + 6 file, rồi P1/, P2/
+│   │       ├── quy-dinh-chung-phan-khu.md     # ghi chú riêng Sapphire 2
+│   │       ├── S2.01/                         # 5 file tòa
+│   │       └── S2.05/                         # 5 file tòa
+│   ├── zenpark/                               # quy-dinh-chung-phan-khu.md + 6 file, rồi R1.02/, R1.03/ (3 file tòa)
+│   └── pavilion/                              # quy-dinh-chung-phan-khu.md + 6 file, rồi P1/, P2/ (5 file tòa)
 ├── 02-masterise/
 │   ├── quy-trinh-chung-masterise-property-management.md
-│   └── masteri-waterfront/                    # quy-dinh-chung-phan-khu.md + 6 file, rồi M1/, H1/
+│   └── masteri-waterfront/                    # quy-dinh-chung-phan-khu.md + 6 file, rồi M1/, H1/ (3 file tòa)
 └── 04-thap-tang/
     ├── ngoc-trai/                             # quy-dinh-chung-phan-khu.md + 6 file
     │   ├── biet-thu-dai-dien/quy-dinh-cu-dan.md
@@ -54,13 +56,13 @@ kb-ocean-park/
     └── hai-au/                                # như ngoc-trai
 ```
 
-"6 file" là sáu file nghiệp vụ ở mục dưới. "3 file tòa" là ba file ở mục Folder tòa. Số `03-` đang bỏ trống. Không đánh lại số các folder hiện có.
+"6 file" là sáu file nghiệp vụ ở mục dưới. "3 file tòa" là ba file bắt buộc, "5 file tòa" là ba file đó cộng hai file bổ sung — xem mục Folder tòa. Số `03-` đang bỏ trống. Không đánh lại số các folder hiện có.
 
 ## Đơn vị vận hành
 
 Vinhomes vận hành Sapphire, Zenpark, Pavilion và bốn khu thấp tầng. Masterise Property Management vận hành Masteri Waterfront. Hai bộ tài liệu không dùng chung. Phí, ứng dụng, số trực và quy trình xử lý phải lấy đúng đơn vị.
 
-`00-do-thi/` chỉ chứa tiện ích cả đô thị: hồ Ngọc Trai, biển hồ nước mặn, Vincom, VinUni. Không ghi nội quy tòa vào đây.
+`00-do-thi/` chỉ chứa thông tin chung cả đô thị: tiện ích (hồ Ngọc Trai, biển hồ nước mặn, Vincom, VinUni) và nội quy giao thông nội khu. Không ghi nội quy tòa vào đây.
 
 ## Mỗi phân khu có một file tổng quan và sáu file nghiệp vụ
 
@@ -72,7 +74,7 @@ File tổng quan:
 |---|---|
 | `quy-dinh-chung-phan-khu.md` | Số tòa, mã tòa, tòa đại diện, đặc điểm riêng của phân khu |
 
-Sapphire dùng `quy-dinh-chung-dong-sapphire.md` thay cho file này, ghi chung cho Sapphire 1 và Sapphire 2.
+Sapphire dùng `quy-dinh-chung-dong-sapphire.md` thay cho file này, ghi chung cho cả dòng Sapphire. Sapphire 2 có thêm `sapphire-2/quy-dinh-chung-phan-khu.md` cho thông tin riêng (số tòa, mã tòa, tòa mẫu).
 
 Sáu file nghiệp vụ:
 
@@ -89,17 +91,22 @@ Sáu file nghiệp vụ:
 
 Mỗi phân khu chỉ để một hoặc hai tòa mẫu. Tòa còn lại dùng sáu file chung. Chỉ thêm folder tòa khi sơ đồ thoát nạn hoặc số trực khác.
 
-Folder tòa không chứa nội quy. Ba file:
+Folder tòa không chứa nội quy. Ba file bắt buộc:
 
 | File | Nội dung cần thu |
 |---|---|
 | `phong-chay-chua-chay-va-thoat-hiem.md` | Sơ đồ thoát nạn, tầng lánh nạn, điểm tập kết của tòa đó |
-| `so-dien-thoai-truc-toa.md` | Số ca trực và mã tòa trên ứng dụng |
+| `so-dien-thoai-truc-toa.md` | Cách gọi an ninh, đầu mối và mã tòa trên ứng dụng |
 | `so-do-ham-gui-xe.md` | Hầm, lối xe, chỗ sạc của tòa đó |
 
-Tùy chọn: `THONG-TIN-TOA.md` cho thông số tòa (số tầng, số căn, layout, thang, mã căn, tiếp giáp). Hiện chỉ S1.01 có.
+Hai file bổ sung. Tòa Sapphire và Pavilion đã có; Zenpark và Masteri Waterfront chưa có:
 
-S2.05 là căn hộ dịch vụ. Quy định lưu trú ngắn ngày, nếu có, để trong folder S2.05, không để vào S2.01.
+| File | Nội dung cần thu |
+|---|---|
+| `thong-tin-toa.md` | Thông số tòa: số tầng, số căn, layout, thang, loại căn, tiếp giáp, ngày bàn giao |
+| `danh-sach-tai-lieu-can-thu-thap.md` | Tài liệu team còn phải chụp hoặc tải tại tòa, và file đích để đưa vào |
+
+S2.05 trước đây được ghi là căn hộ dịch vụ. Dữ liệu ngày 30/09/2026 cho thấy tại Ocean Park đây là căn hộ ở thông thường (xem `S2.05/thong-tin-toa.md`). Chỉ thêm quy định lưu trú ngắn ngày khi ban quản lý có văn bản riêng, và để trong folder S2.05.
 
 ## Thấp tầng
 
