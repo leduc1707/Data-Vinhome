@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: R1.03
 ---
 
 # Số điện thoại trực tòa — R1.03
 
-Số ca trực của tòa này.
+Không ghi số máy lẻ. Gọi an ninh trên ứng dụng, mã tòa R1.03, hoặc lễ tân. Hotline 1900 2323 89 nhánh 4. Khẩn cấp 114, 115, 113.
 
-## Fact
-
--
-
-## Nguồn
-
--
+An ninh cao tầng: 0858 001 080. Hồ sơ tại lễ tân The Zen Park.

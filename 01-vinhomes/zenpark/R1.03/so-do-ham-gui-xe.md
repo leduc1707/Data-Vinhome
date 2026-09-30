@@ -1,16 +1,8 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: R1.03
 ---
 
 # Sơ đồ hầm gửi xe — R1.03
 
-Hầm của tòa này.
-
-## Fact
-
--
-
-## Nguồn
-
--
+Hầm thông cụm Zenpark. Còn phải chụp mica hầm phía R1.03. Áp nội quy xe toàn đô thị.

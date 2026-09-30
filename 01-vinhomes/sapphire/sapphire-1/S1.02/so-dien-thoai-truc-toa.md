@@ -26,3 +26,5 @@ Chụp biển hướng dẫn gọi an ninh tại sảnh S1.02. Xác nhận bảo
 
 - Ứng dụng Vinhomes Resident
 - thuenhavinhomesoceanpark.com: văn phòng ban quản lý cụm tại tòa S1.03
+
+An ninh cao tầng: 0858 001 080. Hồ sơ cụm vẫn nộp S1.03. Ghi nhận team: S1.02 nhận tạm trú và trưởng tòa.

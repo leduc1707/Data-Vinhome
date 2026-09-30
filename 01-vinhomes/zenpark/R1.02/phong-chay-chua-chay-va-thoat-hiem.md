@@ -1,16 +1,10 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+toa: R1.02
 ---
 
 # Phòng cháy chữa cháy và thoát hiểm — R1.02
 
-Chỉ tòa đại diện này.
+Sơ đồ lấy trên ứng dụng Vinhomes Resident hoặc tấm mica sảnh R1.02. Các tòa Ruby cùng cụm công bố tầng 20 có gian lánh nạn. Đối chiếu biển R1.02. Khi cháy không dùng thang máy.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Còn phải chụp mica và PDF cẩm nang.

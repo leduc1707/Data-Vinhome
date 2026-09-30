@@ -46,3 +46,10 @@ Làm lại thẻ: liên hệ đơn vị và trả phí cấp lại theo thông b
 Khách hàng bồi thường hư hỏng, thiệt hại do mình hoặc người mình gửi gây ra.
 
 Đơn vị bồi thường mất mát, hư hỏng xe do lỗi của đơn vị. Mất toàn bộ xe do lỗi đơn vị: bồi thường theo giá thị trường tài sản cùng loại và tình trạng lúc mất. Hư hỏng toàn bộ do lỗi đơn vị: trả chi phí sửa chữa, khôi phục; đơn vị được chọn gara; xe không sửa được thì xử như mất toàn bộ. Hai bên cùng lỗi mà không thống nhất tỷ lệ: đơn vị bồi thường 50 phần trăm thiệt hại xác định theo các mục trên. Đơn vị không bồi thường nếu mất thẻ, chìa do khách hoặc chìa bị làm giả không phải lỗi đơn vị.
+
+
+## Ghi nhận team về phí và cẩu xe
+
+Tài liệu team: đỗ sai có thể bị khóa bánh và mức khoảng 452.000 đồng. Phí khôi phục dịch vụ trên thông báo 134/2026 là 462.000 đồng đã gồm thuế — hai khoản khác nhau. Xe bị cẩu: gọi 0858 001 080 hoặc 0856 001 090 hỏi bãi, mở khóa tại S1.03 hoặc S2.18.
+
+Ghi nhận team: miễn phí gửi năm giờ một ngày từng áp dụng; xe điện VinFast từng miễn đến 1 tháng 7 năm 2026 rồi thu như xe xăng. Đối chiếu bảng phí trên ứng dụng.

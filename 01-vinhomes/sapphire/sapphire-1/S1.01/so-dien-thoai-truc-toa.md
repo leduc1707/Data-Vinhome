@@ -32,3 +32,5 @@ Mã tòa trên ứng dụng: S1.01. Không nhầm S1.01 Smart City.
 
 - Không public số lẻ: ghi nhận team 29/09/2026
 - Văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03: thuenhavinhomesoceanpark.com
+
+An ninh cao tầng: 0858 001 080. Hồ sơ cụm Sapphire 1: tòa S1.03. Ghi nhận team: tạm trú và trưởng tòa liên quan S1.02, không nộp nhầm hồ sơ thẻ xe sang S1.02.

@@ -6,3 +6,5 @@ toa: P2
 # Số điện thoại trực tòa — P2
 
 Không ghi số máy lẻ. Gọi an ninh trên ứng dụng, mã tòa P2.
+
+An ninh cao tầng: 0858 001 080. Hồ sơ tại lễ tân sảnh P2.

@@ -48,3 +48,6 @@ Văn phòng hồ sơ cụm S1 từng được ghi tại S1.03. Ghi nhận team: 
 
 - canhovinhomes.info — văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03
 - Thời gian cam kết và văn phòng trưởng tòa tại S1.02: ghi nhận team 29/09/2026
+
+
+Hồ sơ Sapphire 1 nộp S1.03. Hồ sơ Sapphire 2 nộp S2.18. An ninh 0858 001 080. Kẹt thang: intercom hoặc báo cháy, gọi 114 và số an ninh, không cạy cửa.

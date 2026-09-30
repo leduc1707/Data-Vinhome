@@ -97,3 +97,12 @@ Căn hộ Sapphire dùng để ở. Tổ chức nhà nghỉ, khách sạn, homes
 Dòng Sapphire 1 và Sapphire 2: khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. Một số tòa S2.10, S2.17 được ghi 16.000 đồng. Đối chiếu phiếu thu trên ứng dụng từng căn.
 
 Gửi xe và thẻ: xem `00-do-thi/noi-quy-trong-giu-xe.md` và `00-do-thi/quy-dinh-cap-the.md`. Thanh toán chuyển khoản, QR hoặc ứng dụng từ 10 tháng 5 năm 2026.
+
+
+## Gym Sapphire ở đâu?
+
+Hầu hết tòa Sapphire không có phòng gym trong nhà. Dùng máy ngoài trời hoặc nhà xe nổi Sapphire 2. S2.10 và S2.17 có sảnh lễ tân; ghi nhận team có gym tầng một. Xem `00-do-thi/tien-ich-the-thao-va-ho.md`.
+
+## Nộp hồ sơ thẻ, xe, cải tạo ở đâu?
+
+Sapphire 1: tòa S1.03. Sapphire 2: tòa S2.18. An ninh cao tầng 0858 001 080.

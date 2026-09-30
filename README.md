@@ -1,6 +1,6 @@
 # Kho tri thức Vinhomes Ocean Park 1
 
-Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Trạng thái ngày 30/09/2026: Sapphire, Pavilion, bốn khu thấp tầng và `00-do-thi/` đã điền một phần. `00-do-thi/` đã có sáu thông báo, nội quy của ban quản lý khu đô thị. Zenpark, Masteri Waterfront và file chung Masterise còn để trống (`trang_thai: chua-thu-thap`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
+Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Trạng thái ngày 30/09/2026: Sapphire, Zenpark, Pavilion, bốn khu thấp tầng và `00-do-thi/` đã điền một phần. `00-do-thi/` đã có sáu thông báo, nội quy của ban quản lý khu đô thị, cùng danh bạ, xe buýt và tiện ích thể thao. Masteri Waterfront và file chung Masterise còn để trống (`trang_thai: chua-thu-thap`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
 
 Mốc lọc phân khu: 28/09/2026. Chỉ giữ khu đã bàn giao.
 
@@ -9,7 +9,7 @@ Mốc lọc phân khu: 28/09/2026. Chỉ giữ khu đã bàn giao.
 Trong repo:
 
 - Sapphire 1 và Sapphire 2, bàn giao khoảng 2020. Tòa mẫu S1.01, S1.02, S2.01, S2.05.
-- Zenpark, bàn giao khoảng 2021. Tòa mẫu R1.02, R1.03.
+- Zenpark, bàn giao từ 07/2021 (R1.01 khoảng 06/2022). Tòa mẫu R1.02, R1.03.
 - Pavilion, mốc bàn giao tháng 1/2024. Tòa mẫu P1, P2. Đối chiếu biển tòa trước khi chốt mã.
 - Masteri Waterfront, bàn giao từ quý 2/2023. Tòa mẫu M1 (cụm Miami), H1 (cụm Hawaii).
 - Thấp tầng: Ngọc Trai, San Hô, Sao Biển, Hải Âu, bàn giao khoảng 2020.
@@ -31,7 +31,10 @@ kb-ocean-park/
 │   ├── quy-dinh-sac-xe-dien.md                # TB 24/12/2025
 │   ├── quy-dinh-cap-the.md                    # TB 190/2026/TBCT-VHOCP
 │   ├── quy-dinh-do-sanh-va-hang-hoa.md        # TB 134/2026/TBCT-VHOCP
-│   └── thanh-toan-phi-dich-vu.md              # TB 54/2026/TBC-VHOCP
+│   ├── thanh-toan-phi-dich-vu.md              # TB 54/2026/TBC-VHOCP
+│   ├── danh-ba-lien-he.md                     # an ninh, ban quản lý cụm, điện nước
+│   ├── tuyen-xe-buyt.md                       # OCP02 nội khu và tuyến ngoại khu
+│   └── tien-ich-the-thao-va-ho.md             # gym, kayak, BBQ
 ├── 01-vinhomes/
 │   ├── sapphire/
 │   │   ├── quy-dinh-chung-dong-sapphire.md    # tổng quan dòng Sapphire
@@ -48,7 +51,7 @@ kb-ocean-park/
 │   │       ├── quy-dinh-chung-phan-khu.md     # ghi chú riêng Sapphire 2
 │   │       ├── S2.01/                         # 5 file tòa
 │   │       └── S2.05/                         # 5 file tòa
-│   ├── zenpark/                               # quy-dinh-chung-phan-khu.md + 6 file, rồi R1.02/, R1.03/ (3 file tòa)
+│   ├── zenpark/                               # quy-dinh-chung-phan-khu.md + 6 file, rồi R1.02/, R1.03/ (5 file tòa)
 │   └── pavilion/                              # quy-dinh-chung-phan-khu.md + 6 file, rồi P1/, P2/ (5 file tòa)
 ├── 02-masterise/
 │   ├── quy-trinh-chung-masterise-property-management.md
@@ -105,12 +108,14 @@ Folder tòa không chứa nội quy. Ba file bắt buộc:
 | `so-dien-thoai-truc-toa.md` | Cách gọi an ninh, đầu mối và mã tòa trên ứng dụng |
 | `so-do-ham-gui-xe.md` | Hầm, lối xe, chỗ sạc của tòa đó |
 
-Hai file bổ sung. Tòa Sapphire và Pavilion đã có; Zenpark và Masteri Waterfront chưa có:
+Hai file bổ sung. Tòa Sapphire, Zenpark và Pavilion đã có; Masteri Waterfront chưa có:
 
 | File | Nội dung cần thu |
 |---|---|
 | `thong-tin-toa.md` | Thông số tòa: số tầng, số căn, layout, thang, loại căn, tiếp giáp, ngày bàn giao |
 | `danh-sach-tai-lieu-can-thu-thap.md` | Tài liệu team còn phải chụp hoặc tải tại tòa, và file đích để đưa vào |
+
+Ảnh mặt bằng tòa đặt cùng folder, tên `mat-bang-toa-<mã tòa viết liền>-vinhomes-ocean-park.jpg`, ví dụ `mat-bang-toa-s101-vinhomes-ocean-park.jpg`. Đây là mặt bằng bán hàng, không thay sơ đồ thoát nạn.
 
 S2.05 trước đây được ghi là căn hộ dịch vụ. Dữ liệu ngày 30/09/2026 cho thấy tại Ocean Park đây là căn hộ ở thông thường (xem `S2.05/thong-tin-toa.md`). Chỉ thêm quy định lưu trú ngắn ngày khi ban quản lý có văn bản riêng, và để trong folder S2.05.
 

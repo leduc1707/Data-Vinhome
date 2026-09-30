@@ -1,16 +1,11 @@
 ---
-trang_thai: chua-thu-thap
-cap_nhat_khung: 2026-09-28
+trang_thai: da-thu-thap-mot-phan
+phan_khu: The Zen Park
+cap_nhat: 2026-09-30
 ---
 
-# Zenpark
+# Ghi chú The Zen Park
 
-4 tòa R1, Ocean View, phong cách Nhật. Đại diện R1.02, R1.03.
+Dòng Ruby, vận hành Vinhomes. Bốn tòa R1.01, R1.02, R1.03, R1.05. Đã bàn giao. Tòa mẫu trong kho: R1.02 và R1.03.
 
-## Fact
-
--
-
-## Nguồn
-
--
+Nội quy toàn đô thị (thẻ, xe, sảnh, sạc điện, biển hồ) dùng thư mục `00-do-thi`. Không lấy quy trình Masterise.

@@ -20,3 +20,6 @@ Hồ bơi: cư dân thấp tầng được Market Vinhomes ghi miễn phí. BBQ 
 ## Phí ghi nhận tháng 9 năm 2026
 
 Tiểu khu này: 14.000 đồng một mét vuông một tháng theo Market Vinhomes và ghi nhận team. Thanh toán chuyển khoản, mã QR hoặc ứng dụng từ 10 tháng 5 năm 2026. Xem `00-do-thi/thanh-toan-phi-dich-vu.md`.
+
+
+An ninh thấp tầng: 0856 001 090. Xe buýt OCP02 dừng Ngọc Trai và Sao Biển. Xem `00-do-thi/tuyen-xe-buyt.md`.
