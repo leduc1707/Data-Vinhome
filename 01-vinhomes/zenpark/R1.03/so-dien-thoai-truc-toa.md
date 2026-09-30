@@ -1,10 +1,26 @@
 ---
-trang_thai: da-thu-thap-mot-phan
+trang_thai: chua-thu-thap
+phan_khu: Zenpark
+cap_nhat: 2026-09-30
 toa: R1.03
+cap_nhat_khung: 2026-09-28
 ---
 
 # Số điện thoại trực tòa — R1.03
 
-Không ghi số máy lẻ. Gọi an ninh trên ứng dụng, mã tòa R1.03, hoặc lễ tân. Hotline 1900 2323 89 nhánh 4. Khẩn cấp 114, 115, 113.
+## Fact
 
-An ninh cao tầng: 0858 001 080. Hồ sơ tại lễ tân The Zen Park.
+Chưa xác minh được số trực riêng R1.03 tại ngày 30/09/2026. Số tư vấn mua bán trên Vinhomes Market không được coi là số trực BQL.
+
+## Cần thu thập
+
+| Nội dung cần thu | Giá trị đã xác nhận | Chứng cứ cần có |
+|---|---|---|
+| Lễ tân R1.03 | | Bảng sảnh có số và máy lẻ |
+| An ninh / kỹ thuật | | Số ca trực, giờ tiếp nhận và ngày hiệu lực |
+| BQL tiếp nhận cư dân | | Thông báo ghi rõ phạm vi phụ trách |
+| Mã tòa trong ứng dụng | | Ảnh màn hình đã che thông tin cá nhân |
+
+## Nguồn
+
+Chưa có bảng số trực hoặc thông báo BQL đúng tòa. Khi bổ sung ảnh, ghi tòa, vị trí bảng và ngày chụp.

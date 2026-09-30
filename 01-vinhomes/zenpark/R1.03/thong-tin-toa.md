@@ -1,16 +1,36 @@
 ---
 trang_thai: da-thu-thap-mot-phan
-toa: R1.03
-phan_khu: The Zen Park
+phan_khu: Zenpark
 cap_nhat: 2026-09-30
+toa: R1.03
 ---
 
-# Thông tin tòa R1.03 — The Zen Park
+# Thông tin tòa R1.03 — Zenpark
 
-Bàn giao khoảng tháng 11 năm 2021.
+## Fact và chênh lệch nguồn
 
-OneHousing: 31 tầng nổi và một hầm. Tầng một và tầng hai shophouse. Tầng ba đến 19 và 21 đến 31 căn hộ. Tầng 20 vừa căn hộ vừa gian lánh nạn. 594 căn. 20 căn mỗi sàn. Sáu thang khách và một thang hàng.
+R1.03 thuộc Zenpark theo [Z1](https://market.vinhomes.vn/phan-khu/the-zenpark-vinhomes-ocean-park), kiểm tra 30/09/2026.
 
-Phân bố mỗi sàn theo OneHousing: studio 27 đến 28 mét vuông ba căn; một phòng ngủ 41 đến 44,8 mét vuông bốn căn; một phòng ngủ cộng một 49 đến 50,9 mét vuông năm căn; hai phòng ngủ 66,5 đến 70,2 mét vuông ba căn; hai phòng ngủ cộng một khoảng 73 mét vuông hai căn; ba phòng ngủ 75,8 đến 77,3 mét vuông hai căn; ba phòng ngủ cộng một khoảng 90,5 mét vuông một căn.
+| Hạng mục | Thông tin công khai | Kết luận sử dụng |
+|---|---|---|
+| Tầng nổi | Bài riêng R1.03 (Z3): 31; FAQ trang phân khu (Z1): 35 | Chưa chốt; cần hồ sơ hoàn công |
+| Tầng hầm | Z1 và Z3 cùng nêu 1 hầm | Thông tin giới thiệu, chưa có bản đồ thực tế |
+| Công năng tầng 1–2 | Z3 giới thiệu shop thương mại dịch vụ | Cần đối chiếu công năng hiện hành |
+| Gian lánh nạn | Z3 đề cập tầng 20 | Đầu mối kiểm chứng; không dùng làm chỉ dẫn thoát nạn |
 
-Nội quy và phí dùng file chung Zenpark.
+Nguồn kiểm tra ngày 30/09/2026; chưa xác định ngày cập nhật nội dung. Không chọn số tầng theo số đông website.
+
+## Cần bổ sung
+
+Số căn, số thang, layout, diện tích/mã căn, công năng từng tầng và ngày bàn giao từ tài liệu đúng tòa.
+
+## Hồ sơ liên quan
+
+- [Số trực](so-dien-thoai-truc-toa.md).
+- [PCCC](phong-chay-chua-chay-va-thoat-hiem.md).
+- [Hầm](so-do-ham-gui-xe.md).
+
+## Nguồn
+
+- Z1: [Khu The Zenpark — Vinhomes Market](https://market.vinhomes.vn/phan-khu/the-zenpark-vinhomes-ocean-park). Kiểm tra 30/09/2026; chưa xác định ngày cập nhật nội dung.
+- Z3: [Căn hộ R1.03 — Vinhomes Market](https://market.vinhomes.vn/blog/can-ho-r103-vinhomes-ocean-park). Kiểm tra 30/09/2026; chưa xác định ngày cập nhật nội dung.
