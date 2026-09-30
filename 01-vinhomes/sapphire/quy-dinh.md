@@ -1,7 +1,7 @@
 ---
 trang_thai: da-thu-thap-mot-phan
 phan_khu: The Sapphire / Sapphire 1
-cap_nhat: 2026-09-29
+cap_nhat: 2026-09-30
 bo_sung: thu-nuoi-muc-phat-ghi-nhan-team
 ---
 
@@ -53,12 +53,7 @@ Chưa có bản scan nội quy thú nuôi trong kho. Loài cấm, cân nặng t�
 
 ## Mức xử lý
 
-Ghi nhận team, chưa có văn bản phạt ký số trong kho:
-
-- Lần 1–2: nhắc nhở.
-- Lần 3: lập biên bản.
-- Có thể trừ điểm trên ứng dụng cư dân.
-- Tái phạm có thể bị cắt tiện ích.
+Dùng mức ở mục Thú nuôi trong phần Quy định riêng căn hộ bên dưới: lần một nhắc và yêu cầu đưa vật nuôi ra khỏi căn trong bảy ngày; lần hai ngừng dịch vụ vệ sinh, bảo vệ, giữ xe và nộp phí khôi phục 462.000 đồng đã gồm thuế.
 
 Không tự bịa số tiền phạt.
 
@@ -66,7 +61,8 @@ Không tự bịa số tiền phạt.
 
 - market.vinhomes.vn — The Sapphire 1, mặt bằng S1.01
 - vinhomes.vn — mặt bằng Ocean Park
-- Thú nuôi và mức xử lý: ghi nhận team 29/09/2026, đối chiếu bảng niêm yết
+- Thú nuôi: ghi nhận team 29/09/2026, đối chiếu bảng niêm yết
+- Mức xử lý: bản nội quy tòa nhà, xem Nguồn bổ sung
 
 ## Quy định riêng căn hộ Vinhomes Ocean Park
 

@@ -18,4 +18,4 @@ Hạn chế tốc độ khi qua giao nhau. Nhường đường cho người đi 
 
 Ban quản lý tăng kiểm tra. Miễn trừ trách nhiệm của ban quản lý và chủ đầu tư nếu phương tiện đỗ sai bị mất mát, hư hỏng. Cư dân bồi thường nếu đỗ sai gây thiệt hại.
 
-Xe đỗ không đúng quy định đã được di chuyển về khu vực nhà xe nội Đại Dương từ tháng 2 năm 2025. Nhận lại xe: căn cước công dân, đăng ký xe, đóng phí bồi hoàn theo quy định.
+Xe đỗ không đúng quy định đã được di chuyển về khu vực nhà xe nổi Đại Dương từ tháng 2 năm 2025. Nhận lại xe: căn cước công dân, đăng ký xe, đóng phí bồi hoàn theo quy định.

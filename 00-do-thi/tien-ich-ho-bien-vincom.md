@@ -11,6 +11,6 @@ Hồ Ngọc Trai khoảng 24,5 hecta. Biển hồ nước mặn khoảng 6,1 hec
 
 Cư dân Sapphire đóng phí hồ bơi theo bảng Market Vinhomes. Cư dân thấp tầng và Ruby được ghi miễn phí. Giờ mở cửa lấy bảng tại cổng hồ.
 
-Đường nội khu có nội quy giao thông riêng nếu ban quản lý ban hành. File `noi-quy-giao-thong.md` còn trống cho văn bản đó.
+Nội quy giao thông và dừng đỗ nội khu theo thông báo 05/2026/TBC-VHOCP nằm ở file `noi-quy-giao-thong.md`.
 
 Nội quy tắm, câu cá, thuyền, thú nuôi và vé nằm ở file `quy-dinh-bien-ho-va-ho-ngoc-trai.md`. Tóm tắt: tắm biển mặn 9 giờ đến 18 giờ; hồ Ngọc Trai chỉ đi dạo, không tắm; cư dân quẹt thẻ vào biển mặn; hồ Ngọc Trai miễn phí.
