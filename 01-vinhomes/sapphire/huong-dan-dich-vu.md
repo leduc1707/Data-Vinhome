@@ -42,3 +42,7 @@ Sửa điện nước trong căn hết bảo hành: kỹ thuật ban quản lý 
 - batdongsan.com.vn — The Sapphire 1
 - market.vinhomes.vn — tiện ích và phí hồ bơi
 - vinhomesland.vn — tòa S1.01
+
+## Biển mặn và hồ Ngọc Trai
+
+Nội quy đầy đủ ở `00-do-thi/quy-dinh-bien-ho-va-ho-ngoc-trai.md`. Tắm chỉ ở biển mặn, 9 giờ đến 18 giờ. Hồ Ngọc Trai không tắm. Cư dân quẹt thẻ vào biển mặn. Không mang thú nuôi xuống bãi.

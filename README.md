@@ -1,6 +1,6 @@
 # Kho tri thức Vinhomes Ocean Park 1
 
-Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Trạng thái ngày 30/09/2026: Sapphire, Pavilion, bốn khu thấp tầng và `00-do-thi/` đã điền một phần. Zenpark, Masteri Waterfront và file chung Masterise còn để trống (`trang_thai: chua-thu-thap`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
+Tài liệu này hướng dẫn team thu thập và điền dữ liệu vận hành. Trạng thái ngày 30/09/2026: Sapphire, Pavilion, bốn khu thấp tầng và `00-do-thi/` đã điền một phần. `00-do-thi/` đã có sáu thông báo, nội quy của ban quản lý khu đô thị. Zenpark, Masteri Waterfront và file chung Masterise còn để trống (`trang_thai: chua-thu-thap`). Chỉ điền fact có nguồn và ngày. Không suy từ phân khu khác sang.
 
 Mốc lọc phân khu: 28/09/2026. Chỉ giữ khu đã bàn giao.
 
@@ -25,7 +25,13 @@ kb-ocean-park/
 ├── NGUON.md                                   # khu đã bỏ vì chưa bàn giao
 ├── 00-do-thi/
 │   ├── tien-ich-ho-bien-vincom.md
-│   └── noi-quy-giao-thong.md                  # còn chờ văn bản ban quản lý
+│   ├── quy-dinh-bien-ho-va-ho-ngoc-trai.md    # giờ tắm, vé, câu cá, thuyền
+│   ├── noi-quy-giao-thong.md                  # TB 05/2026/TBC-VHOCP
+│   ├── noi-quy-trong-giu-xe.md                # hiệu lực 02/10/2025
+│   ├── quy-dinh-sac-xe-dien.md                # TB 24/12/2025
+│   ├── quy-dinh-cap-the.md                    # TB 190/2026/TBCT-VHOCP
+│   ├── quy-dinh-do-sanh-va-hang-hoa.md        # TB 134/2026/TBCT-VHOCP
+│   └── thanh-toan-phi-dich-vu.md              # TB 54/2026/TBC-VHOCP
 ├── 01-vinhomes/
 │   ├── sapphire/
 │   │   ├── quy-dinh-chung-dong-sapphire.md    # tổng quan dòng Sapphire
@@ -62,7 +68,7 @@ kb-ocean-park/
 
 Vinhomes vận hành Sapphire, Zenpark, Pavilion và bốn khu thấp tầng. Masterise Property Management vận hành Masteri Waterfront. Hai bộ tài liệu không dùng chung. Phí, ứng dụng, số trực và quy trình xử lý phải lấy đúng đơn vị.
 
-`00-do-thi/` chỉ chứa thông tin chung cả đô thị: tiện ích (hồ Ngọc Trai, biển hồ nước mặn, Vincom, VinUni) và nội quy giao thông nội khu. Không ghi nội quy tòa vào đây.
+`00-do-thi/` chỉ chứa quy định và thông tin áp cho cả đô thị: tiện ích, biển hồ và hồ Ngọc Trai, giao thông, trông giữ xe, sạc xe điện, cấp thẻ, để đồ sảnh, thanh toán phí. Phần lớn là thông báo của ban quản lý khu đô thị (ký hiệu VHOCP), ghi số văn bản ở phần đầu file. Không ghi nội quy riêng của một tòa vào đây. File phân khu chỉ tóm tắt và dẫn về file ở đây, không chép lại toàn bộ.
 
 ## Mỗi phân khu có một file tổng quan và sáu file nghiệp vụ
 

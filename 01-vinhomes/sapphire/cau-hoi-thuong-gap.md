@@ -50,6 +50,11 @@ Vinhomes Resident. Không dùng cổng Masterise.
 
 ## Ban quản lý Sapphire 1 ở đâu?
 
+Thông báo sạc xe điện ngày 24 tháng 12 năm 2025: nhận nhãn tại khối nhà S1.03, khu Sapphire 1. Đây là đầu mối quầy lễ tân cụm đã niêm yết. Nguồn cũ từng ghi trưởng tòa tại S1.02. Khi trả lời hồ sơ thẻ và nhãn xe: S1.03.
+
+Sapphire 2: cùng thông báo ghi khối nhà S2.18.
+
+
 - Văn phòng cụm S1: nội khu tòa S1.03 (nguồn hướng dẫn cư dân)
 - Văn phòng Sapphire 2: S2.18
 - Bài 2025 còn ghi văn phòng ban quản lý dự án tầng 1 tòa S2.18
@@ -77,3 +82,18 @@ Công bố sở hữu lâu dài với người Việt. Tỷ lệ đã cấp từ
 - market.vinhomes.vn bài phí 3 quận Ocean City
 - 9group.com.vn vé tháng 2026
 - thuenhavinhomesoceanpark.com — văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03
+
+## Nuôi thú cưng được không?
+
+Được nuôi chó và mèo theo câu hỏi thường gặp dự án và bài năm 2024. Phải rọ mõm, dây dắt, đăng ký, không thả rông, không làm bẩn sảnh. Bản nội quy gán cho Ocean Park lại cấm chăn thả chó mèo trong căn. Khi trả lời: nuôi cảnh trong căn được nếu đăng ký; thả rông và gia súc thì cấm.
+
+## Cho thuê homestay được không?
+
+Căn hộ Sapphire dùng để ở. Tổ chức nhà nghỉ, khách sạn, homestay trái phép bị cấm trên bản nội quy tòa nhà. Giữ trật tự sau 22 giờ.
+
+
+## Phí dịch vụ thực tế ghi nhận tháng 9 năm 2026
+
+Dòng Sapphire 1 và Sapphire 2: khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. Một số tòa S2.10, S2.17 được ghi 16.000 đồng. Đối chiếu phiếu thu trên ứng dụng từng căn.
+
+Gửi xe và thẻ: xem `00-do-thi/noi-quy-trong-giu-xe.md` và `00-do-thi/quy-dinh-cap-the.md`. Thanh toán chuyển khoản, QR hoặc ứng dụng từ 10 tháng 5 năm 2026.

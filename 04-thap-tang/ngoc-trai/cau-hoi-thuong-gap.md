@@ -15,3 +15,8 @@ Gửi xe: ô tô khoảng 1.250.000 đồng một tháng, xe máy khoảng 45.00
 Hồ bơi: cư dân thấp tầng được Market Vinhomes ghi miễn phí. BBQ thấp tầng thường nằm trong phí hoặc bảng riêng tại vườn nướng.
 
 Ứng dụng: Vinhomes Resident.
+
+
+## Phí ghi nhận tháng 9 năm 2026
+
+Tiểu khu này: 16.000 đồng một mét vuông một tháng theo Market Vinhomes và ghi nhận team. Thanh toán chuyển khoản, mã QR hoặc ứng dụng từ 10 tháng 5 năm 2026. Xem `00-do-thi/thanh-toan-phi-dich-vu.md`.

@@ -18,7 +18,7 @@ Mã tòa trên ứng dụng: S1.01. Không nhầm S1.01 Smart City.
 
 | Việc | Nơi |
 |---|---|
-| Hồ sơ, thẻ, phí, vé xe | Văn phòng ban quản lý cụm S1 — nguồn mở ghi S1.03 |
+| Hồ sơ, thẻ, phí, vé xe, nhãn sạc điện | Quầy lễ tân khối nhà S1.03 theo thông báo 24/12/2025 |
 | Trưởng tòa và bảng thời gian cam kết xử lý S1.01 | Ghi nhận team: văn phòng tại tòa S1.02 |
 | Hotline khu (bài cư dân, kiểm tra còn hiệu lực) | 1900 232 389 nhánh 4; 024 7102 3626 nhánh 4 |
 | Khẩn cấp | 114 / 115 / 113 |

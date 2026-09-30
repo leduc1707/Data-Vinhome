@@ -1,10 +1,9 @@
 ---
 trang_thai: da-thu-thap-mot-phan
 phan_khu: San Hô
+cap_nhat: 2026-09-30
 ---
 
-# Quy định kinh doanh shophouse — San Hô
+# Quy định kinh doanh — San Hô
 
-Kinh doanh mặt phố theo giấy phép từng căn. Không mặc định 100 phần trăm liền kề được bán hàng như Hải Âu.
-
-Biển hiệu, giờ nhận hàng, để hàng trên vỉa hè phải theo nội quy mặt phố. Phòng cháy mặt tiền: bình chữa cháy, lối thoát cửa hàng. Còn phải chụp nội quy kinh doanh niêm yết.
+San Hô là khu mở, sát VinUni. Kinh doanh mặt phố theo giấy phép từng căn. Không mặc định 100 phần trăm liền kề được bán hàng như Hải Âu. Biển hiệu và giờ nhận hàng theo nội quy mặt phố, còn phải chụp bảng.
