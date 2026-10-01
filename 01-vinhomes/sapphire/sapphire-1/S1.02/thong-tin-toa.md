@@ -1,49 +1,73 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: S1.02
-cap_nhat: 2026-09-29
 ---
 
-# Thông tin tòa S1.02 — The Sapphire 1, Vinhomes Ocean Park 1
+# Đầu mối tòa S1.02
 
-Không nhầm với tòa S1.02 Vinhomes Smart City.
+Hồ sơ thẻ, xe và đăng ký thi công nộp tại S1.03. Bảo vệ sảnh máy nội bộ 102. Tổng đài an ninh 0858 001 080.
 
-Tòa S1.02 cùng cụm với S1.01. Nội quy, phí dịch vụ, ứng dụng và cách xử lý sự cố dùng sáu file ở thư mục Sapphire. File trong thư mục này chỉ ghi hiện vật của đúng tòa S1.02.
+File này không ghi giá bán, số căn hay diện tích căn hộ.
 
-## Thông số
+---
 
-| Hạng mục | Giá trị |
-|---|---|
-| Phân khu | The Sapphire 1 |
-| Chiều cao | 27 tầng nổi và 1 tầng hầm |
-| Công năng tầng | Tầng 1 và tầng 2 là shophouse. Tầng 3 đến tầng 27 là căn hộ |
-| Số căn | 550 căn |
-| Mặt bằng điển hình | Chữ L, 22 căn mỗi sàn |
-| Thang máy | 4 thang cư dân, 1 thang hàng, 2 thang bộ thoát hiểm |
-| Loại căn | Studio, một phòng ngủ, một phòng ngủ cộng một, hai phòng ngủ cộng một, ba phòng ngủ |
-| Diện tích | Khoảng 27,8 đến 98,1 mét vuông |
-| Bàn giao | Quý III năm 2020. Một nguồn ghi tháng 11 năm 2020 |
-| Nội thất bàn giao | Cơ bản: gạch ceramic, điều hòa, thiết bị vệ sinh, cửa gỗ công nghiệp chống cháy, intercom |
-| Đường | Hải Đăng, cắt giữa Sapphire 1 và Sapphire 2 |
+# Câu hỏi và trả lời
 
-## Phân bố căn mỗi sàn
+## 1. Tạo phiếu ở đâu?
 
-Nguồn OneHousing ghi theo Vinhomes:
+Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
 
-- Studio 27,8 đến 33,5 mét vuông: 2 căn mỗi sàn
-- Một phòng ngủ khoảng 38 mét vuông: 1 căn mỗi sàn
-- Một phòng ngủ cộng một, 42,9 đến 48,1 mét vuông: 7 căn mỗi sàn
-- Hai phòng ngủ cộng một, một vệ sinh, 55,3 đến 55,6 mét vuông: 2 căn mỗi sàn
-- Hai phòng ngủ cộng một, hai vệ sinh, 62,3 đến 63,6 mét vuông: 7 căn mỗi sàn
-- Ba phòng ngủ, 74,3 đến 98,1 mét vuông: 3 căn mỗi sàn
+## 2. Hồ sơ Sapphire 1 nộp ở đâu?
 
-## Tiếp giáp
+Tại văn phòng tòa S1.03.
 
-Hướng Đông Nam gần tòa S1.01. Hướng Tây Nam gần phân khu Sapphire 2. Hướng Tây Bắc gần khối shop thương mại. Tòa nằm cạnh nhà để xe nổi năm tầng và gần Vinschool.
+## 3. Hồ sơ Sapphire 2 nộp ở đâu?
 
-## Nguồn
+Tại văn phòng tòa S2.18.
 
-- market.vinhomes.vn/toa-nha/s1-02-vinhomes-ocean-park
-- vinhomes.vn bài mặt bằng S1.02
-- OneHousing bài tòa S1.02
-- vinhomesoceanparkgialam.com.vn/toa-s102
+## 4. S1.02 có nhận hồ sơ thẻ xe không?
+
+Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+
+## 5. Pavilion nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+
+## 6. Zenpark nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở.
+
+## 7. Thấp tầng gọi số nào?
+
+0856 001 090.
+
+## 8. Chung cư gọi số nào?
+
+0858 001 080.
+
+## 9. Giờ ban quản lý?
+
+8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+
+## 10. Ngoài giờ thì gọi ai?
+
+Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+
+## 11. Thang kẹt có phải chờ phiếu không?
+
+Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+
+## 12. Có chuyển phiếu sang phân khu khác không?
+
+Không. Phiếu xử lý đúng tòa cư dân đang ở.
+
+## 13. Đóng phí tài khoản nào?
+
+Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+
+## 14. Email hỗ trợ?
+
+info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
+
+## 15. Muốn dừng gửi xe tháng thì báo khi nào?
+
+Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.

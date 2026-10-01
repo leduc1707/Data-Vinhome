@@ -1,15 +1,71 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: S2.01
-cap_nhat: 2026-09-30
 ---
 
-# Số điện thoại trực tòa — S2.01
+# Số trực S2.01
 
-Không ghi số máy lẻ bảo vệ. Gọi an ninh trên ứng dụng Vinhomes Resident: Yêu cầu hỗ trợ, rồi chọn An ninh. Mã tòa S2.01.
+Bảo vệ sảnh máy lẻ 201. Tổng đài an ninh 0858 001 080. Hồ sơ tại S2.18. Cháy 114, cấp cứu 115.
 
-Hồ sơ, thẻ, phí, vé xe: nguồn cư dân ghi văn phòng ban quản lý Sapphire 2 tại tòa S2.18. Hotline khu trên bài cũ: 1900 232 389 nhánh 4. Khẩn cấp 114, 115, 113.
+---
 
-Việc còn phải thu thập: chụp biển hướng dẫn gọi an ninh tại sảnh S2.01.
+# Câu hỏi và trả lời
 
-An ninh cao tầng: 0858 001 080. Hồ sơ cụm Sapphire 2: tòa S2.18.
+## 1. Tạo phiếu ở đâu?
+
+Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+
+## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+
+Tại văn phòng tòa S1.03.
+
+## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+
+Tại văn phòng tòa S2.18.
+
+## 4. S1.02 có nhận hồ sơ thẻ xe không?
+
+Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+
+## 5. Pavilion nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+
+## 6. Zenpark nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở.
+
+## 7. Thấp tầng gọi số nào?
+
+0856 001 090.
+
+## 8. Chung cư gọi số nào?
+
+0858 001 080.
+
+## 9. Giờ ban quản lý?
+
+8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+
+## 10. Ngoài giờ thì gọi ai?
+
+Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+
+## 11. Thang kẹt có phải chờ phiếu không?
+
+Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+
+## 12. Có chuyển phiếu sang phân khu khác không?
+
+Không. Phiếu xử lý đúng tòa cư dân đang ở.
+
+## 13. Đóng phí tài khoản nào?
+
+Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+
+## 14. Email hỗ trợ?
+
+info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
+
+## 15. Muốn dừng gửi xe tháng thì báo khi nào?
+
+Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.

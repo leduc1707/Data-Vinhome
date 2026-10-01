@@ -1,31 +1,71 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: S1.01
-cap_nhat: 2026-09-29
 ---
 
-# Sơ đồ hầm gửi xe — S1.01
+# Chỗ đỗ tòa S1.01
 
-Sơ đồ từng slot không public. Lấy PDF trên ứng dụng (Tài liệu cư dân) hoặc chụp bảng mica trong hầm S1.01.
+Hầm một tầng. Ô tô cư dân dãy A01 đến A40 gần thang 1. Xe máy dãy M gần thang hàng. Khách dãy K sát lối ra. Tốc độ tối đa 5 km một giờ. Không khóa cổ xe máy. Sạc đúng ổ có biển, không quá 8 giờ.
 
-## Hiện vật đã có
+---
 
-- 1 tầng hầm của tòa
-- Nhà xe nổi 5 tầng cụm Sapphire 1 kề tòa
-- Vé tháng đăng ký ban quản lý hoặc ứng dụng
-- Bảng phí công khai 2024–2026: ô tô khoảng 1.250.000 đồng/tháng; xe máy khoảng 45.000 đồng/tháng
+# Câu hỏi và trả lời
 
-Không đổ xăng, không sửa xe, không rửa xe trong hầm. Sạc xe điện đúng ổ được cấp.
+## 1. Nội quy xe có hiệu lực từ ngày nào?
 
-## Việc team phải chụp
+Ngày 2 tháng 10 năm 2025.
 
-- Ảnh bảng mica sơ đồ slot hầm S1.01
-- PDF sơ đồ hầm trên ứng dụng
-- Vị trí cổng vào hầm, lối bộ, chỗ sạc
+## 2. Tốc độ trong bãi tối đa?
 
-Không đánh số chỗ đỗ nếu chưa có ảnh.
+5 km một giờ.
 
-## Nguồn
+## 3. Xe máy có được khóa cổ không?
 
-- vinhomesland.vn, market.vinhomes.vn — 1 hầm
-- Cách lấy sơ đồ slot: ghi nhận team 29/09/2026
+Không.
+
+## 4. Xe vãng lai giữ tối đa bao lâu?
+
+30 ngày.
+
+## 5. Sạc tối đa bao lâu?
+
+8 giờ, không qua đêm.
+
+## 6. Muốn dừng gửi tháng thì báo khi nào?
+
+Trước ngày 25 bằng văn bản.
+
+## 7. Quên thẻ tháng thì tính sao?
+
+Tính theo giá lượt.
+
+## 8. Ô tô tháng bao nhiêu?
+
+Khoảng 1.250.000 đồng.
+
+## 9. Xe máy tháng bao nhiêu?
+
+Khoảng 40.000 đến 45.000 đồng.
+
+## 10. Đỗ sai khoảng bao nhiêu?
+
+Ghi nhận cư dân khoảng 452.000 đồng.
+
+## 11. Phí mở lại dịch vụ?
+
+462.000 đồng, không gộp với phí đỗ sai.
+
+## 12. Khách không đăng ký trước thì sao?
+
+Tính 20.000 đồng giờ đầu.
+
+## 13. Khách có được cắm ổ cư dân không?
+
+Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
+
+## 14. Thuê bao sạc xe máy điện?
+
+165.000 đồng một tháng.
+
+## 15. Xe bị cẩu gọi ai?
+
+0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.

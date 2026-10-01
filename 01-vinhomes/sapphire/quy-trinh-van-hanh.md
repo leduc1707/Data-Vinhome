@@ -1,53 +1,78 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 phan_khu: The Sapphire
-cap_nhat: 2026-09-29
+cap_nhat: 2026-10-01
 ---
 
-# Quy trình vận hành — The Sapphire
+# Cách tiếp nhận và xử lý việc của cư dân Sapphire
 
-SOP gốc của Vinhomes không công khai. Khung tiếp nhận sự cố theo cách cư dân thực tế báo việc.
+Cư dân tạo phiếu trên ứng dụng Vinhomes Resident và ghi đúng mã tòa, tầng, số căn, số điện thoại và ảnh. Việc khẩn ở sảnh thì gọi thêm 0858 001 080. Cháy gọi 114. Cấp cứu gọi 115.
 
-## Đầu mối
+Hồ sơ thẻ, xe, phí và đăng ký thi công của Sapphire 1 nộp tại S1.03. Của Sapphire 2 nộp tại S2.18. Tòa S1.02 là nơi cư dân hay nộp tạm trú và nơi trưởng tòa ngồi, không nhận thay hồ sơ cụm.
 
-1. Ứng dụng Vinhomes Resident: tạo phiếu, ảnh, mã tòa (ví dụ S1.01), tầng, số căn.
-2. Bảo vệ sảnh tòa: sự cố đang xảy ra tại chỗ.
-3. Văn phòng ban quản lý cụm S1 tại S1.03: hồ sơ, phí, thẻ, khiếu nại hành chính.
-4. Hotline khu đô thị: ngoài giờ, khẩn.
+Thang máy kẹt người là việc ưu tiên, bảo vệ và kỹ thuật phải có mặt ngay. Người trong cabin không tự cạy cửa. Số tạm thời gian lên sảnh là 5 đến 10 phút. Rò nước hoặc mất điện trong căn có khung có mặt 15 đến 30 phút theo ghi nhận quy chế năm 2024. Thời gian cam kết đúng từng tòa lấy bảng dán ở sảnh, team sẽ gắn ảnh khi chụp.
 
-Không chuyển phiếu Sapphire sang lễ tân Masteri Waterfront.
+Giờ làm việc ban quản lý trên bài cư dân là 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy. Ngoài giờ thì gọi an ninh và bảo vệ trực.
 
-## Mức ưu tiên
+---
 
-| Mức | Ví dụ | Việc đầu |
-|---|---|---|
-| P1 | Cháy, khói, người kẹt thang, nước lan nhiều căn, gas | Hiện trường + 114/115. Không chờ phiếu. |
-| P2 | Mất nước cả tầng, một cabin thang dừng, cửa sảnh không khóa | Kỹ thuật trong ca. |
-| P3 | Đèn hành lang, thẻ lỗi một căn | Trong ngày hoặc ca sau. |
-| P4 | Hỏi phí, giờ hồ bơi | Trả lời FAQ, không tạo lệnh sửa. |
+# Câu hỏi và trả lời
 
-## Thời gian cam kết xử lý kỹ thuật
+## 1. Tạo phiếu ở đâu?
 
-Không công khai trên mạng. Ghi nhận team 29/09/2026:
+Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
 
-- Thang máy kẹt người: ưu tiên 1, có mặt ngay.
-- Rò nước / mất điện căn hộ: khung 15–30 phút theo quy chế 05/2024 được nêu.
-- Thời gian cam kết riêng tòa S1.01: hỏi trưởng tòa, bảng cam kết dán sảnh. Ghi nhận team: văn phòng trưởng tòa tại S1.02.
+## 2. Hồ sơ Sapphire 1 nộp ở đâu?
 
-Bảng thời gian cam kết của tòa S1.01 chưa có ảnh trong kho. Chụp bảng sảnh rồi đưa vào đây.
+Tại văn phòng tòa S1.03.
 
-## Tiếp nhận
+## 3. Hồ sơ Sapphire 2 nộp ở đâu?
 
-Ghi đủ mã tòa, tầng, căn, số điện thoại, mức khẩn, mô tả, ảnh. Không hứa giờ xong nếu kỹ thuật chưa nhận. Phân biệt sự cố khu chung (thang, ống đứng, sảnh) và sự cố trong căn hết bảo hành.
+Tại văn phòng tòa S2.18.
 
-Giờ hành chính nguồn cư dân: 8h30–17h30 Thứ 2 đến Thứ 7. Ngoài giờ dùng hotline và bảo vệ.
+## 4. S1.02 có nhận hồ sơ thẻ xe không?
 
-Văn phòng hồ sơ cụm S1 từng được ghi tại S1.03. Ghi nhận team: trưởng tòa S1.01 làm việc tại S1.02. Hai đầu mối khác nhau, không gộp thành một.
+Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
 
-## Nguồn
+## 5. Pavilion nộp hồ sơ ở đâu?
 
-- canhovinhomes.info — văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03
-- Thời gian cam kết và văn phòng trưởng tòa tại S1.02: ghi nhận team 29/09/2026
+Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
 
+## 6. Zenpark nộp hồ sơ ở đâu?
 
-Hồ sơ Sapphire 1 nộp S1.03. Hồ sơ Sapphire 2 nộp S2.18. An ninh 0858 001 080. Kẹt thang: intercom hoặc báo cháy, gọi 114 và số an ninh, không cạy cửa.
+Tại lễ tân sảnh tòa mình ở.
+
+## 7. Thấp tầng gọi số nào?
+
+0856 001 090.
+
+## 8. Chung cư gọi số nào?
+
+0858 001 080.
+
+## 9. Giờ ban quản lý?
+
+8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+
+## 10. Ngoài giờ thì gọi ai?
+
+Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+
+## 11. Thang kẹt có phải chờ phiếu không?
+
+Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+
+## 12. Có chuyển phiếu sang phân khu khác không?
+
+Không. Phiếu xử lý đúng tòa cư dân đang ở.
+
+## 13. Đóng phí tài khoản nào?
+
+Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+
+## 14. Email hỗ trợ?
+
+info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
+
+## 15. Muốn dừng gửi xe tháng thì báo khi nào?
+
+Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.

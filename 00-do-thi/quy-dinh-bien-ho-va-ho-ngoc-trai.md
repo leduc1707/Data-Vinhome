@@ -1,50 +1,83 @@
 ---
-trang_thai: da-thu-thap-mot-phan
-pham_vi: toan-do-thi Ocean Park 1
-cap_nhat: 2026-09-30
-nguon: cam-nang-tien-ich Ocean Park 1; bang noi quy dan cong vao bai bien / bien ho Vinhomes
+cap_nhat: 2026-10-01
 ---
 
-# Quy định bãi biển nhân tạo — Vinhomes Ocean Park 1
+# Biển mặn và hồ Ngọc Trai
 
-Áp dụng cả đô thị. Không gắn vào một tòa. Giờ và vé lấy bảng đang dán cổng. File này ghi theo cẩm nang tiện ích Ocean Park 1 và bảng nội quy hồ bơi, biển hồ chung của Vinhomes do team đối chiếu.
+Ocean Park 1 có hai mặt nước khác nhau, không dùng chung một quy định.
 
-## Hai bãi
+Biển hồ nước mặn rộng khoảng 6,1 hecta. Nước mặn được xử lý theo công nghệ Crystal Lagoons, cát trắng được chuyển từ Nha Trang. Đây là nơi được tắm. Cửa mở từ 9 giờ đến 18 giờ mỗi ngày và có cứu hộ. Ngoài giờ này không được bơi. Cư dân quẹt thẻ là vào. Khách ngoài mua vé tại cổng.
 
-Biển hồ nước mặn rộng khoảng 6,1 hecta. Được công bố là biển hồ nước mặn lớn nhất Việt Nam. Nước mặn pha theo công nghệ Crystal Lagoons. Cát trắng vận chuyển từ Nha Trang.
+Hồ Ngọc Trai rộng khoảng 24,5 hecta, là hồ nước ngọt trải cát trắng. Hồ này để đi dạo và thả diều, không phải chỗ tắm. Vào hồ không mất vé, cả cư dân và khách ngoài.
 
-Hồ Ngọc Trai rộng khoảng 24,5 hecta. Được công bố là hồ nước ngọt trải cát trắng nhân tạo lớn nhất Việt Nam. Đây là hồ nước ngọt, không phải biển mặn.
+Khi tắm ở biển mặn, anh chị mặc đồ bơi và tắm tráng trước khi xuống. Trẻ dưới 12 tuổi phải có người lớn đi cùng. Không nhảy cắm đầu. Không bơi khi vừa ăn no hoặc đã uống rượu bia. Không mang đồ ăn xuống cát ướt, trừ nước uống. Không mang vật nuôi xuống bãi. Không chạy nhảy đùa giỡn trên khu đang có người tắm. Ghi nhận thêm là khu nông hơn 1,4 mét không được nhảy. Ý này lấy theo bảng cổng nếu biển ghi khác.
 
-## Giờ hoạt động
+Câu cá chỉ ở chòi được phép ven hồ Ngọc Trai. Không câu ở biển mặn. Đạp vịt và kayak phải đăng ký và mặc áo phao. Số tạm vé kayak là 100.000 đồng một người và 200.000 đồng một đôi, khung giờ 9 giờ đến 12 giờ và 14 giờ đến 17 giờ. Bếp nướng đặt trên ứng dụng. Số tạm là 200.000 đồng một bếp, khoảng năm người, trong hai giờ.
 
-Biển mặn mở cửa tắm từ 9 giờ đến 18 giờ hằng ngày, có cứu hộ trực. Ngoài khung này cấm bơi.
+Không xả rác xuống cát và xuống hồ. Không dẫm thảm cỏ cảnh quan, không hái hoa. Không tự chuyển ghế, ô và phao cứu sinh của ban quản lý.
 
-Hồ Ngọc Trai được đi dạo và thả diều. Không tắm ở hồ Ngọc Trai.
+Phí hồ bơi trong phân khu Sapphire là khoản riêng, không lẫn với vé cổng biển mặn.
 
-## Bơi
+---
 
-Phải mặc đồ bơi. Tắm tráng trước khi xuống nước. Trẻ em dưới 12 tuổi phải có người lớn đi kèm.
+# Câu hỏi và trả lời
 
-Cấm nhảy cắm đầu. Cấm bơi khi vừa ăn no hoặc đã uống rượu bia. Cấm mang đồ ăn thức uống xuống cát ướt, trừ nước uống.
+## 1. Phí dịch vụ Sapphire bao nhiêu?
 
-## Câu cá và thuyền
+Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
 
-Chỉ câu tại các chòi câu quy định ven hồ Ngọc Trai. Không câu ở biển mặn.
+## 2. Phí Pavilion từng tòa?
 
-Đạp vịt và chèo kayak phải đăng ký và mặc áo phao.
+P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
 
-## Vệ sinh và cảnh quan
+## 3. Phí Zenpark bao nhiêu?
 
-Cấm xả rác ra bãi cát và hồ. Cấm mang vật nuôi xuống bãi biển. Cấm dẫm thảm cỏ cảnh quan. Không hái hoa, bẻ cành.
+Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
 
-## An toàn
+## 4. Phí thấp tầng bao nhiêu?
 
-Khu cát trắng để đi bộ, xây lâu đài cát, thả diều. Không tự ý di chuyển ghế, ô, phao cứu sinh của ban quản lý.
+Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
 
-## Vé
+## 5. Hồ bơi Sapphire có miễn phí không?
 
-Hồ Ngọc Trai miễn phí cho cư dân và khách ngoài.
+Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
 
-Biển mặn: cư dân quẹt thẻ cư dân, không mất vé. Khách ngoài mua vé tại cổng do ban quản lý thu.
+## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
 
-Bảng phí hồ bơi phân khu Sapphire trên Market Vinhomes là chuyện khác, không lẫn với vé cổng biển mặn.
+Được ghi miễn phí hồ bơi phân khu.
+
+## 7. Gym Sapphire ở đâu?
+
+Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
+
+## 8. Xe tháng hết bao nhiêu?
+
+Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+
+## 9. Sạc xe điện hết bao nhiêu?
+
+Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
+
+## 10. Làm thẻ cư dân mất bao nhiêu?
+
+Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
+
+## 11. Được mấy thẻ?
+
+Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
+
+## 12. Đóng phí bằng tiền mặt được không?
+
+Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
+
+## 13. Xe buýt nội khu có mất phí không?
+
+Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
+
+## 14. Biển mặn cư dân vào thế nào?
+
+Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
+
+## 15. Hồ Ngọc Trai có được tắm không?
+
+Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.

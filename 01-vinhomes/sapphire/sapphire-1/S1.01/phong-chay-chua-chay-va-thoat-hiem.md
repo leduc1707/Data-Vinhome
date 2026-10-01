@@ -1,33 +1,71 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: S1.01
-cap_nhat: 2026-09-29
 ---
 
-# Phòng cháy chữa cháy và thoát hiểm — S1.01
+# Thoát hiểm tòa S1.01
 
-Bản PDF sơ đồ thoát nạn có dấu đỏ không public. Lấy trong ứng dụng Vinhomes Resident: chọn căn S1.01 > Tài liệu bàn giao / Cẩm nang PCCC. Bản giấy: bảng mica cạnh cụm thang máy sảnh S1.01, ghi 2 thang bộ trên mặt bằng chữ L.
+Hai thang bộ ở hai đầu hành lang. Không có gian lánh nạn giữa nhà, thoát xuống đất. Điểm tập kết là sân trước sảnh. Tấm mica dán cạnh thang máy. Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
 
-## Hiện vật đã đối chiếu nguồn mở
+---
 
-- 27 tầng nổi + 1 tầng hầm
-- Tầng 1–2 shophouse, tầng 3–27 căn hộ
-- Layout chữ L, 22 căn/sàn, 550 căn
-- 4 thang cư dân + 1 thang hàng
-- 2 thang bộ thoát hiểm
+# Câu hỏi và trả lời
 
-Khi cháy không dùng thang máy. Xuống 2 thang bộ. Điểm tập kết đọc biển sảnh.
+## 1. Khi chuông cháy có được dùng thang máy không?
 
-## Việc team phải chụp
+Không. Đi thang bộ theo biển thoát hiểm.
 
-- Ảnh bảng mica sơ đồ thoát hiểm sảnh S1.01
-- PDF cẩm nang PCCC trên ứng dụng
-- Tầng lánh nạn nếu biển có ghi
-- Họng nước, tủ cứu hỏa, điểm tập kết ngoài nhà
+## 2. Điểm tập kết ở đâu?
 
-Không vẽ sơ đồ giả từ mặt bằng bán hàng.
+Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
 
-## Nguồn
+## 3. Có được bịt đầu báo khói không?
 
-- vinhomesland.vn, market.vinhomes.vn — số tầng, số thang
-- Cách lấy sơ đồ: ghi nhận team 29/09/2026
+Không.
+
+## 4. Xe điện sạc trong căn được không?
+
+Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
+
+## 5. Có được cất xăng trong hầm không?
+
+Không.
+
+## 6. Gian lánh nạn Pavilion ở tầng nào?
+
+Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
+
+## 7. Gian lánh nạn Zenpark ở tầng nào?
+
+Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
+
+## 8. Sapphire có gian lánh nạn giữa nhà không?
+
+Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
+
+## 9. Trẻ ra biển có cần người lớn không?
+
+Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
+
+## 10. Có được mang chó xuống bãi không?
+
+Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
+
+## 11. Có được nhảy cắm đầu ở biển mặn không?
+
+Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
+
+## 12. Giờ tắm biển mặn?
+
+Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
+
+## 13. Khóa cổ xe máy trong hầm được không?
+
+Không, vì bảo vệ cần đẩy xe khi có sự cố.
+
+## 14. Tốc độ trong hầm tối đa bao nhiêu?
+
+5 km một giờ.
+
+## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
+
+Trong 3 phút sau khi chuông kêu.

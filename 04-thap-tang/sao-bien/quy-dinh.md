@@ -1,31 +1,78 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 phan_khu: Sao Biển
-cap_nhat: 2026-09-30
+cap_nhat: 2026-10-01
 ---
 
-# Quy định — Sao Biển
+# Quy định cư dân Sao Biển
 
-Khu thấp tầng Ocean Park 1, vận hành Vinhomes. Ứng dụng Vinhomes Resident. Không có tòa chung cư. Sáu file này dùng cho cả tiểu khu.
+Sao Biển là khu mở, sát Vincom và biển mặn. Phí quản lý là 14.000 đồng một mét vuông một tháng. An ninh thấp tầng là 0856 001 090. Hồ sơ nộp tại quầy nhà xe hoặc lễ tân thương mại Sao Biển, không nộp ở S1.03.
 
-Sao Biển là khu mở, nhiều shophouse, sát biển hồ nước mặn và Vincom Mega Mall. Nhịp sống thương mại sầm uất hơn Ngọc Trai.
+Khách vào được mặt phố, không chiếm vỉa hè và không đỗ chắn cửa. Shophouse được kinh doanh đúng ngành trên giấy phép. Tầng ở phía trên vẫn phải yên tĩnh sau 22 giờ.
 
-Cải tạo mặt đứng, mái, tường rào phải xin ban quản lý. Không cơi nới trái phép. Giờ ồn thông dụng khoảng 22 giờ đến 6 giờ.
+Sửa nhà không làm trước 7 giờ sáng và không làm sau 22 giờ. Việc đục ồn chỉ làm ngày thường. Đất thải không đổ ra đường. Mái, tường rào và mặt tiền phải có bản vẽ được duyệt. Biển hiệu ngang cao tối đa 2 mét và không dài hơn mặt tiền. Biển dọc rộng tối đa 1 mét, cao tối đa 4 mét.
 
-Thú nuôi: đăng ký, rọ mõm, dây dắt, không thả rông công viên nội khu, dọn vệ sinh. Nhắc lần một và lần hai. Lần ba lập biên bản. Có thể trừ điểm ứng dụng và cắt tiện ích nếu tái phạm.
+Chó phải đăng ký, rọ mõm và dây dắt khi ra đường, không thả rông, không xuống bãi cát. Số tạm cho biệt thự là tối đa hai con, dưới 20 kg, không phải giống chó dữ.
 
-Hồ sơ và khiếu nại nộp văn phòng ban quản lý thấp tầng hoặc trên ứng dụng. Số máy lẻ bảo vệ cổng không public.
+---
 
-## Quy định riêng thấp tầng Ocean Park 1
+# Câu hỏi và trả lời
 
-Cải tạo biệt thự và shophouse phải đăng ký ban quản lý, nộp bản vẽ, ký nội quy thi công, đặt cọc. Cấm đụng hộp kỹ thuật. Không thi công trước 7 giờ hoặc sau 22 giờ. Việc gây ồn thường chỉ làm ban ngày các ngày trong tuần. Phế thải để trong công trường rồi chở đi, không chất đống ra đường.
+## 1. Căn hộ có được cho thuê theo ngày không?
 
-Biển hiệu mặt phố theo Luật Quảng cáo: ghi tên đúng giấy phép, địa chỉ, điện thoại. Biển ngang cao tối đa 2 mét, dài không vượt mặt tiền. Biển dọc ngang tối đa 1 mét, cao tối đa 4 mét và không vượt tầng đặt biển.
+Không. Căn để ở. Homestay, nhà nghỉ và karaoke trong căn đều bị cấm.
 
-Khách vào Ngọc Trai phải qua cổng compound. Hải Âu: liền kề được phép kinh doanh nếu đúng ngành nghề và giấy phép. Không suy quyền đó cho biệt thự đơn lập nếu văn bản không cho.
+## 2. Nuôi chó có phải đăng ký không?
 
-## Nguồn bổ sung
+Có. Chó mèo cảnh phải đăng ký, rọ mõm, dây dắt và bế qua sảnh. Không thả rông.
 
-- tongthaubietthu.com.vn đăng ký thi công Ocean Park
-- noithatkendesign.vn quy định thi công biệt thự Vinhomes 2026
-- Luật Quảng cáo về biển hiệu
+## 3. Chó phóng uế bị phạt bao nhiêu?
+
+Mức đang áp là 100.000 đến 300.000 đồng, cộng nhắc nội bộ. Lần ba có thể bị ngừng tiện ích.
+
+## 4. Mấy giờ thì không được gây ồn?
+
+Sau 22 giờ đến 6 giờ sáng không karaoke, không mở loa lớn và không đục tường.
+
+## 5. Sửa nhà gây ồn được làm giờ nào?
+
+Từ 8 giờ 30 đến 11 giờ 30 và từ 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu.
+
+## 6. Có được cơi nới ban công không?
+
+Không. Không lắp lồng sắt trái phép và không vứt rác từ ban công.
+
+## 7. Hành lang có được để xe không?
+
+Không. Hành lang và thang bộ là đường thoát nạn, không để xe, tủ hay đồ cũ.
+
+## 8. Có được tự lắp camera quay hành lang không?
+
+Không. Camera không được quay sang căn khác hoặc quay hành lang.
+
+## 9. Để hàng ở sảnh có được không?
+
+Không. Thông báo ngày 15 tháng 5 năm 2026 cấm để hàng ở sảnh.
+
+## 10. Vi phạm để đồ sảnh thì sao?
+
+Nhắc, lập biên bản, rồi có thể ngừng dịch vụ. Phí mở lại là 462.000 đồng.
+
+## 11. Khách vào nhà có phải khai báo không?
+
+Có. Khách đăng ký trước trên ứng dụng hoặc khai báo tại sảnh.
+
+## 12. Một căn chung cư được nuôi mấy chó?
+
+Một con, dưới 10 kg, không thuộc giống chó dữ.
+
+## 13. Biệt thự được nuôi mấy chó?
+
+Tối đa hai con, mỗi con dưới 20 kg, không phải giống chó dữ.
+
+## 14. Có được chuyển đồ lúc cao điểm không?
+
+Tránh 7 giờ đến 9 giờ và 17 giờ đến 19 giờ. Đồ cồng kềnh đi thang hàng.
+
+## 15. Đưa xe máy lên căn bằng thang có được không?
+
+Không. Xe đạp điện và xe máy điện không được lên căn.

@@ -1,16 +1,73 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: R1.03
-phan_khu: The Zen Park
-cap_nhat: 2026-09-30
 ---
 
-# Thông tin tòa R1.03 — The Zen Park
+# Đầu mối tòa R1.03
 
-Bàn giao khoảng tháng 11 năm 2021.
+Hồ sơ thẻ, xe và đăng ký thi công nộp tại lễ tân sảnh R1.03. Bảo vệ sảnh máy nội bộ 403. Tổng đài an ninh 0858 001 080.
 
-OneHousing: 31 tầng nổi và một hầm. Tầng một và tầng hai shophouse. Tầng ba đến 19 và 21 đến 31 căn hộ. Tầng 20 vừa căn hộ vừa gian lánh nạn. 594 căn. 20 căn mỗi sàn. Sáu thang khách và một thang hàng.
+File này không ghi giá bán, số căn hay diện tích căn hộ.
 
-Phân bố mỗi sàn theo OneHousing: studio 27 đến 28 mét vuông ba căn; một phòng ngủ 41 đến 44,8 mét vuông bốn căn; một phòng ngủ cộng một 49 đến 50,9 mét vuông năm căn; hai phòng ngủ 66,5 đến 70,2 mét vuông ba căn; hai phòng ngủ cộng một khoảng 73 mét vuông hai căn; ba phòng ngủ 75,8 đến 77,3 mét vuông hai căn; ba phòng ngủ cộng một khoảng 90,5 mét vuông một căn.
+---
 
-Nội quy và phí dùng file chung Zenpark.
+# Câu hỏi và trả lời
+
+## 1. Tạo phiếu ở đâu?
+
+Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+
+## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+
+Tại văn phòng tòa S1.03.
+
+## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+
+Tại văn phòng tòa S2.18.
+
+## 4. S1.02 có nhận hồ sơ thẻ xe không?
+
+Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+
+## 5. Pavilion nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+
+## 6. Zenpark nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở.
+
+## 7. Thấp tầng gọi số nào?
+
+0856 001 090.
+
+## 8. Chung cư gọi số nào?
+
+0858 001 080.
+
+## 9. Giờ ban quản lý?
+
+8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+
+## 10. Ngoài giờ thì gọi ai?
+
+Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+
+## 11. Thang kẹt có phải chờ phiếu không?
+
+Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+
+## 12. Có chuyển phiếu sang phân khu khác không?
+
+Không. Phiếu xử lý đúng tòa cư dân đang ở.
+
+## 13. Đóng phí tài khoản nào?
+
+Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+
+## 14. Email hỗ trợ?
+
+info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
+
+## 15. Muốn dừng gửi xe tháng thì báo khi nào?
+
+Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.

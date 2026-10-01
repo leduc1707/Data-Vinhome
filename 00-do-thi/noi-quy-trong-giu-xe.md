@@ -1,55 +1,89 @@
 ---
-trang_thai: da-thu-thap-mot-phan
-van_ban: Noi quy trong giu xe Vinhomes Ocean Park
+van_ban: Nội quy trông giữ xe Vinhomes Ocean Park
 hieu_luc: 2025-10-02
-cap_nhat: 2026-09-30
+cap_nhat: 2026-10-01
 ---
 
-# Nội quy trông giữ xe — Ocean Park 1
+# Nội quy trông giữ xe
 
-Bảng mica niêm yết. Đơn vị trông giữ xe: Công ty cổ phần Đầu tư và Phát triển Sinh Thái, mã số doanh nghiệp 0900222333. Hotline 1900 2323 89 nhánh 4. Email info@vinhomes.vn. Có hiệu lực từ 2 tháng 10 năm 2025.
+Bảng mica tại khu gửi xe có hiệu lực từ ngày 2 tháng 10 năm 2025. Đơn vị trông giữ là Công ty cổ phần Đầu tư và Phát triển Sinh Thái, mã số doanh nghiệp 0900222333. Hotline là 1900 2323 89, nhánh 4. Email là info@vinhomes.vn.
 
-## Nhận xe
+Khi vào bãi, anh chị lấy thẻ hoặc quẹt thẻ. Khi ra, trả thẻ hoặc quẹt lại, trừ trường hợp cổng đã nhận diện biển số. Xe để đúng ô, đúng vạch. Tốc độ trong bãi không quá 5 km một giờ. Không bấm còi, không hút thuốc, không mang chất dễ cháy. Xe rò xăng hoặc rò dầu thì không được vào.
 
-Xe vãng lai không đăng ký tháng chỉ được giữ tối đa 30 ngày. Hết hạn không nhận lại được coi là bỏ quyền với xe và tài sản trên xe.
+Xe máy, xe máy điện và xe đạp điện không khóa cổ, không khóa càng, vì bảo vệ cần đẩy xe khi có sự cố. Không rửa xe và không sửa xe trong bãi, trừ khi xe hỏng đột xuất và không đẩy ra ngoài được. Không cho người khác mượn chỗ đỗ, không sang nhượng chỗ đỗ, không đưa xe đã gửi lên căn hộ.
 
-Lấy thẻ hoặc quẹt thẻ khi vào, trả hoặc quẹt khi ra, trừ hệ thống nhận diện tự động. Đỗ đúng ô, đúng vạch. Tốc độ trong khu vực gửi xe không quá 5 km/h.
+Xe vãng lai chỉ được giữ tối đa 30 ngày. Hết hạn mà không nhận, đơn vị coi như người gửi đã bỏ xe và đồ trên xe.
 
-Sạc pin đúng vị trí đã đăng ký thuê bao. Không sạc qua đêm hoặc quá 8 giờ liên tục.
+Sạc pin chỉ tại ổ đã đăng ký. Không sạc qua đêm và không sạc quá 8 giờ liên tục.
 
-Không bấm còi, không gây ồn. Không hút thuốc. Không mang vũ khí, chất nổ, chất dễ cháy. Không để xe rò xăng, dầu.
+Đơn vị được từ chối xe nếu thẻ không hợp lệ, xe bốc khói hoặc có nguy cơ cháy, người gửi đang say, bãi đã hết chỗ, hoặc có lý do an ninh khác. Vi phạm đến lần thứ ba thì có thể bị ngừng gửi xe.
 
-Không rửa xe, không sửa xe tại khu vực gửi, trừ hư hỏng đột xuất không thể đẩy ra ngoài. Không khóa cổ, khóa càng với xe máy, xe máy điện, xe đạp điện. Biển trong hầm cũng ghi không khóa cổ, khóa càng.
+Xe gửi tháng được cấp thẻ tháng. Khách vãng lai dùng thẻ lượt và trả lại khi ra. Nếu quên thẻ tháng, đi xe khác, hoặc chậm đóng phí tháng, thì tính theo giá lượt. Muốn dừng gửi tháng, anh chị báo bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng các tháng sau cho đến khi đơn vị nhận được văn bản.
 
-Không cho mượn, cho thuê, chuyển nhượng vị trí đỗ. Không mang xe đã gửi lên căn hộ.
+Mất thẻ hoặc mất chìa do chủ xe thì đơn vị không bồi thường. Mất xe hoặc hỏng xe do lỗi đơn vị thì đơn vị bồi thường theo giá thị trường hoặc chi phí sửa chữa. Hai bên cùng lỗi mà không thống nhất tỷ lệ thì đơn vị chịu 50 phần trăm.
 
-Đơn vị được từ chối nhận xe nếu thẻ không hợp lệ; xe thải khói nhiều, cháy dầu, nguy cơ cháy nổ; người gửi say rượu bia hoặc chất kích thích; hết chỗ; hoặc lý do an ninh, vệ sinh khác.
+Cư dân phản ánh đỗ sai có thể bị khóa bánh và mức khoảng 452.000 đồng. Khoản 462.000 đồng trên thông báo tháng 5 năm 2026 là phí mở lại dịch vụ khi vi phạm khác, không gộp với phí đỗ sai. Xe bị cẩu thì gọi 0858 001 080 hoặc 0856 001 090 để hỏi bãi, rồi ra S1.03 hoặc S2.18 làm thủ tục. Có ghi nhận miễn phí năm giờ một ngày và miễn xe điện VinFast đã hết từ ngày 1 tháng 7 năm 2026. Hai ý này chờ bảng phí chụp tại cổng.
 
-Vi phạm đến lần thứ ba: đơn vị có quyền từ chối hoặc ngừng dịch vụ trông giữ.
+---
 
-## Thẻ xe
+# Câu hỏi và trả lời
 
-Xe gửi thường xuyên được cấp thẻ tháng. Khách vãng lai được cấp thẻ lượt và thu lại khi ra, trừ nhận diện tự động.
+## 1. Nội quy xe có hiệu lực từ ngày nào?
 
-Gửi thường xuyên nhưng đi xe khác, làm mất hoặc quên thẻ tháng, hoặc chậm thanh toán phí tháng: dùng thẻ lượt và trả phí lượt.
+Ngày 2 tháng 10 năm 2025.
 
-Muốn dừng gửi tháng: thông báo bằng văn bản trước ngày 25 hàng tháng. Không báo vẫn phải trả phí các tháng tiếp theo cho đến khi đơn vị nhận được văn bản.
+## 2. Tốc độ trong bãi tối đa?
 
-Mất thẻ hoặc chìa do khách hàng: đơn vị không chịu trách nhiệm. Mất thẻ tháng hoặc chìa giả: báo ngay để phòng ngừa mất xe.
+5 km một giờ.
 
-Đổi thông tin đã đăng ký trên thẻ tháng: báo trước ít nhất 24 giờ. Cập nhật trong khoảng 2 ngày làm việc. Thời gian chờ vẫn áp quy định thẻ.
+## 3. Xe máy có được khóa cổ không?
 
-Làm lại thẻ: liên hệ đơn vị và trả phí cấp lại theo thông báo.
+Không.
 
-## Bồi thường
+## 4. Xe vãng lai giữ tối đa bao lâu?
 
-Khách hàng bồi thường hư hỏng, thiệt hại do mình hoặc người mình gửi gây ra.
+30 ngày.
 
-Đơn vị bồi thường mất mát, hư hỏng xe do lỗi của đơn vị. Mất toàn bộ xe do lỗi đơn vị: bồi thường theo giá thị trường tài sản cùng loại và tình trạng lúc mất. Hư hỏng toàn bộ do lỗi đơn vị: trả chi phí sửa chữa, khôi phục; đơn vị được chọn gara; xe không sửa được thì xử như mất toàn bộ. Hai bên cùng lỗi mà không thống nhất tỷ lệ: đơn vị bồi thường 50 phần trăm thiệt hại xác định theo các mục trên. Đơn vị không bồi thường nếu mất thẻ, chìa do khách hoặc chìa bị làm giả không phải lỗi đơn vị.
+## 5. Sạc tối đa bao lâu?
 
+8 giờ, không qua đêm.
 
-## Ghi nhận team về phí và cẩu xe
+## 6. Muốn dừng gửi tháng thì báo khi nào?
 
-Tài liệu team: đỗ sai có thể bị khóa bánh và mức khoảng 452.000 đồng. Phí khôi phục dịch vụ trên thông báo 134/2026 là 462.000 đồng đã gồm thuế — hai khoản khác nhau. Xe bị cẩu: gọi 0858 001 080 hoặc 0856 001 090 hỏi bãi, mở khóa tại S1.03 hoặc S2.18.
+Trước ngày 25 bằng văn bản.
 
-Ghi nhận team: miễn phí gửi năm giờ một ngày từng áp dụng; xe điện VinFast từng miễn đến 1 tháng 7 năm 2026 rồi thu như xe xăng. Đối chiếu bảng phí trên ứng dụng.
+## 7. Quên thẻ tháng thì tính sao?
+
+Tính theo giá lượt.
+
+## 8. Ô tô tháng bao nhiêu?
+
+Khoảng 1.250.000 đồng.
+
+## 9. Xe máy tháng bao nhiêu?
+
+Khoảng 40.000 đến 45.000 đồng.
+
+## 10. Đỗ sai khoảng bao nhiêu?
+
+Ghi nhận cư dân khoảng 452.000 đồng.
+
+## 11. Phí mở lại dịch vụ?
+
+462.000 đồng, không gộp với phí đỗ sai.
+
+## 12. Khách không đăng ký trước thì sao?
+
+Tính 20.000 đồng giờ đầu.
+
+## 13. Khách có được cắm ổ cư dân không?
+
+Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
+
+## 14. Thuê bao sạc xe máy điện?
+
+165.000 đồng một tháng.
+
+## 15. Xe bị cẩu gọi ai?
+
+0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.

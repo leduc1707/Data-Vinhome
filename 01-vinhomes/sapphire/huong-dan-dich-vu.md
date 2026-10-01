@@ -1,48 +1,78 @@
 ---
-trang_thai: da-thu-thap-mot-phan
-phan_khu: The Sapphire 1
-cap_nhat: 2026-09-29
+phan_khu: The Sapphire
+cap_nhat: 2026-10-01
 ---
 
-# Hướng dẫn dịch vụ — The Sapphire 1
+# Dịch vụ cư dân Sapphire đang dùng
 
-## Tiện ích nội khu
+Cư dân liên hệ ban quản lý bằng ứng dụng Vinhomes Resident. Sảnh Sapphire thông thường không có lễ tân cả ngày như Pavilion. Riêng S2.10 và S2.17 có sảnh lễ tân.
 
-Công bố trên trang bán hàng và Market Vinhomes:
+Hồ bơi Sapphire không miễn phí. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng một người, khách đi cùng khoảng 200.000 đồng một lượt. Phòng gym trong nhà không có ở đa số tòa. Cư dân tập máy ngoài trời dọc đường Hải Đăng. S2.10 và S2.17 được ghi nhận có gym tầng một, chờ ảnh biển xác nhận.
 
-- Bể bơi ngoài trời hình cá voi xanh
-- Ngọn hải đăng cao 16 m
-- Vườn cây ánh sáng
-- Sân thể thao, sân chơi trẻ em, sân tập dưỡng sinh, gym ngoài trời
-- Nhà để xe nổi 5 tầng của cụm Sapphire (nguồn OneHousing: 3 nhà xe nổi 5 tầng tại The Sapphire)
-- Shop thương mại khối đế
+Gửi xe tháng, làm thẻ và sạc xe điện làm theo file của toàn đô thị. Xe buýt OCP02 miễn phí, Sapphire 1 ra điểm S1.10 hoặc nhà xe S1, Sapphire 2 ra điểm S2.07 hoặc nhà xe S2.
 
-Tiện ích đại đô thị: hồ Ngọc Trai khoảng 24,5 ha, biển hồ nước mặn khoảng 6,1 ha, Vincom Mega Mall, Vinschool, VinUni, Vinmec — chi tiết ở `00-do-thi/`.
+Biển mặn cư dân quẹt thẻ, tắm từ 9 giờ đến 18 giờ. Hồ Ngọc Trai chỉ để đi dạo, không tắm.
 
-Sảnh Sapphire không có lễ tân 24/7 kiểu Masteri. Thẻ, khách, sự cố qua bảo vệ sảnh và ứng dụng.
+---
 
-## Hồ bơi
+# Câu hỏi và trả lời
 
-Cư dân Sapphire đóng phí lượt hoặc vé tháng. Giờ mở cửa lấy bảng tại hồ. Trẻ em có người lớn đi kèm.
+## 1. Phí dịch vụ Sapphire bao nhiêu?
 
-Market Vinhomes: 30.000 đồng/người/lượt; vé tháng 400.000 đồng; khách của cư dân 200.000 đồng. Nguồn khác ghi 15.000 đồng/lượt.
+Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
 
-## Gửi xe
+## 2. Phí Pavilion từng tòa?
 
-Hầm dưới tòa cộng nhà xe nổi 5 tầng. Vé tháng đăng ký tại ban quản lý S1.03 hoặc ứng dụng. Không đổ xăng, không sửa xe, không rửa xe trong hầm. Sạc xe điện đúng ổ được chỉ định.
+P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
 
-Tòa S1.01 kề nhà xe nổi và công viên Botanic Garden theo trang giới thiệu tòa.
+## 3. Phí Zenpark bao nhiêu?
 
-## Dịch vụ trong căn
+Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
 
-Sửa điện nước trong căn hết bảo hành: kỹ thuật ban quản lý có thể nhận nếu có bảng giá, hoặc chủ căn tự thuê. Không mặc định miễn phí.
+## 4. Phí thấp tầng bao nhiêu?
 
-## Nguồn
+Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
 
-- batdongsan.com.vn — The Sapphire 1
-- market.vinhomes.vn — tiện ích và phí hồ bơi
-- vinhomesland.vn — tòa S1.01
+## 5. Hồ bơi Sapphire có miễn phí không?
 
-## Biển mặn và hồ Ngọc Trai
+Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
 
-Nội quy đầy đủ ở `00-do-thi/quy-dinh-bien-ho-va-ho-ngoc-trai.md`. Tắm chỉ ở biển mặn, 9 giờ đến 18 giờ. Hồ Ngọc Trai không tắm. Cư dân quẹt thẻ vào biển mặn. Không mang thú nuôi xuống bãi.
+## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
+
+Được ghi miễn phí hồ bơi phân khu.
+
+## 7. Gym Sapphire ở đâu?
+
+Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
+
+## 8. Xe tháng hết bao nhiêu?
+
+Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+
+## 9. Sạc xe điện hết bao nhiêu?
+
+Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
+
+## 10. Làm thẻ cư dân mất bao nhiêu?
+
+Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
+
+## 11. Được mấy thẻ?
+
+Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
+
+## 12. Đóng phí bằng tiền mặt được không?
+
+Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
+
+## 13. Xe buýt nội khu có mất phí không?
+
+Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
+
+## 14. Biển mặn cư dân vào thế nào?
+
+Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
+
+## 15. Hồ Ngọc Trai có được tắm không?
+
+Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.

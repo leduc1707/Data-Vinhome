@@ -1,28 +1,71 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: S1.02
-cap_nhat: 2026-09-29
 ---
 
-# Sơ đồ hầm gửi xe — S1.02
+# Chỗ đỗ tòa S1.02
 
-Sơ đồ từng chỗ đỗ không đăng trên mạng. Lấy trên ứng dụng, mục tài liệu cư dân, hoặc chụp tấm mica trong hầm S1.02.
+Hầm một tầng. Ô tô dãy B01 đến B40. Xe máy dãy N. Khách dãy K2. Tốc độ tối đa 5 km một giờ. Không khóa cổ xe máy. Sạc đúng ổ có biển, không quá 8 giờ.
 
-## Hiện vật đã có
+---
 
-Tòa có một tầng hầm. Nguồn giới thiệu tòa ghi S1.02 nằm cạnh nhà để xe nổi năm tầng. Cư dân thường gửi ô tô ở nhà xe nổi vì mỗi tòa Sapphire chỉ một tầng hầm.
+# Câu hỏi và trả lời
 
-Vé tháng đăng ký tại văn phòng ban quản lý hoặc trên ứng dụng. Bảng phí công khai những năm 2024 đến 2026: ô tô khoảng 1.250.000 đồng một tháng, xe máy khoảng 45.000 đồng một tháng.
+## 1. Nội quy xe có hiệu lực từ ngày nào?
 
-Không đổ xăng, không sửa xe, không rửa xe trong hầm. Sạc xe điện đúng ổ được cấp.
+Ngày 2 tháng 10 năm 2025.
 
-## Việc còn phải thu thập
+## 2. Tốc độ trong bãi tối đa?
 
-Chụp tấm mica sơ đồ chỗ đỗ hầm S1.02. Tải PDF trên ứng dụng. Ghi cổng vào hầm, lối bộ lên sảnh và vị trí chỗ sạc.
+5 km một giờ.
 
-Không chép sơ đồ hầm S1.01 sang S1.02.
+## 3. Xe máy có được khóa cổ không?
 
-## Nguồn
+Không.
 
-- vinhomesoceanparkgialam.com.vn/toa-s102: một hầm, cạnh nhà xe năm tầng
-- Bảng phí xe: Market Vinhomes và bài vé tháng năm 2026
+## 4. Xe vãng lai giữ tối đa bao lâu?
+
+30 ngày.
+
+## 5. Sạc tối đa bao lâu?
+
+8 giờ, không qua đêm.
+
+## 6. Muốn dừng gửi tháng thì báo khi nào?
+
+Trước ngày 25 bằng văn bản.
+
+## 7. Quên thẻ tháng thì tính sao?
+
+Tính theo giá lượt.
+
+## 8. Ô tô tháng bao nhiêu?
+
+Khoảng 1.250.000 đồng.
+
+## 9. Xe máy tháng bao nhiêu?
+
+Khoảng 40.000 đến 45.000 đồng.
+
+## 10. Đỗ sai khoảng bao nhiêu?
+
+Ghi nhận cư dân khoảng 452.000 đồng.
+
+## 11. Phí mở lại dịch vụ?
+
+462.000 đồng, không gộp với phí đỗ sai.
+
+## 12. Khách không đăng ký trước thì sao?
+
+Tính 20.000 đồng giờ đầu.
+
+## 13. Khách có được cắm ổ cư dân không?
+
+Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
+
+## 14. Thuê bao sạc xe máy điện?
+
+165.000 đồng một tháng.
+
+## 15. Xe bị cẩu gọi ai?
+
+0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.

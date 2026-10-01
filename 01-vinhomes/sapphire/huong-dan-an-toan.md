@@ -1,38 +1,74 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 phan_khu: The Sapphire
-cap_nhat: 2026-09-29
+cap_nhat: 2026-10-01
 ---
 
-# Hướng dẫn an toàn — The Sapphire
+# An toàn khi ở Sapphire
 
-Phương án chữa cháy được phê duyệt của từng tòa là văn bản gốc. File này là quy tắc chung. Sơ đồ thoát nạn S1.01 để ở folder tòa.
+Khi có chuông cháy, không dùng thang máy. Đi hai thang bộ xuống đất hoặc tới điểm tập kết ghi trên biển sảnh. Không bịt đầu báo khói. Không cất xăng trong căn hoặc trong hầm. Xe điện chỉ sạc ở ổ được cấp, không sạc trong căn.
 
-## Khi có chuông cháy
+Sơ đồ thoát nạn và sơ đồ hầm team đã chụp. Gắn ảnh vào thư mục đúng tòa. Không vẽ sơ đồ từ mặt bằng bán hàng và không dùng sơ đồ tòa bên cạnh.
 
-- Không dùng thang máy. Đi thang bộ.
-- Khói dày: cúi thấp, khăn ẩm, đi sát tường, không quay lại lấy đồ.
-- Tập trung đúng điểm danh ngoài nhà, không đứng dưới chân tòa.
+---
 
-Sapphire 1 cao 26–28 tầng. Tầng lánh nạn nếu có phải đọc biển trong tòa, không suy từ tòa 39 tầng ở đô thị khác.
+# Câu hỏi và trả lời
 
-## Trong căn
+## 1. Khi chuông cháy có được dùng thang máy không?
 
-- Không bịt đầu báo khói, không tháo loa chuông.
-- Không cất xăng, bình gas mini trong căn hoặc hầm.
-- Aptomat và van nước dễ tiếp cận.
+Không. Đi thang bộ theo biển thoát hiểm.
 
-## Hầm xe
+## 2. Điểm tập kết ở đâu?
 
-- Không sạc pin phồng. Chỉ sạc ở ổ được chỉ định.
-- Cháy xe điện: bấm chuông, sơ tán, gọi 114. Không tự xử lý pack pin.
+Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
 
-## Hồ bơi và sân chơi
+## 3. Có được bịt đầu báo khói không?
 
-- Trẻ em có người lớn.
-- Hồ cảnh quan đại đô thị không phải nơi tắm tự do không giám sát.
+Không.
 
-## Nguồn
+## 4. Xe điện sạc trong căn được không?
 
-- Quy tắc thoát nạn chung cư cao tầng
-- Biển PCCC tại sảnh từng tòa — chưa có file scan trong kho
+Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
+
+## 5. Có được cất xăng trong hầm không?
+
+Không.
+
+## 6. Gian lánh nạn Pavilion ở tầng nào?
+
+Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
+
+## 7. Gian lánh nạn Zenpark ở tầng nào?
+
+Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
+
+## 8. Sapphire có gian lánh nạn giữa nhà không?
+
+Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
+
+## 9. Trẻ ra biển có cần người lớn không?
+
+Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
+
+## 10. Có được mang chó xuống bãi không?
+
+Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
+
+## 11. Có được nhảy cắm đầu ở biển mặn không?
+
+Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
+
+## 12. Giờ tắm biển mặn?
+
+Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
+
+## 13. Khóa cổ xe máy trong hầm được không?
+
+Không, vì bảo vệ cần đẩy xe khi có sự cố.
+
+## 14. Tốc độ trong hầm tối đa bao nhiêu?
+
+5 km một giờ.
+
+## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
+
+Trong 3 phút sau khi chuông kêu.

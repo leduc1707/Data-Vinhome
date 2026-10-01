@@ -1,45 +1,80 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 phan_khu: The Sapphire
-cap_nhat: 2026-09-29
+cap_nhat: 2026-10-01
 ---
 
-# Hướng dẫn xử lý tình huống — The Sapphire
+# Xử lý việc phát sinh tại Sapphire
 
-Khung xử lý. Số trực từng tòa lấy file tòa. 114 cháy, 115 cấp cứu, 113 công an.
+Thang kẹt người: giữ liên lạc với cabin, không bảo cư dân cạy cửa, gọi 114 và 0858 001 080, đồng thời báo bảo vệ sảnh. Ghi giờ kẹt và giờ mở cửa.
 
-## Thang máy nhốt người
+Nước chảy từ căn trên: khóa van căn mình nếu biết chỗ, chụp ảnh, tạo phiếu cho cả hai căn. Kỹ thuật xác định ống đứng hay căn trên trước khi đục. Không tự vào căn người khác.
 
-Giữ liên lạc cabin. Không bảo cư dân tự cạy cửa. Báo an ninh qua ứng dụng (Yêu cầu hỗ trợ > An ninh) và bảo vệ sảnh. Ưu tiên P1, có mặt ngay. Sau khi mở cửa ghi giờ kẹt.
+Mất điện một căn: xem aptomat đã nhảy chưa. Nếu bật lại bị nhảy thì rút thiết bị lớn rồi báo. Cả tầng mất mà khu còn điện thì báo ngay.
 
-S1.01 có 4 thang cư dân + 1 thang hàng. Dùng thang hàng khi chuyển đồ, không dùng thang hàng làm lối thoát nạn khi cháy.
+Có mùi gas: không bật công tắc, mở cửa nếu an toàn, gọi an ninh và đơn vị gas. Quên chìa khóa: bảo vệ đối chiếu căn cước với căn hộ rồi mới gọi thợ, không phá cửa khi chưa xác minh.
 
-## Nước trần / rò sang căn bên
+Cháy: bấm chuông, gọi 114 và 0858 001 080, đi thang bộ, không đi thang máy, cúi thấp nếu có khói, ra điểm tập kết ngoài nhà.
 
-Khóa van căn mình nếu biết nguồn. Chụp ảnh. Báo ứng dụng cả hai căn. Kỹ thuật xác định ống đứng hay căn trên trước khi đục. Không tự vào căn người khác. Khung có mặt 15–30 phút theo ghi nhận quy chế 05/2024. Thời gian cam kết đúng tòa S1.01 lấy bảng dán sảnh.
+---
 
-## Mất điện một căn
+# Câu hỏi và trả lời
 
-Kiểm tra aptomat trong căn trước. Nếu nhảy lại ngay: ngắt thiết bị lớn rồi báo kỹ thuật. Cả tầng mất mà khu chung còn điện: sự cố nhánh, P2. Khung có mặt 15–30 phút.
+## 1. Thang kẹt người thì gọi ai?
 
-## Mùi gas
+Gọi 114 và 0858 001 080, báo bảo vệ sảnh. Không cạy cửa cabin.
 
-Không bật công tắc. Mở cửa sổ. Sơ tán tầng nếu nặng. Gọi gas và kỹ thuật. P1.
+## 2. Bảo vệ lên trong bao lâu?
 
-## Khóa cửa quên chìa
+Việc thang kẹt là ưu tiên. Bảo vệ lên trong 5 đến 10 phút, thợ thang trong 15 phút.
 
-Bảo vệ xác minh chủ căn bằng căn cước và ứng dụng. Thợ khóa do cư dân trả. Không phá cửa khi chưa xác minh.
+## 3. Căn mất điện thì kiểm tra gì trước?
 
-## Gây rối, xe không đóng phí
+Xem aptomat trong căn. Nếu bật lại bị nhảy thì rút thiết bị lớn rồi báo kỹ thuật.
 
-Bảo vệ lập biên bản. Việc hình sự gọi 113.
+## 4. Kỹ thuật có mặt trong bao lâu?
 
-## Cải tạo đục tường sau 22h
+Khung đã có là 15 đến 30 phút với mất điện hoặc rò nước trong căn.
 
-Nhắc dừng. Tái phạm lập biên bản gửi ban quản trị.
+## 5. Nước từ căn trên chảy xuống thì làm gì?
 
-## Nguồn
+Khóa van căn mình, chụp ảnh, tạo phiếu cho cả hai căn. Không tự sang căn hàng xóm.
 
-- Khung P1–P4: quy ước nội bộ kho tri thức
-- Thông số thang S1.01: vinhomesland.vn, OneHousing
-- Thời gian cam kết xử lý: ghi nhận team 29/09/2026
+## 6. Có mùi gas thì sao?
+
+Không bật công tắc, mở cửa nếu an toàn, gọi an ninh và đơn vị gas.
+
+## 7. Quên chìa khóa thì sao?
+
+Bảo vệ đối chiếu căn cước với căn hộ rồi mới gọi thợ. Không phá cửa khi chưa xác minh.
+
+## 8. Cháy thì đi thang máy được không?
+
+Không. Đi thang bộ, cúi thấp nếu có khói, ra điểm tập kết.
+
+## 9. Cả dãy thấp tầng mất điện gọi ai?
+
+Điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, và an ninh 0856 001 090.
+
+## 10. Cống ngập thì ai xử lý?
+
+Tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
+
+## 11. Xe bị khóa bánh thì gọi ai?
+
+Chung cư gọi 0858 001 080. Thấp tầng gọi 0856 001 090. Nhận xe tại S1.03 hoặc S2.18.
+
+## 12. Shipper để đồ sảnh thì sao?
+
+Không được để. Chủ nhà xuống nhận. Vi phạm có thể bị ngừng dịch vụ.
+
+## 13. Khách không được đăng ký thì vào được không?
+
+Phải khai báo tại sảnh và được chủ nhà xác nhận qua intercom.
+
+## 14. Mất thẻ xe thì báo ở đâu?
+
+Báo ngay ban quản lý đúng cụm để khóa thẻ cũ và làm lại.
+
+## 15. Hai căn cùng phản ánh một sự cố thì tạo mấy phiếu?
+
+Mỗi căn một phiếu, ghi rõ căn liên quan để kỹ thuật xử lý một lần.

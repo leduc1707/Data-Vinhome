@@ -1,121 +1,84 @@
 ---
-trang_thai: da-thu-thap-mot-phan
-phan_khu: The Sapphire / Sapphire 1
-cap_nhat: 2026-09-30
-bo_sung: thu-nuoi-muc-phat-ghi-nhan-team
+phan_khu: The Sapphire
+cap_nhat: 2026-10-01
 ---
 
-# Quy định — The Sapphire / Sapphire 1
+# Quy định cư dân Sapphire
 
-Không phải nội quy ban quản trị ký ban hành. Khung công khai và quy ước vận hành chung cư Vinhomes cao tầng đã bàn giao. Đối chiếu bảng niêm yết tại sảnh và thông báo trên ứng dụng Vinhomes Resident trước khi trả lời cư dân.
+Sapphire 1 và Sapphire 2 cùng một cách vận hành của Vinhomes. Ứng dụng dùng để liên hệ là Vinhomes Resident. Sapphire 1 nộp hồ sơ tại tòa S1.03. Sapphire 2 nộp hồ sơ tại tòa S2.18.
 
-## Phạm vi
+Anh chị ra vào bằng thẻ hoặc bằng nhận diện trên ứng dụng. Không cho người khác mượn thẻ thường xuyên. Khách phải được đăng ký trước hoặc khai báo tại sảnh. Chủ nhà mở cửa bằng intercom. Chuyển nhà và chuyển đồ cồng kềnh phải báo ban quản lý, đi thang hàng, tránh 7 giờ đến 9 giờ và 17 giờ đến 19 giờ. Không đưa xe lên căn bằng thang cư dân.
 
-Dòng Sapphire Ocean Park 1. Sapphire 1 gồm S1.01 đến S1.12. Tòa S1.01 không có bộ nội quy riêng trừ hiện vật trong folder tòa.
+Trong căn, không đục tường chịu lực, không dịch hộp kỹ thuật, không bịt đầu báo cháy. Sửa chữa gây ồn phải đăng ký và làm trong giờ cho phép. Ban công không cơi nới, không lắp lồng sắt trái phép, không vứt rác xuống dưới. Hành lang và thang bộ là đường thoát nạn, không để xe, tủ, cây hay đồ cũ. Không tự lắp camera quay sang căn khác hoặc quay hành lang.
 
-Chủ đầu tư và vận hành: Vinhomes. Ứng dụng: Vinhomes Resident.
+Sau 22 giờ đến 6 giờ sáng, không karaoke, không mở loa lớn và không đục tường. Căn hộ dùng để ở. Không làm homestay, nhà nghỉ, karaoke, văn phòng, kho hoặc cửa hàng trong căn.
 
-## Ra vào và thẻ
+Chó và mèo cảnh được nuôi nếu đã đăng ký. Ra khỏi căn phải rọ mõm, dây dắt, bế qua sảnh, không thả rông và phải dọn vệ sinh. Gia súc, gia cầm và việc giết mổ bị cấm. Một bản nội quy cũ còn câu cấm chăn thả chó mèo. Khi trả lời, tách hai việc: nuôi trong căn thì được nếu đã đăng ký, thả rông thì không được.
 
-- Đăng ký thẻ hoặc nhận diện trên ứng dụng. Không cho mượn thẻ thường xuyên.
-- Khách khai báo tại bảo vệ sảnh hoặc đăng ký trước. Lối vào có intercom để chủ nhà mở cửa từ căn.
-- Chuyển nhà, chuyển hàng cồng kềnh: đăng ký ban quản lý, dùng thang hàng, tránh 7–9h và 17–19h.
-- Không đưa xe lên căn hộ bằng thang cư dân.
+Để hàng ở sảnh bị cấm theo thông báo ngày 15 tháng 5 năm 2026. Nhắc không nghe thì lập biên bản, rồi có thể ngừng dịch vụ và nộp 462.000 đồng để mở lại.
 
-## Phần sở hữu riêng
+Giờ cải tạo gây ồn là 8 giờ 30 đến 11 giờ 30 và 14 giờ đến 17 giờ, từ Thứ Hai đến Thứ Sáu. Công nhân đi thang hàng. Số tạm là phải đăng ký trên ứng dụng trước một ngày.
 
-- Không đục tường chịu lực, không dịch chuyển trục kỹ thuật, không bịt đầu báo cháy hoặc loa chuông.
-- Sửa chữa gây ồn, bụi, mùi: đăng ký, làm trong giờ cho phép, che chắn hành lang.
-- Ban công không cơi nới, không lắp lồng sắt trái phép, không vứt rác xuống dưới.
-- Bàn giao Sapphire: cơ bản (gạch ceramic, trần tường thạch cao, sơn nước, khóa mật khẩu theo công bố mở bán). Cải tạo sau bàn giao do chủ căn, phải đúng nội quy mặt đứng.
+---
 
-## Phần sở hữu chung
+# Câu hỏi và trả lời
 
-- Hành lang, thang bộ, sảnh là lối thoát nạn. Không để xe, tủ giày, chậu cây, đồ cũ.
-- Tầng 1–2 nhiều tòa Sapphire 1 là shophouse. Kinh doanh chân đế theo giấy phép shop. Không suy thành quyền kinh doanh trong căn hộ ở từ tầng 3.
-- Không tự lắp camera hướng vào hành lang hoặc căn hộ khác.
+## 1. Căn hộ có được cho thuê theo ngày không?
 
-## Tiếng ồn
+Không. Căn để ở. Homestay, nhà nghỉ và karaoke trong căn đều bị cấm.
 
-Khung yên tĩnh thông dụng: khoảng 22h–6h. Karaoke, loa kéo, đục tường không làm trong khung này. Giờ phạt chính thức lấy thông báo ban quản lý.
+## 2. Nuôi chó có phải đăng ký không?
 
-## Thú nuôi
+Có. Chó mèo cảnh phải đăng ký, rọ mõm, dây dắt và bế qua sảnh. Không thả rông.
 
-Quy định công khai chung Vinhomes Ocean Park, áp cho Sapphire 1 / S1.01:
+## 3. Chó phóng uế bị phạt bao nhiêu?
 
-- Đăng ký với ban quản lý trước khi nuôi.
-- Chó rọ mõm và dây dắt khi ra ngoài căn.
-- Bế qua sảnh, không để chó tự đi hành lang.
-- Không thả rông ở công viên nội khu S1.01.
-- Chủ nuôi dọn vệ sinh ngay.
+Mức đang áp là 100.000 đến 300.000 đồng, cộng nhắc nội bộ. Lần ba có thể bị ngừng tiện ích.
 
-Chưa có bản scan nội quy thú nuôi trong kho. Loài cấm, cân nặng tối đa, số con/căn: để trống cho đến khi chụp bảng hoặc lấy file trên ứng dụng.
+## 4. Mấy giờ thì không được gây ồn?
 
-## Mức xử lý
+Sau 22 giờ đến 6 giờ sáng không karaoke, không mở loa lớn và không đục tường.
 
-Dùng mức ở mục Thú nuôi trong phần Quy định riêng căn hộ bên dưới: lần một nhắc và yêu cầu đưa vật nuôi ra khỏi căn trong bảy ngày; lần hai ngừng dịch vụ vệ sinh, bảo vệ, giữ xe và nộp phí khôi phục 462.000 đồng đã gồm thuế.
+## 5. Sửa nhà gây ồn được làm giờ nào?
 
-Không tự bịa số tiền phạt.
+Từ 8 giờ 30 đến 11 giờ 30 và từ 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu.
 
-## Nguồn
+## 6. Có được cơi nới ban công không?
 
-- market.vinhomes.vn — The Sapphire 1, mặt bằng S1.01
-- vinhomes.vn — mặt bằng Ocean Park
-- Thú nuôi: ghi nhận team 29/09/2026, đối chiếu bảng niêm yết
-- Mức xử lý: bản nội quy tòa nhà, xem Nguồn bổ sung
+Không. Không lắp lồng sắt trái phép và không vứt rác từ ban công.
 
-## Quy định riêng căn hộ Vinhomes Ocean Park
+## 7. Hành lang có được để xe không?
 
-Tóm từ bản nội quy quản lý sử dụng tòa nhà được trang cư dân gán cho Ocean Park, cộng câu hỏi thường gặp của dự án và ghi nhận team. Đối chiếu bảng niêm yết tại sảnh trước khi xử lý phạt. Số tiền dưới đây là mức trên bản đó, chưa chắc còn đúng năm 2026.
+Không. Hành lang và thang bộ là đường thoát nạn, không để xe, tủ hay đồ cũ.
 
-### Thú nuôi
+## 8. Có được tự lắp camera quay hành lang không?
 
-Câu hỏi thường gặp dự án năm 2020 và bài giải đáp năm 2024: được nuôi chó, mèo. Khi dắt ra ngoài phải rọ mõm, không làm phiền hàng xóm, không để bẩn khu công cộng. Ghi nhận team: đăng ký ban quản lý, bế qua sảnh, không thả rông công viên nội khu, dọn vệ sinh ngay.
+Không. Camera không được quay sang căn khác hoặc quay hành lang.
 
-Bản nội quy được gán cho Ocean Park còn ghi cấm chăn thả chó, mèo, gia súc, gia cầm trong căn và khuôn viên, trừ chim và cá cảnh. Lần một: nhắc và yêu cầu đưa ra khỏi căn trong bảy ngày. Lần hai: ngừng dịch vụ vệ sinh, bảo vệ, giữ xe cho đến khi đưa vật nuôi đi, nộp phí khôi phục 462.000 đồng đã gồm thuế.
+## 9. Để hàng ở sảnh có được không?
 
-Hai nguồn lệch nhau ở chỗ "nuôi trong căn" và "chăn thả". Khi trả lời cư dân: chó mèo cảnh được nuôi nếu đăng ký và không thả rông; gia súc, gia cầm, giết mổ thì cấm. Giống cấm và cân nặng tối đa chưa có trên nguồn mở.
+Không. Thông báo ngày 15 tháng 5 năm 2026 cấm để hàng ở sảnh.
 
-### Tiếng ồn và cho thuê ngắn ngày
+## 10. Vi phạm để đồ sảnh thì sao?
 
-Giữ trật tự sau 22 giờ. Cấm dùng căn hộ làm karaoke, vũ trường, nhà nghỉ, khách sạn, homestay trái phép, văn phòng, kho, cửa hàng. Lần một: biên bản, nhắc bằng văn bản, báo cơ quan chức năng. Lần hai: ngừng dịch vụ đến khi chứng minh đã dừng, nộp 462.000 đồng.
+Nhắc, lập biên bản, rồi có thể ngừng dịch vụ. Phí mở lại là 462.000 đồng.
 
-### Cải tạo
+## 11. Khách vào nhà có phải khai báo không?
 
-Phải đăng ký với công ty quản lý trước khi đục, khoan, đổi mặt đứng, đổi kết cấu. Cấm đụng hộp kỹ thuật và tường chịu lực. Công việc gây ồn, bụi, mùi: khung thường gặp tại Vinhomes là 8 giờ 30 đến 11 giờ 30 và 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu, nghỉ Thứ Bảy, Chủ nhật và lễ. Việc không ồn có thể rộng hơn, khoảng 7 giờ đến 18 giờ. Công nhân đi thang hàng, che chắn hành lang. Nguồn nhà thầu Ocean Park; giờ đúng tòa lấy nội quy thi công dán sảnh.
+Có. Khách đăng ký trước trên ứng dụng hoặc khai báo tại sảnh.
 
-### Hành lang và rác
+## 12. Một căn chung cư được nuôi mấy chó?
 
-Không để dép, tủ, cây, đồ cũ ở hành lang và sảnh. Đồ thu về kho: 100.000 đồng một tháng; sau bảy ngày không lấy có thể thanh lý. Rác sinh hoạt buộc túi, bỏ đúng nhà rác tầng. Đồ cồng kềnh mang xuống nhà rác tổng theo giờ niêm yết. Cấm vứt rác ban công.
+Một con, dưới 10 kg, không thuộc giống chó dữ.
 
-### Xe
+## 13. Biệt thự được nuôi mấy chó?
 
-Không đỗ trước sảnh, lòng đường, vỉa hè, khu có biển cấm. Không mua bán hay cho thuê chỗ hầm. Lần một đỗ sai: khóa bánh, phí bồi hoàn trên bản nội quy là ô tô 100.000 đồng hai giờ đầu rồi 30.000 đồng mỗi giờ; xe máy 50.000 đồng hai giờ đầu rồi 20.000 đồng mỗi giờ. Lần ba có thể ngừng dịch vụ và nộp 462.000 đồng.
+Tối đa hai con, mỗi con dưới 20 kg, không phải giống chó dữ.
 
-### Khách và thẻ
+## 14. Có được chuyển đồ lúc cao điểm không?
 
-Khách xuất trình giấy tờ tại bảo vệ. Cấm tự quẹt thẻ cho người lạ. Bản nội quy ghi phí 500.000 đồng một lần nếu mở cửa cho người ngoài làm ảnh hưởng an ninh.
+Tránh 7 giờ đến 9 giờ và 17 giờ đến 19 giờ. Đồ cồng kềnh đi thang hàng.
 
-### Hút thuốc
+## 15. Đưa xe máy lên căn bằng thang có được không?
 
-Cấm hút ở sảnh, thang máy, khu có biển cấm.
-
-### Phí khôi phục dịch vụ
-
-Nhiều lỗi đến lần ba: ngừng vệ sinh, bảo vệ, giữ xe; nộp 462.000 đồng đã gồm thuế để mở lại. Lãi chậm phí quản lý trên bản đó: 10 phần trăm một năm trên số chưa trả.
-
-## Nguồn bổ sung
-
-- canhovinhomes.info nội quy tòa nhà gán cho Ocean Park
-- vinhomesoceanpark123.com.vn câu hỏi cư dân năm 2020
-- OneHousing nuôi thú cưng khi thuê Ocean Park năm 2024
-- tongthaubietthu.com.vn hướng dẫn thi công Ocean Park
-
-
-## Để đồ sảnh và nhận hàng
-
-Thông báo 134/2026/TBCT-VHOCP: không để hàng ở sảnh. Nhắc, biên bản, công văn, rồi ngừng dịch vụ kèm 462.000 đồng phí khôi phục.
-
-## Thú nuôi bổ sung
-
-Ghi nhận team: rọ mõm, dây dắt, bế qua sảnh. Phóng uế nơi công cộng có thể bị xử theo nghị định xử phạt vi phạm hành chính, khung team ghi 100.000 đến 300.000 đồng. Cho thuê theo ngày, homestay: cấm trên nội quy tòa nhà.
+Không. Xe đạp điện và xe máy điện không được lên căn.

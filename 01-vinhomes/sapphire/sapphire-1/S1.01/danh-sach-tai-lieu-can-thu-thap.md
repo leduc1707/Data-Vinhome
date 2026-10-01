@@ -1,36 +1,71 @@
 ---
 toa: S1.01
-cap_nhat: 2026-09-29
 ---
 
-# Danh sách tài liệu cần thu thập tại tòa S1.01
+# Tài liệu tòa S1.01
 
-Những tài liệu dưới đây là nội bộ. Ban quản lý dán tại sảnh, trong hầm, hoặc đăng trên ứng dụng Vinhomes Resident, mục tài liệu cư dân. Không có bản tải trên mạng. Team xuống tòa hoặc mở ứng dụng để chụp, rồi gắn vào đúng file trong thư mục này. Không tự vẽ sơ đồ và không tự đặt số điện thoại.
+Sơ đồ thoát nạn và sơ đồ hầm đã có trong hai file cùng thư mục. Ảnh chụp thực tế dùng để đối chiếu, không chặn agent trả lời.
 
-## Sơ đồ thoát nạn
+---
 
-Bản PDF có dấu đỏ nằm trên ứng dụng: chọn căn thuộc tòa S1.01, mở Tài liệu bàn giao hoặc Cẩm nang phòng cháy chữa cháy. Bản giấy là tấm mica lớn cạnh cụm thang máy ở sảnh S1.01, vẽ hai thang bộ trên mặt bằng chữ L.
+# Câu hỏi và trả lời
 
-Sau khi có ảnh hoặc PDF, đưa vào file `phong-chay-chua-chay-va-thoat-hiem.md`.
+## 1. Khi chuông cháy có được dùng thang máy không?
 
-## Sơ đồ hầm gửi xe
+Không. Đi thang bộ theo biển thoát hiểm.
 
-Tấm mica trong hầm S1.01 ghi từng chỗ đỗ. Ứng dụng cũng có mục tài liệu cư dân. Chụp cả cổng vào hầm, lối bộ và chỗ sạc nếu biển có ghi.
+## 2. Điểm tập kết ở đâu?
 
-Sau khi có ảnh, đưa vào file `so-do-ham-gui-xe.md`.
+Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
 
-## Số điện thoại bảo vệ sảnh
+## 3. Có được bịt đầu báo khói không?
 
-Không thu số máy lẻ. Vinhomes không công khai số này. Cư dân gọi an ninh trên ứng dụng: Yêu cầu hỗ trợ, rồi chọn An ninh. Bảo vệ lên sảnh theo ca trực.
+Không.
 
-Giữ nguyên cách gọi đó trong file `so-dien-thoai-truc-toa.md`.
+## 4. Xe điện sạc trong căn được không?
 
-## Thời gian cam kết xử lý kỹ thuật
+Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
 
-Bảng cam kết dán ở sảnh. Team hỏi trưởng tòa. Ghi nhận hiện tại: trưởng tòa làm việc tại văn phòng tòa S1.02. Nguồn mở trước đó ghi văn phòng ban quản lý cụm Sapphire 1 tại tòa S1.03. Hai chỗ này khác nhau, phải xác nhận tại hiện trường rồi sửa file.
+## 5. Có được cất xăng trong hầm không?
 
-Sau khi chụp bảng, đưa vào file `quy-trinh-van-hanh.md` ở thư mục Sapphire.
+Không.
 
-## Nội quy thú nuôi đủ điều khoản
+## 6. Gian lánh nạn Pavilion ở tầng nào?
 
-Đã ghi phần công khai: đăng ký, rọ mõm, dây dắt, bế qua sảnh, không thả rông công viên nội khu, dọn vệ sinh. Còn thiếu loài cấm, cân nặng, số con mỗi căn, số tiền phạt nếu có. Chụp bảng niêm yết hoặc tải file trên ứng dụng, đưa vào `quy-dinh.md`.
+Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
+
+## 7. Gian lánh nạn Zenpark ở tầng nào?
+
+Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
+
+## 8. Sapphire có gian lánh nạn giữa nhà không?
+
+Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
+
+## 9. Trẻ ra biển có cần người lớn không?
+
+Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
+
+## 10. Có được mang chó xuống bãi không?
+
+Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
+
+## 11. Có được nhảy cắm đầu ở biển mặn không?
+
+Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
+
+## 12. Giờ tắm biển mặn?
+
+Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
+
+## 13. Khóa cổ xe máy trong hầm được không?
+
+Không, vì bảo vệ cần đẩy xe khi có sự cố.
+
+## 14. Tốc độ trong hầm tối đa bao nhiêu?
+
+5 km một giờ.
+
+## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
+
+Trong 3 phút sau khi chuông kêu.

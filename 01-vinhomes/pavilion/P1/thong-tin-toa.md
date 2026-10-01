@@ -1,13 +1,73 @@
 ---
-trang_thai: da-thu-thap-mot-phan
 toa: P1
-cap_nhat: 2026-09-30
 ---
 
-# Thông tin tòa P1 — The Pavilion
+# Đầu mối tòa P1
 
-Nguồn OneHousing: cao 31 tầng, hai tầng hầm, tầng một shophouse, tầng 13 có gian lánh nạn và căn hộ, khoảng 754 căn, 26 căn mỗi sàn, 10 thang cư dân và 2 thang hàng. Bàn giao quý II năm 2024. Dòng Sapphire cộng, bàn giao sàn gỗ, điều hòa, thiết bị vệ sinh, không tủ bếp và tủ quần áo.
+Hồ sơ thẻ, xe và đăng ký thi công nộp tại lễ tân sảnh P1. Bảo vệ sảnh máy nội bộ 301. Tổng đài an ninh 0858 001 080.
 
-Nguồn khác ghi Pavilion cao 30 đến 32 tầng, bốn tòa hơn 2.600 căn. Nếu số tầng trên biển tòa khác 31, lấy biển tòa.
+File này không ghi giá bán, số căn hay diện tích căn hộ.
 
-View một phần căn hướng quảng trường Ocean View, hồ đảo cọ, Ngọc Trai.
+---
+
+# Câu hỏi và trả lời
+
+## 1. Tạo phiếu ở đâu?
+
+Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+
+## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+
+Tại văn phòng tòa S1.03.
+
+## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+
+Tại văn phòng tòa S2.18.
+
+## 4. S1.02 có nhận hồ sơ thẻ xe không?
+
+Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+
+## 5. Pavilion nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+
+## 6. Zenpark nộp hồ sơ ở đâu?
+
+Tại lễ tân sảnh tòa mình ở.
+
+## 7. Thấp tầng gọi số nào?
+
+0856 001 090.
+
+## 8. Chung cư gọi số nào?
+
+0858 001 080.
+
+## 9. Giờ ban quản lý?
+
+8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+
+## 10. Ngoài giờ thì gọi ai?
+
+Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+
+## 11. Thang kẹt có phải chờ phiếu không?
+
+Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+
+## 12. Có chuyển phiếu sang phân khu khác không?
+
+Không. Phiếu xử lý đúng tòa cư dân đang ở.
+
+## 13. Đóng phí tài khoản nào?
+
+Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+
+## 14. Email hỗ trợ?
+
+info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
+
+## 15. Muốn dừng gửi xe tháng thì báo khi nào?
+
+Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.
