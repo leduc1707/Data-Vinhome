@@ -4,68 +4,24 @@ toa: R1.02
 
 # Tài liệu tòa R1.02
 
-Sơ đồ thoát nạn và sơ đồ hầm đã có trong hai file cùng thư mục. Ảnh chụp thực tế dùng để đối chiếu, không chặn agent trả lời.
+Sơ đồ thoát nạn và sơ đồ hầm của tòa R1.02 đã có trong hai file cùng thư mục. Ảnh chụp thực tế chỉ dùng để đối chiếu, agent vẫn trả lời được khi chưa có ảnh.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Khi chuông cháy có được dùng thang máy không?
+## 1. Sơ đồ thoát nạn của tòa R1.02 xem ở file nào?
 
-Không. Đi thang bộ theo biển thoát hiểm.
+Xem file `phong-chay-chua-chay-va-thoat-hiem.md` trong cùng thư mục.
 
-## 2. Điểm tập kết ở đâu?
+## 2. Sơ đồ hầm của tòa R1.02 xem ở file nào?
 
-Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
+Xem file `so-do-ham-gui-xe.md` trong cùng thư mục.
 
-## 3. Có được bịt đầu báo khói không?
+## 3. Số trực và nơi nộp hồ sơ của tòa R1.02 xem ở file nào?
 
-Không.
+Xem file `so-dien-thoai-truc-toa.md` và `thong-tin-toa.md` trong cùng thư mục.
 
-## 4. Xe điện sạc trong căn được không?
+## 4. Chưa có ảnh chụp thực tế thì có trả lời cư dân được không?
 
-Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
-
-## 5. Có được cất xăng trong hầm không?
-
-Không.
-
-## 6. Gian lánh nạn Pavilion ở tầng nào?
-
-Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
-
-## 7. Gian lánh nạn Zenpark ở tầng nào?
-
-Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
-
-## 8. Sapphire có gian lánh nạn giữa nhà không?
-
-Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
-
-## 9. Trẻ ra biển có cần người lớn không?
-
-Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
-
-## 10. Có được mang chó xuống bãi không?
-
-Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
-
-## 11. Có được nhảy cắm đầu ở biển mặn không?
-
-Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
-
-## 12. Giờ tắm biển mặn?
-
-Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
-
-## 13. Khóa cổ xe máy trong hầm được không?
-
-Không, vì bảo vệ cần đẩy xe khi có sự cố.
-
-## 14. Tốc độ trong hầm tối đa bao nhiêu?
-
-5 km một giờ.
-
-## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
-
-Trong 3 phút sau khi chuông kêu.
+Được. Ảnh chụp thực tế chỉ dùng để đối chiếu, agent vẫn trả lời được khi chưa có ảnh.

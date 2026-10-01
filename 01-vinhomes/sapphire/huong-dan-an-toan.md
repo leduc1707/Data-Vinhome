@@ -13,62 +13,54 @@ Sơ đồ thoát nạn và sơ đồ hầm team đã chụp. Gắn ảnh vào th
 
 # Câu hỏi và trả lời
 
-## 1. Khi chuông cháy có được dùng thang máy không?
+## 1. Khi có chuông cháy có được dùng thang máy không?
 
-Không. Đi thang bộ theo biển thoát hiểm.
+Không. Anh chị đi thang bộ theo biển thoát hiểm.
 
 ## 2. Điểm tập kết ở đâu?
 
-Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
+Điểm tập kết ghi trên tấm mica cạnh thang máy của từng tòa. Mỗi tòa có một điểm riêng, không dùng điểm của tòa bên cạnh.
 
-## 3. Có được bịt đầu báo khói không?
+## 3. Sapphire có gian lánh nạn giữa nhà không?
 
-Không.
+Không. Các tòa mẫu Sapphire không có gian lánh nạn giữa nhà, cư dân thoát xuống đất bằng hai thang bộ.
 
-## 4. Xe điện sạc trong căn được không?
+## 4. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
 
-Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
+Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
 
-## 5. Có được cất xăng trong hầm không?
+## 5. Có được bịt đầu báo khói không?
 
-Không.
+Không. Đầu báo khói không được bịt.
 
-## 6. Gian lánh nạn Pavilion ở tầng nào?
+## 6. Có được sạc xe điện trong căn không?
 
-Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
+Không. Xe điện chỉ sạc ở ổ đã đăng ký trong hầm, xe phải có nhãn và không sạc quá 8 giờ.
 
-## 7. Gian lánh nạn Zenpark ở tầng nào?
+## 7. Có được cất xăng trong hầm không?
 
-Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
+Không. Trong hầm không được cất xăng.
 
-## 8. Sapphire có gian lánh nạn giữa nhà không?
+## 8. Có được khóa cổ xe máy trong hầm không?
 
-Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
+Không, vì bảo vệ cần đẩy xe đi khi có sự cố.
 
-## 9. Trẻ ra biển có cần người lớn không?
+## 9. Tốc độ tối đa trong hầm là bao nhiêu?
+
+Tốc độ trong hầm không quá 5 km một giờ.
+
+## 10. Trẻ em ra biển có cần người lớn đi cùng không?
 
 Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
 
-## 10. Có được mang chó xuống bãi không?
+## 11. Có được mang chó xuống bãi không?
 
-Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
+Không. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
 
-## 11. Có được nhảy cắm đầu ở biển mặn không?
+## 12. Có được nhảy cắm đầu ở biển mặn không?
 
-Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
+Không. Anh chị cũng không bơi khi vừa ăn no hoặc đã uống rượu.
 
-## 12. Giờ tắm biển mặn?
+## 13. Biển mặn mở cho tắm vào giờ nào?
 
-Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
-
-## 13. Khóa cổ xe máy trong hầm được không?
-
-Không, vì bảo vệ cần đẩy xe khi có sự cố.
-
-## 14. Tốc độ trong hầm tối đa bao nhiêu?
-
-5 km một giờ.
-
-## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
-
-Trong 3 phút sau khi chuông kêu.
+Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.

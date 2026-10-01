@@ -4,68 +4,48 @@ toa: S1.02
 
 # Thoát hiểm tòa S1.02
 
-Hai thang bộ, thoát xuống đất. Điểm tập kết là sân giữa S1.02 và S1.03. Tấm mica dán cạnh thang máy. Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
+Tòa S1.02 có hai thang bộ, cư dân thoát thẳng xuống đất. Điểm tập kết là sân giữa S1.02 và S1.03. Tấm mica sơ đồ thoát hiểm dán cạnh thang máy. Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Khi chuông cháy có được dùng thang máy không?
+## 1. Khi có chuông cháy có được dùng thang máy không?
 
-Không. Đi thang bộ theo biển thoát hiểm.
+Không. Anh chị đi thang bộ theo biển thoát hiểm.
 
-## 2. Điểm tập kết ở đâu?
+## 2. Điểm tập kết của tòa S1.02 ở đâu?
 
-Ở sân trước sảnh hoặc điểm ghi trên mica cạnh thang máy. Mỗi tòa một điểm, không dùng điểm tòa bên cạnh.
+Điểm tập kết của tòa S1.02 là sân giữa S1.02 và S1.03. Không dùng điểm tập kết của tòa bên cạnh.
 
-## 3. Có được bịt đầu báo khói không?
+## 3. Sơ đồ thoát hiểm của tòa S1.02 xem ở đâu?
 
-Không.
+Tấm mica sơ đồ thoát hiểm dán cạnh thang máy.
 
-## 4. Xe điện sạc trong căn được không?
+## 4. Tòa S1.02 có gian lánh nạn giữa nhà không?
 
-Không. Chỉ sạc ở ổ đã đăng ký trong hầm, có nhãn, không quá 8 giờ.
+Không. Tòa S1.02 không có gian lánh nạn giữa nhà, cư dân thoát thẳng xuống đất bằng hai thang bộ.
 
-## 5. Có được cất xăng trong hầm không?
+## 5. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
 
-Không.
+Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
 
-## 6. Gian lánh nạn Pavilion ở tầng nào?
+## 6. Có được bịt đầu báo khói không?
 
-Tầng giữa, cư dân thường nói tầng 13. Đọc biển trong đúng tòa. Không để đồ trong gian này.
+Không. Đầu báo khói không được bịt.
 
-## 7. Gian lánh nạn Zenpark ở tầng nào?
+## 7. Có được sạc xe điện trong căn không?
 
-Tầng 20. Không dùng tầng 13 vì đó là cách nói của Pavilion.
+Không. Xe điện chỉ sạc ở ổ đã đăng ký trong hầm, xe phải có nhãn và không sạc quá 8 giờ.
 
-## 8. Sapphire có gian lánh nạn giữa nhà không?
+## 8. Có được cất xăng trong hầm không?
 
-Tòa mẫu Sapphire thoát xuống đất bằng hai thang bộ, không có gian lánh nạn giữa nhà.
+Không. Trong hầm không được cất xăng.
 
-## 9. Trẻ ra biển có cần người lớn không?
+## 9. Có được khóa cổ xe máy trong hầm không?
 
-Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
+Không, vì bảo vệ cần đẩy xe đi khi có sự cố.
 
-## 10. Có được mang chó xuống bãi không?
+## 10. Tốc độ tối đa trong hầm là bao nhiêu?
 
-Không. Cả biển mặn và cát hồ Ngọc Trai đều cấm vật nuôi.
-
-## 11. Có được nhảy cắm đầu ở biển mặn không?
-
-Không. Không bơi khi vừa ăn no hoặc đã uống rượu.
-
-## 12. Giờ tắm biển mặn?
-
-Từ 9 giờ đến 18 giờ. Ngoài giờ không bơi.
-
-## 13. Khóa cổ xe máy trong hầm được không?
-
-Không, vì bảo vệ cần đẩy xe khi có sự cố.
-
-## 14. Tốc độ trong hầm tối đa bao nhiêu?
-
-5 km một giờ.
-
-## 15. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
-
-Trong 3 phút sau khi chuông kêu.
+Tốc độ trong hầm không quá 5 km một giờ.

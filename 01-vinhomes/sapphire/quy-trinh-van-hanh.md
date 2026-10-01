@@ -7,9 +7,9 @@ cap_nhat: 2026-10-01
 
 Cư dân tạo phiếu trên ứng dụng Vinhomes Resident và ghi đúng mã tòa, tầng, số căn, số điện thoại và ảnh. Việc khẩn ở sảnh thì gọi thêm 0858 001 080. Cháy gọi 114. Cấp cứu gọi 115.
 
-Hồ sơ thẻ, xe, phí và đăng ký thi công của Sapphire 1 nộp tại S1.03. Của Sapphire 2 nộp tại S2.18. Tòa S1.02 là nơi cư dân hay nộp tạm trú và nơi trưởng tòa ngồi, không nhận thay hồ sơ cụm.
+Hồ sơ thẻ, xe, phí và đăng ký thi công của Sapphire 1 nộp tại S1.03. Hồ sơ của Sapphire 2 nộp tại S2.18. Tòa S1.02 là nơi cư dân hay nộp tạm trú và nơi trưởng tòa ngồi, không nhận thay hồ sơ cụm.
 
-Thang máy kẹt người là việc ưu tiên, bảo vệ và kỹ thuật phải có mặt ngay. Người trong cabin không tự cạy cửa. Số tạm thời gian lên sảnh là 5 đến 10 phút. Rò nước hoặc mất điện trong căn có khung có mặt 15 đến 30 phút theo ghi nhận quy chế năm 2024. Thời gian cam kết đúng từng tòa lấy bảng dán ở sảnh, team sẽ gắn ảnh khi chụp.
+Thang máy kẹt người là việc ưu tiên, bảo vệ và kỹ thuật phải có mặt ngay. Người trong cabin không tự cạy cửa. Thời gian lên sảnh tạm tính là 5 đến 10 phút. Rò nước hoặc mất điện trong căn có khung có mặt 15 đến 30 phút theo ghi nhận quy chế năm 2024. Thời gian cam kết đúng từng tòa lấy bảng dán ở sảnh, team sẽ gắn ảnh khi chụp.
 
 Giờ làm việc ban quản lý trên bài cư dân là 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy. Ngoài giờ thì gọi an ninh và bảo vệ trực.
 
@@ -17,62 +17,50 @@ Giờ làm việc ban quản lý trên bài cư dân là 8 giờ 30 đến 17 gi
 
 # Câu hỏi và trả lời
 
-## 1. Tạo phiếu ở đâu?
+## 1. Tạo phiếu yêu cầu ở đâu?
 
-Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+Anh chị tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
 
 ## 2. Hồ sơ Sapphire 1 nộp ở đâu?
 
-Tại văn phòng tòa S1.03.
+Hồ sơ Sapphire 1 nộp tại văn phòng tòa S1.03.
 
 ## 3. Hồ sơ Sapphire 2 nộp ở đâu?
 
-Tại văn phòng tòa S2.18.
+Hồ sơ Sapphire 2 nộp tại văn phòng tòa S2.18.
 
-## 4. S1.02 có nhận hồ sơ thẻ xe không?
+## 4. Tòa S1.02 có nhận hồ sơ thẻ, xe không?
 
-Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+Không. S1.02 là nơi nộp tạm trú và là nơi trưởng tòa ngồi.
 
-## 5. Pavilion nộp hồ sơ ở đâu?
+## 5. Cư dân chung cư gọi số nào?
 
-Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+Cư dân chung cư gọi số 0858 001 080.
 
-## 6. Zenpark nộp hồ sơ ở đâu?
+## 6. Ban quản lý làm việc giờ nào?
 
-Tại lễ tân sảnh tòa mình ở.
+Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
 
-## 7. Thấp tầng gọi số nào?
+## 7. Ngoài giờ làm việc thì gọi ai?
 
-0856 001 090.
+Ngoài giờ, anh chị gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
 
-## 8. Chung cư gọi số nào?
+## 8. Thang máy kẹt có phải chờ tạo phiếu không?
 
-0858 001 080.
+Không. Anh chị gọi ngay 114 và số an ninh, phiếu tạo sau.
 
-## 9. Giờ ban quản lý?
+## 9. Có chuyển phiếu sang phân khu khác không?
 
-8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+Không. Phiếu được xử lý tại đúng tòa cư dân đang ở.
 
-## 10. Ngoài giờ thì gọi ai?
+## 10. Đóng phí vào tài khoản nào?
 
-Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
+Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
 
-## 11. Thang kẹt có phải chờ phiếu không?
+## 11. Email và hotline hỗ trợ là gì?
 
-Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
+Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.
 
-## 12. Có chuyển phiếu sang phân khu khác không?
+## 12. Muốn dừng gửi xe tháng thì báo khi nào?
 
-Không. Phiếu xử lý đúng tòa cư dân đang ở.
-
-## 13. Đóng phí tài khoản nào?
-
-Công ty cổ phần Vinhomes, Techcombank 19010000858784.
-
-## 14. Email hỗ trợ?
-
-info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
-
-## 15. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.
+Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.

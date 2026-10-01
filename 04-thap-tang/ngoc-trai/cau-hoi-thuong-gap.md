@@ -5,156 +5,96 @@ cap_nhat: 2026-10-01
 
 # Câu hỏi thường gặp — Ngọc Trai
 
-Khu đóng trên đảo hồ. Phí 16.000 đồng giữ nguyên.
+Ngọc Trai là khu đóng trên đảo hồ. Phí quản lý là 16.000 đồng một mét vuông một tháng.
 
 ## 1. Ngọc Trai là khu đóng hay khu mở?
 
-Ngọc Trai là khu đóng. Cổng có barrier. Người không có thẻ không tự vào.
+Ngọc Trai là khu đóng, cổng có barrier. Người không có thẻ không tự vào được.
 
-## 2. Phí quản lý bao nhiêu?
+## 2. Phí quản lý là bao nhiêu?
 
-16.000 đồng một mét vuông một tháng.
+Phí quản lý ở Ngọc Trai là 16.000 đồng một mét vuông một tháng.
 
 ## 3. Gọi bảo vệ số nào?
 
-0856 001 090. Máy nội bộ cổng Ngọc Trai là 601. Số tổng không đổi.
+Gọi số tổng an ninh thấp tầng 0856 001 090. Muốn gặp bảo vệ cổng Ngọc Trai thì xin chuyển tới số máy lẻ nội bộ 601.
 
 ## 4. Nộp hồ sơ ở đâu?
 
-Tại cổng barrier Ngọc Trai. Không nộp ở S1.03.
+Anh chị nộp hồ sơ tại cổng barrier Ngọc Trai, không nộp ở S1.03.
 
 ## 5. Khách vào thế nào?
 
-Chủ nhà đăng ký trước. Khách dừng ở barrier, không tự bấm cửa.
+Chủ nhà đăng ký khách trước. Khách dừng ở barrier, không tự bấm mở cửa.
 
 ## 6. Khách gửi ô tô thế nào?
 
-Đỗ đúng vịnh sau cổng. Phí là 20.000 đồng giờ đầu nếu không đăng ký trước. Không đỗ qua đêm trên đảo giao thông.
+Khách đỗ đúng vịnh đỗ sau cổng. Nếu không đăng ký trước, phí là 20.000 đồng cho giờ đầu. Không đỗ qua đêm trên đảo giao thông.
 
-## 7. Xe tháng bao nhiêu?
+## 7. Gửi xe tháng hết bao nhiêu?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng, xe đạp khoảng 25.000 đồng.
+Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng, xe đạp khoảng 25.000 đồng.
 
-## 8. Sạc xe điện trong sân được không?
+## 8. Có được sạc xe điện trong sân không?
 
-Không kéo dây qua đường nội khu. Chỉ sạc ở ổ sân có át chống giật đã đăng ký, không sạc qua đêm bằng dây nối tạm.
+Không kéo dây sạc qua đường nội khu. Chỉ sạc ở ổ điện ngoài sân có át chống giật và đã đăng ký. Không sạc qua đêm bằng dây nối tạm.
 
-## 9. Nuôi chó thế nào?
+## 9. Nuôi chó phải tuân theo quy định nào?
 
-Đăng ký, rọ mõm, dây dắt, không thả rông. Hạn mức biệt thự là tối đa hai con, dưới 20 kg, không phải giống chó dữ. Phóng uế 100.000 đến 300.000 đồng.
+Chó phải được đăng ký, rọ mõm, dây dắt và không thả rông. Hạn mức cho biệt thự là tối đa hai con, dưới 20 kg, không phải giống chó dữ. Để chó phóng uế bị phạt 100.000 đến 300.000 đồng.
 
-## 10. Mở cửa hàng được không?
+## 10. Có được mở cửa hàng không?
 
-Không mặc định được. Shop trong khu phải xin phép riêng. Không lấy quy định kinh doanh của Hải Âu.
+Không mặc định là được. Cửa hàng trong khu phải xin phép riêng. Không áp dụng quy định kinh doanh của Hải Âu cho Ngọc Trai.
 
-## 11. Sửa nhà giờ nào?
+## 11. Sửa nhà được làm vào giờ nào?
 
-Không trước 7 giờ sáng và không sau 22 giờ. Việc đục ồn chỉ ngày thường. Đất thải không đổ ra đường.
+Không sửa nhà trước 7 giờ sáng và sau 22 giờ. Việc đục gây ồn chỉ làm vào ngày thường. Đất thải không được đổ ra đường.
 
-## 12. Hồ bơi có phí không?
+## 12. Hồ bơi có mất phí không?
 
-Cư dân thấp tầng được ghi miễn phí hồ bơi phân khu. Biển mặn quẹt thẻ. Hồ Ngọc Trai không tắm.
+Cư dân thấp tầng được ghi là miễn phí hồ bơi phân khu. Vào biển mặn thì quẹt thẻ. Hồ Ngọc Trai không được tắm.
 
-## 13. Đặt BBQ thế nào?
+## 13. Đặt bếp nướng BBQ thế nào?
 
-Đặt trên ứng dụng. Mức ghi nhận team là khoảng 200.000 đồng một bếp, năm người, hai giờ.
+Anh chị đặt trên ứng dụng. Mức team ghi nhận là khoảng 200.000 đồng một bếp, cho năm người, trong hai giờ.
 
-## 14. Xe buýt đón ở đâu?
+## 14. Đón xe buýt ở đâu?
 
-OCP02 điểm Ngọc Trai 08. Vào cổng vẫn cần thẻ.
+Anh chị đón tuyến OCP02 tại điểm Ngọc Trai 08. Khi vào cổng vẫn cần thẻ.
 
-## 15. Mất điện cả dãy gọi ai?
+## 15. Cả dãy mất điện thì gọi ai?
 
-Điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, và an ninh 0856 001 090.
+Anh chị gọi Điện lực Thăng Long theo số 1900 633 505 hoặc 0966 888 279, và báo an ninh theo số 0856 001 090.
 
-## 16. Cống ngập ai xử lý?
+## 16. Cống ngập thì ai xử lý?
 
-Tạo phiếu trên ứng dụng và gọi 0856 001 090. Không tự đào đường.
+Anh chị tạo phiếu trên ứng dụng và gọi 0856 001 090. Không tự đào đường.
 
 ## 17. Cháy nhà thì làm gì?
 
-Gọi 114 và 0856 001 090, ra đường vòng đảo, tập kết tại sân cổng.
+Anh chị gọi 114 và 0856 001 090, đi ra đường vòng đảo và tập kết tại sân cổng.
 
-## 18. Dắt chó xuống cát được không?
+## 18. Có được dắt chó xuống bãi cát không?
 
-Không.
+Không. Chó không được dắt xuống bãi cát.
 
 ## 19. Đóng phí bằng cách nào?
 
-Chuyển khoản, mã QR hoặc ứng dụng từ ngày 10 tháng 5 năm 2026.
+Từ ngày 10 tháng 5 năm 2026, anh chị đóng phí bằng chuyển khoản, mã QR hoặc trên ứng dụng.
 
-## 20. Cơi tum được không?
+## 20. Có được cơi tum không?
 
 Không, nếu chưa có bản vẽ được duyệt.
 
-## 21. Khách ở bao lâu phải tạm trú?
+## 21. Khách ở bao lâu thì phải đăng ký tạm trú?
 
-Ở từ 30 ngày trở lên thì đăng ký tại công an xã Đa Tốn.
+Khách ở từ 30 ngày trở lên thì đăng ký tại công an xã Đa Tốn.
 
-## 22. Camera cổng được không?
+## 22. Lắp camera ở cổng cần lưu ý gì?
 
-Chỉ quay sân nhà mình, không quay vào nhà đối diện.
+Camera chỉ được quay sân nhà mình, không quay vào nhà đối diện.
 
----
+## 23. Làm thẻ cư dân mất bao nhiêu?
 
-# Câu hỏi và trả lời
-
-## 1. Phí dịch vụ Sapphire bao nhiêu?
-
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
-
-## 2. Phí Pavilion từng tòa?
-
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
-
-## 3. Phí Zenpark bao nhiêu?
-
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
-
-## 4. Phí thấp tầng bao nhiêu?
-
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
-
-## 5. Hồ bơi Sapphire có miễn phí không?
-
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
-
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
-
-Được ghi miễn phí hồ bơi phân khu.
-
-## 7. Gym Sapphire ở đâu?
-
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
-
-## 8. Xe tháng hết bao nhiêu?
-
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
-
-## 9. Sạc xe điện hết bao nhiêu?
-
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
-
-## 10. Làm thẻ cư dân mất bao nhiêu?
-
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
-
-## 11. Được mấy thẻ?
-
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
-
-## 12. Đóng phí bằng tiền mặt được không?
-
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
-
-## 13. Xe buýt nội khu có mất phí không?
-
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.

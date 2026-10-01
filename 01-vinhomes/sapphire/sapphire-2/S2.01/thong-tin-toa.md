@@ -4,7 +4,7 @@ toa: S2.01
 
 # Đầu mối tòa S2.01
 
-Hồ sơ thẻ, xe và đăng ký thi công nộp tại S2.18. Bảo vệ sảnh máy nội bộ 201. Tổng đài an ninh 0858 001 080.
+Hồ sơ thẻ, xe và đăng ký thi công nộp tại S2.18. Tổng đài an ninh là 0858 001 080. Muốn gặp bảo vệ sảnh S2.01 thì xin chuyển tới số máy lẻ nội bộ 201.
 
 File này không ghi giá bán, số căn hay diện tích căn hộ.
 
@@ -12,62 +12,26 @@ File này không ghi giá bán, số căn hay diện tích căn hộ.
 
 # Câu hỏi và trả lời
 
-## 1. Tạo phiếu ở đâu?
+## 1. Hồ sơ thẻ, xe của tòa S2.01 nộp ở đâu?
 
-Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+Hồ sơ thẻ, xe và đăng ký thi công của tòa S2.01 nộp tại S2.18.
 
-## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+## 2. Muốn gặp bảo vệ sảnh tòa S2.01 thì gọi thế nào?
 
-Tại văn phòng tòa S1.03.
+Anh chị gọi tổng đài an ninh 0858 001 080. Muốn gặp bảo vệ sảnh S2.01 thì xin chuyển tới số máy lẻ nội bộ 201.
 
-## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+## 3. Tạo phiếu yêu cầu ở đâu?
 
-Tại văn phòng tòa S2.18.
+Anh chị tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
 
-## 4. S1.02 có nhận hồ sơ thẻ xe không?
+## 4. Có chuyển phiếu sang phân khu khác không?
 
-Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+Không. Phiếu được xử lý tại đúng tòa cư dân đang ở.
 
-## 5. Pavilion nộp hồ sơ ở đâu?
+## 5. Đóng phí vào tài khoản nào?
 
-Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
 
-## 6. Zenpark nộp hồ sơ ở đâu?
+## 6. Muốn dừng gửi xe tháng thì báo khi nào?
 
-Tại lễ tân sảnh tòa mình ở.
-
-## 7. Thấp tầng gọi số nào?
-
-0856 001 090.
-
-## 8. Chung cư gọi số nào?
-
-0858 001 080.
-
-## 9. Giờ ban quản lý?
-
-8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
-
-## 10. Ngoài giờ thì gọi ai?
-
-Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
-
-## 11. Thang kẹt có phải chờ phiếu không?
-
-Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
-
-## 12. Có chuyển phiếu sang phân khu khác không?
-
-Không. Phiếu xử lý đúng tòa cư dân đang ở.
-
-## 13. Đóng phí tài khoản nào?
-
-Công ty cổ phần Vinhomes, Techcombank 19010000858784.
-
-## 14. Email hỗ trợ?
-
-info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
-
-## 15. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.
+Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.

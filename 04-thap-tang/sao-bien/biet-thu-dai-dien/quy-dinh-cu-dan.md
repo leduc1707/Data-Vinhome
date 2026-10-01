@@ -5,68 +5,36 @@ cap_nhat: 2026-10-01
 
 # Quy định với căn biệt thự tại Sao Biển
 
-Căn để ở dùng quy định của tiểu khu. Camera hướng ra đường phải đúng nội quy mặt đứng. Hàng rào và cổng không cơi ra ngoài chỉ giới. Bản nội quy biệt thự riêng, nếu ban quản lý có dán, team sẽ gắn ảnh vào file này.
+Căn biệt thự để ở áp dụng quy định chung của tiểu khu. Camera hướng ra đường phải đúng nội quy mặt đứng. Hàng rào và cổng không được cơi ra ngoài chỉ giới. Nếu ban quản lý có dán bản nội quy riêng cho biệt thự, team sẽ gắn ảnh vào file này.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Căn hộ có được cho thuê theo ngày không?
+## 1. Biệt thự ở Sao Biển áp dụng quy định nào?
 
-Không. Căn để ở. Homestay, nhà nghỉ và karaoke trong căn đều bị cấm.
+Căn biệt thự để ở áp dụng quy định chung của tiểu khu.
 
-## 2. Nuôi chó có phải đăng ký không?
+## 2. Lắp camera hướng ra đường cần lưu ý gì?
 
-Có. Chó mèo cảnh phải đăng ký, rọ mõm, dây dắt và bế qua sảnh. Không thả rông.
+Camera hướng ra đường phải đúng nội quy mặt đứng.
 
-## 3. Chó phóng uế bị phạt bao nhiêu?
+## 3. Hàng rào và cổng có được cơi ra ngoài không?
 
-Mức đang áp là 100.000 đến 300.000 đồng, cộng nhắc nội bộ. Lần ba có thể bị ngừng tiện ích.
+Không. Hàng rào và cổng không được cơi ra ngoài chỉ giới.
 
-## 4. Mấy giờ thì không được gây ồn?
+## 4. Sửa nhà được làm vào giờ nào?
 
-Sau 22 giờ đến 6 giờ sáng không karaoke, không mở loa lớn và không đục tường.
+Sửa nhà không làm trước 7 giờ sáng và không làm sau 22 giờ. Việc đục ồn chỉ làm ngày thường.
 
-## 5. Sửa nhà gây ồn được làm giờ nào?
+## 5. Muốn sửa mái, tường rào hoặc mặt tiền thì cần gì?
 
-Từ 8 giờ 30 đến 11 giờ 30 và từ 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu.
+Mái, tường rào và mặt tiền phải có bản vẽ được duyệt.
 
-## 6. Có được cơi nới ban công không?
+## 6. Nuôi chó phải tuân theo quy định nào?
 
-Không. Không lắp lồng sắt trái phép và không vứt rác từ ban công.
+Chó phải đăng ký, rọ mõm và dây dắt khi ra đường, không thả rông, không xuống bãi cát.
 
-## 7. Hành lang có được để xe không?
+## 7. Biệt thự được nuôi mấy con chó?
 
-Không. Hành lang và thang bộ là đường thoát nạn, không để xe, tủ hay đồ cũ.
-
-## 8. Có được tự lắp camera quay hành lang không?
-
-Không. Camera không được quay sang căn khác hoặc quay hành lang.
-
-## 9. Để hàng ở sảnh có được không?
-
-Không. Thông báo ngày 15 tháng 5 năm 2026 cấm để hàng ở sảnh.
-
-## 10. Vi phạm để đồ sảnh thì sao?
-
-Nhắc, lập biên bản, rồi có thể ngừng dịch vụ. Phí mở lại là 462.000 đồng.
-
-## 11. Khách vào nhà có phải khai báo không?
-
-Có. Khách đăng ký trước trên ứng dụng hoặc khai báo tại sảnh.
-
-## 12. Một căn chung cư được nuôi mấy chó?
-
-Một con, dưới 10 kg, không thuộc giống chó dữ.
-
-## 13. Biệt thự được nuôi mấy chó?
-
-Tối đa hai con, mỗi con dưới 20 kg, không phải giống chó dữ.
-
-## 14. Có được chuyển đồ lúc cao điểm không?
-
-Tránh 7 giờ đến 9 giờ và 17 giờ đến 19 giờ. Đồ cồng kềnh đi thang hàng.
-
-## 15. Đưa xe máy lên căn bằng thang có được không?
-
-Không. Xe đạp điện và xe máy điện không được lên căn.
+Hạn mức tạm tính cho biệt thự là tối đa hai con, dưới 20 kg, không phải giống chó dữ.

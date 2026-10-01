@@ -17,62 +17,34 @@ Ban quản lý không chịu trách nhiệm nếu xe đỗ sai bị mất hoặc
 
 # Câu hỏi và trả lời
 
-## 1. Nội quy xe có hiệu lực từ ngày nào?
+## 1. Có được đỗ xe trước sảnh tòa không?
 
-Ngày 2 tháng 10 năm 2025.
+Không. Thông báo số 05/2026/TBC-VHOCP yêu cầu cư dân không dừng, không đỗ trước sảnh tòa, lòng đường, vỉa hè, ngoài vạch trong hầm hoặc nhà xe nổi, và khu có biển cấm.
 
-## 2. Tốc độ trong bãi tối đa?
+## 2. Đỗ sai trên đường Lý Thánh Tông thì bị gì?
 
-5 km một giờ.
+Đường Lý Thánh Tông và đường gom cao tốc 5B do cơ quan chức năng kiểm tra. Đỗ sai ở hai tuyến này có thể bị cẩu và phạt hành chính.
 
-## 3. Xe máy có được khóa cổ không?
+## 3. Đảo giao thông và vịnh đỗ được dừng bao lâu?
 
-Không.
+Đảo giao thông và vịnh đỗ trong đô thị không được dừng quá một giờ và không được đỗ qua đêm từ 22 giờ đến 6 giờ. Xe cứu thương và xe cứu hỏa đang làm nhiệm vụ là ngoại lệ.
 
-## 4. Xe vãng lai giữ tối đa bao lâu?
+## 4. Qua ngã giao cần lưu ý gì?
 
-30 ngày.
+Anh chị giảm tốc độ và nhường người đi bộ.
 
-## 5. Sạc tối đa bao lâu?
+## 5. Xe đỗ sai bị mất hoặc hỏng thì ai chịu?
 
-8 giờ, không qua đêm.
+Ban quản lý không chịu trách nhiệm nếu xe đỗ sai bị mất hoặc hỏng. Ai đỗ sai mà gây thiệt hại thì người đó bồi thường.
 
-## 6. Muốn dừng gửi tháng thì báo khi nào?
+## 6. Xe bị di chuyển thì nhận lại thế nào?
 
-Trước ngày 25 bằng văn bản.
+Xe đã bị di chuyển về nhà xe nội Đại Dương từ tháng 2 năm 2025. Muốn nhận lại, anh chị mang căn cước, giấy đăng ký xe và đóng phí theo quy định.
 
-## 7. Quên thẻ tháng thì tính sao?
+## 7. Đỗ xe sai chỗ bị thu khoảng bao nhiêu?
 
-Tính theo giá lượt.
+Theo ghi nhận của cư dân, đỗ sai bị thu khoảng 452.000 đồng.
 
-## 8. Ô tô tháng bao nhiêu?
+## 8. Xe bị cẩu thì gọi ai?
 
-Khoảng 1.250.000 đồng.
-
-## 9. Xe máy tháng bao nhiêu?
-
-Khoảng 40.000 đến 45.000 đồng.
-
-## 10. Đỗ sai khoảng bao nhiêu?
-
-Ghi nhận cư dân khoảng 452.000 đồng.
-
-## 11. Phí mở lại dịch vụ?
-
-462.000 đồng, không gộp với phí đỗ sai.
-
-## 12. Khách không đăng ký trước thì sao?
-
-Tính 20.000 đồng giờ đầu.
-
-## 13. Khách có được cắm ổ cư dân không?
-
-Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
-
-## 14. Thuê bao sạc xe máy điện?
-
-165.000 đồng một tháng.
-
-## 15. Xe bị cẩu gọi ai?
-
-0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.
+Anh chị gọi 0858 001 080 hoặc 0856 001 090, rồi ra S1.03 hoặc S2.18 để nhận xe.

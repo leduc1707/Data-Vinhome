@@ -13,62 +13,54 @@ Khi cháy, đi thang bộ tới gian lánh nạn tầng giữa nếu biển ghi 
 
 # Câu hỏi và trả lời
 
-## 1. Thang kẹt người thì gọi ai?
+## 1. Thang máy kẹt người thì gọi ai?
 
-Gọi 114 và 0858 001 080, báo bảo vệ sảnh. Không cạy cửa cabin.
+Anh chị gọi 114 và 0858 001 080, đồng thời báo bảo vệ sảnh. Không cạy cửa cabin.
 
-## 2. Bảo vệ lên trong bao lâu?
+## 2. Khi thang kẹt, bảo vệ lên trong bao lâu?
 
-Việc thang kẹt là ưu tiên. Bảo vệ lên trong 5 đến 10 phút, thợ thang trong 15 phút.
+Thang kẹt là việc ưu tiên. Bảo vệ lên trong 5 đến 10 phút, thợ thang đến trong 15 phút.
 
 ## 3. Căn mất điện thì kiểm tra gì trước?
 
-Xem aptomat trong căn. Nếu bật lại bị nhảy thì rút thiết bị lớn rồi báo kỹ thuật.
+Anh chị xem aptomat trong căn trước. Nếu bật lại mà vẫn bị nhảy thì rút các thiết bị lớn rồi báo kỹ thuật.
 
 ## 4. Kỹ thuật có mặt trong bao lâu?
 
-Khung đã có là 15 đến 30 phút với mất điện hoặc rò nước trong căn.
+Với mất điện hoặc rò nước trong căn, khung thời gian hiện có là kỹ thuật có mặt trong 15 đến 30 phút.
 
 ## 5. Nước từ căn trên chảy xuống thì làm gì?
 
-Khóa van căn mình, chụp ảnh, tạo phiếu cho cả hai căn. Không tự sang căn hàng xóm.
+Anh chị khóa van nước của căn mình, chụp ảnh và tạo phiếu cho cả hai căn. Không tự sang căn hàng xóm.
 
-## 6. Có mùi gas thì sao?
+## 6. Có mùi gas thì làm gì?
 
-Không bật công tắc, mở cửa nếu an toàn, gọi an ninh và đơn vị gas.
+Anh chị không bật công tắc điện, mở cửa nếu an toàn, rồi gọi an ninh và đơn vị gas.
 
-## 7. Quên chìa khóa thì sao?
+## 7. Quên chìa khóa thì làm thế nào?
 
-Bảo vệ đối chiếu căn cước với căn hộ rồi mới gọi thợ. Không phá cửa khi chưa xác minh.
+Bảo vệ đối chiếu căn cước của anh chị với căn hộ rồi mới gọi thợ. Không phá cửa khi chưa xác minh.
 
-## 8. Cháy thì đi thang máy được không?
+## 8. Khi cháy có được đi thang máy không?
 
-Không. Đi thang bộ, cúi thấp nếu có khói, ra điểm tập kết.
+Không. Anh chị đi thang bộ, cúi thấp nếu có khói, rồi ra điểm tập kết.
 
-## 9. Cả dãy thấp tầng mất điện gọi ai?
+## 9. Xe bị khóa bánh thì gọi ai?
 
-Điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, và an ninh 0856 001 090.
+Cư dân chung cư gọi 0858 001 080. Cư dân thấp tầng gọi 0856 001 090. Xe nhận lại tại S1.03 hoặc S2.18.
 
-## 10. Cống ngập thì ai xử lý?
+## 10. Shipper để đồ ở sảnh có được không?
 
-Tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
+Không được để đồ ở sảnh. Chủ nhà cần xuống nhận. Vi phạm có thể bị ngừng dịch vụ.
 
-## 11. Xe bị khóa bánh thì gọi ai?
+## 11. Khách chưa được đăng ký trước thì có vào được không?
 
-Chung cư gọi 0858 001 080. Thấp tầng gọi 0856 001 090. Nhận xe tại S1.03 hoặc S2.18.
+Khách phải khai báo tại sảnh và được chủ nhà xác nhận qua intercom.
 
-## 12. Shipper để đồ sảnh thì sao?
+## 12. Mất thẻ xe thì báo ở đâu?
 
-Không được để. Chủ nhà xuống nhận. Vi phạm có thể bị ngừng dịch vụ.
+Anh chị báo ngay cho ban quản lý của đúng cụm mình ở để khóa thẻ cũ và làm lại thẻ.
 
-## 13. Khách không được đăng ký thì vào được không?
+## 13. Hai căn cùng phản ánh một sự cố thì tạo mấy phiếu?
 
-Phải khai báo tại sảnh và được chủ nhà xác nhận qua intercom.
-
-## 14. Mất thẻ xe thì báo ở đâu?
-
-Báo ngay ban quản lý đúng cụm để khóa thẻ cũ và làm lại.
-
-## 15. Hai căn cùng phản ánh một sự cố thì tạo mấy phiếu?
-
-Mỗi căn một phiếu, ghi rõ căn liên quan để kỹ thuật xử lý một lần.
+Mỗi căn tạo một phiếu và ghi rõ căn liên quan, để kỹ thuật xử lý trong một lần.

@@ -5,156 +5,100 @@ cap_nhat: 2026-10-01
 
 # Câu hỏi thường gặp — Sao Biển
 
-Khu mở, sát Vincom và biển mặn. Phí 14.000 đồng giữ nguyên.
+Sao Biển là khu mở, sát Vincom và biển mặn. Phí quản lý là 14.000 đồng một mét vuông một tháng.
 
 ## 1. Sao Biển là khu gì?
 
-Khu mở, nhiều shophouse, sát biển mặn và Vincom Mega Mall.
+Sao Biển là khu mở, có nhiều shophouse, nằm sát biển mặn và Vincom Mega Mall.
 
-## 2. Phí?
+## 2. Phí quản lý là bao nhiêu?
 
-14.000 đồng một mét vuông một tháng.
+Phí quản lý ở Sao Biển là 14.000 đồng một mét vuông một tháng.
 
-## 3. Bảo vệ?
+## 3. Gọi bảo vệ theo số nào?
 
-0856 001 090. Máy nội bộ 603.
+Gọi số tổng an ninh thấp tầng 0856 001 090. Muốn gặp bảo vệ Sao Biển thì xin chuyển tới số máy lẻ nội bộ 603.
 
-## 4. Nộp hồ sơ?
+## 4. Nộp hồ sơ ở đâu?
 
-Quầy nhà xe hoặc lễ tân thương mại Sao Biển. Không nộp ở S1.03.
+Anh chị nộp tại quầy nhà xe hoặc lễ tân thương mại Sao Biển. Không nộp ở S1.03.
 
-## 5. Khách vào mặt phố?
+## 5. Khách có vào được mặt phố không?
 
-Được. Không chiếm vỉa hè và không đỗ chắn cửa hàng.
+Được. Khách không chiếm vỉa hè và không đỗ xe chắn cửa hàng.
 
-## 6. Khách gửi ô tô?
+## 6. Khách gửi ô tô ở đâu?
 
-Nhà xe hoặc vịnh được phép. Mức bổ sung 20.000 đồng giờ đầu nếu không đăng ký trước.
+Khách gửi ô tô ở nhà xe hoặc vịnh đỗ được phép. Nếu không đăng ký trước, phí là 20.000 đồng cho giờ đầu.
 
-## 7. Xe tháng?
+## 7. Gửi xe tháng hết bao nhiêu?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng.
+Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng.
 
-## 8. Sạc xe điện?
+## 8. Sạc xe điện thế nào?
 
-Không kéo dây qua vỉa hè. Chỉ sạc ở ổ đã đăng ký.
+Không kéo dây sạc qua vỉa hè. Chỉ sạc ở ổ điện đã đăng ký.
 
-## 9. Nuôi chó?
+## 9. Nuôi chó phải tuân theo quy định nào?
 
-Đăng ký, rọ mõm, dây dắt. Tối đa hai con, dưới 20 kg. Không xuống biển.
+Chó phải được đăng ký, rọ mõm và dây dắt. Được nuôi tối đa hai con, dưới 20 kg. Không dắt chó xuống biển.
 
-## 10. Shophouse bán gì?
+## 10. Shophouse được kinh doanh gì?
 
-Đúng ngành trên giấy phép. Tầng ở phía trên yên tĩnh sau 22 giờ. Không mặc định được mở karaoke.
+Shophouse kinh doanh đúng ngành ghi trên giấy phép. Tầng ở phía trên phải yên tĩnh sau 22 giờ. Không mặc định là được mở karaoke.
 
-## 11. Biển hiệu?
+## 11. Biển hiệu được làm kích thước thế nào?
 
-Cao tối đa 2 mét, không dài hơn mặt tiền.
+Biển hiệu cao tối đa 2 mét và không dài hơn mặt tiền.
 
-## 12. Xe tải nhận hàng?
+## 12. Xe tải nhận hàng vào giờ nào?
 
-Đúng giờ niêm yết: 8 giờ đến 11 giờ và 14 giờ đến 17 giờ.
+Xe tải nhận hàng đúng giờ niêm yết, là 8 giờ đến 11 giờ và 14 giờ đến 17 giờ.
 
-## 13. Hồ bơi?
+## 13. Hồ bơi có mất phí không?
 
-Cư dân thấp tầng được ghi miễn phí. Biển mặn cư dân quẹt thẻ, 9 giờ đến 18 giờ.
+Cư dân thấp tầng được ghi là miễn phí hồ bơi. Biển mặn thì cư dân quẹt thẻ để vào, mở từ 9 giờ đến 18 giờ.
 
-## 14. BBQ?
+## 14. Thuê bếp nướng BBQ hết bao nhiêu?
 
-Khoảng 200.000 đồng một bếp.
+Bếp nướng BBQ khoảng 200.000 đồng một bếp.
 
-## 15. Xe buýt?
+## 15. Đón xe buýt ở đâu?
 
-Sao Biển 11A, Sao Biển 01 và Vincom, tuyến OCP02.
+Anh chị đón tuyến OCP02 tại các điểm Sao Biển 11A, Sao Biển 01 và Vincom.
 
-## 16. Mất điện?
+## 16. Mất điện thì gọi ai?
 
-1900 633 505 hoặc 0966 888 279, và 0856 001 090.
+Anh chị gọi 1900 633 505 hoặc 0966 888 279, và báo thêm 0856 001 090.
 
-## 17. Cống ngập?
+## 17. Cống ngập thì báo ai?
 
-Phiếu trên ứng dụng và an ninh thấp tầng.
+Anh chị tạo phiếu trên ứng dụng và báo an ninh thấp tầng.
 
-## 18. Cháy cửa hàng?
+## 18. Cửa hàng bị cháy thì làm gì?
 
-114 và 0856 001 090, không khóa lối thoát.
+Anh chị gọi 114 và 0856 001 090. Không khóa lối thoát.
 
-## 19. Chó xuống biển?
+## 19. Có được dắt chó xuống biển không?
 
-Không.
+Không. Chó không được dắt xuống biển.
 
-## 20. Đóng phí?
+## 20. Đóng phí bằng cách nào?
 
-Chuyển khoản hoặc ứng dụng từ ngày 10 tháng 5 năm 2026.
+Từ ngày 10 tháng 5 năm 2026, anh chị đóng phí bằng chuyển khoản hoặc trên ứng dụng.
 
-## 21. Mái che vỉa hè?
+## 21. Có được làm mái che vỉa hè không?
 
-Phải được duyệt. Không vượt quá 1,5 mét nếu được phép.
+Mái che vỉa hè phải được duyệt. Nếu được phép, mái che không vượt quá 1,5 mét.
 
-## 22. Tạm trú?
+## 22. Khi nào phải đăng ký tạm trú?
 
-Ở từ 30 ngày thì đăng ký tại xã Đa Tốn.
+Người ở từ 30 ngày thì đăng ký tạm trú tại xã Đa Tốn.
 
----
+## 23. Làm thẻ cư dân mất bao nhiêu?
 
-# Câu hỏi và trả lời
+Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.
 
-## 1. Phí dịch vụ Sapphire bao nhiêu?
+## 24. Hồ Ngọc Trai có được tắm không?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
-
-## 2. Phí Pavilion từng tòa?
-
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
-
-## 3. Phí Zenpark bao nhiêu?
-
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
-
-## 4. Phí thấp tầng bao nhiêu?
-
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
-
-## 5. Hồ bơi Sapphire có miễn phí không?
-
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
-
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
-
-Được ghi miễn phí hồ bơi phân khu.
-
-## 7. Gym Sapphire ở đâu?
-
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
-
-## 8. Xe tháng hết bao nhiêu?
-
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
-
-## 9. Sạc xe điện hết bao nhiêu?
-
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
-
-## 10. Làm thẻ cư dân mất bao nhiêu?
-
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
-
-## 11. Được mấy thẻ?
-
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
-
-## 12. Đóng phí bằng tiền mặt được không?
-
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
-
-## 13. Xe buýt nội khu có mất phí không?
-
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Không. Hồ Ngọc Trai chỉ để đi dạo và thả diều. Vào hồ không mất vé.

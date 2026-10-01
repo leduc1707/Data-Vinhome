@@ -4,68 +4,72 @@ toa: P2
 
 # Chỗ đỗ tòa P2
 
-Hầm B1 ô tô, hầm B2 xe máy, thông với P1. Tốc độ tối đa 5 km một giờ. Không khóa cổ xe máy. Sạc đúng ổ có biển, không quá 8 giờ.
+Hầm B1 dành cho ô tô, hầm B2 dành cho xe máy. Hầm thông với tòa P1. Tốc độ trong hầm tối đa 5 km một giờ. Không khóa cổ xe máy. Xe điện sạc đúng ổ có biển và không sạc quá 8 giờ.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Nội quy xe có hiệu lực từ ngày nào?
+## 1. Chỗ đỗ xe trong hầm tòa P2 chia thế nào?
 
-Ngày 2 tháng 10 năm 2025.
+Hầm B1 dành cho ô tô, hầm B2 dành cho xe máy. Hầm thông với tòa P1.
 
-## 2. Tốc độ trong bãi tối đa?
+## 2. Nội quy trông giữ xe có hiệu lực từ ngày nào?
 
-5 km một giờ.
+Nội quy trông giữ xe có hiệu lực từ ngày 2 tháng 10 năm 2025.
 
-## 3. Xe máy có được khóa cổ không?
+## 3. Tốc độ tối đa trong bãi xe là bao nhiêu?
 
-Không.
+Tốc độ trong bãi xe không quá 5 km một giờ.
 
-## 4. Xe vãng lai giữ tối đa bao lâu?
+## 4. Xe máy có được khóa cổ không?
 
-30 ngày.
+Không. Xe máy gửi trong bãi không được khóa cổ.
 
-## 5. Sạc tối đa bao lâu?
+## 5. Xe vãng lai được giữ tối đa bao lâu?
 
-8 giờ, không qua đêm.
+Xe vãng lai chỉ được giữ tối đa 30 ngày.
 
-## 6. Muốn dừng gửi tháng thì báo khi nào?
+## 6. Xe điện được sạc tối đa bao lâu?
 
-Trước ngày 25 bằng văn bản.
+Mỗi lần sạc không quá 8 giờ và không sạc qua đêm.
 
-## 7. Quên thẻ tháng thì tính sao?
+## 7. Muốn dừng gửi xe tháng thì báo khi nào?
 
-Tính theo giá lượt.
+Anh chị báo bằng văn bản trước ngày 25.
 
-## 8. Ô tô tháng bao nhiêu?
+## 8. Quên thẻ tháng thì tính phí thế nào?
 
-Khoảng 1.250.000 đồng.
+Nếu quên thẻ tháng thì lượt gửi đó tính theo giá lượt.
 
-## 9. Xe máy tháng bao nhiêu?
+## 9. Gửi ô tô tháng hết bao nhiêu?
 
-Khoảng 40.000 đến 45.000 đồng.
+Phí gửi ô tô tháng khoảng 1.250.000 đồng.
 
-## 10. Đỗ sai khoảng bao nhiêu?
+## 10. Gửi xe máy tháng hết bao nhiêu?
 
-Ghi nhận cư dân khoảng 452.000 đồng.
+Phí gửi xe máy tháng khoảng 40.000 đến 45.000 đồng.
 
-## 11. Phí mở lại dịch vụ?
+## 11. Đỗ xe sai chỗ bị thu khoảng bao nhiêu?
 
-462.000 đồng, không gộp với phí đỗ sai.
+Theo ghi nhận của cư dân, đỗ sai bị thu khoảng 452.000 đồng.
 
-## 12. Khách không đăng ký trước thì sao?
+## 12. Phí mở lại dịch vụ là bao nhiêu?
 
-Tính 20.000 đồng giờ đầu.
+Phí mở lại dịch vụ là 462.000 đồng. Khoản này không gộp với phí đỗ sai.
 
-## 13. Khách có được cắm ổ cư dân không?
+## 13. Khách gửi xe mà không đăng ký trước thì tính phí thế nào?
 
-Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
+Khách không đăng ký trước thì tính 20.000 đồng cho giờ đầu.
 
-## 14. Thuê bao sạc xe máy điện?
+## 14. Khách có được sạc ở ổ của cư dân không?
 
-165.000 đồng một tháng.
+Không. Khách sạc ở ổ có biển dành cho khách, phí 10.000 đồng một giờ, tối đa 3 giờ.
 
-## 15. Xe bị cẩu gọi ai?
+## 15. Thuê bao sạc xe máy điện là bao nhiêu?
 
-0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.
+Thuê bao sạc xe máy điện là 165.000 đồng một tháng.
+
+## 16. Xe bị cẩu thì gọi ai?
+
+Anh chị gọi 0858 001 080 hoặc 0856 001 090, rồi ra S1.03 hoặc S2.18 để nhận xe.

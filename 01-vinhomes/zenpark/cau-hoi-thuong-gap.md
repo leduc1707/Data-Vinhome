@@ -5,148 +5,100 @@ cap_nhat: 2026-10-01
 
 # Câu hỏi thường gặp — The Zen Park
 
-Phí 16.000 và 18.000 đồng, ngày bàn giao và tầng lánh nạn giữ như nguồn đã có.
+Mức phí 16.000 và 18.000 đồng, ngày bàn giao và tầng lánh nạn lấy theo nguồn đã có.
 
-## 2. Phí dịch vụ bao nhiêu?
+## 1. Zenpark gồm những tòa nào?
 
-Market ghi 18.000 đồng một mét vuông, chủ đầu tư hỗ trợ 2.000 đồng trong năm năm đầu. Ghi nhận tháng 9 năm 2026 còn khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
+Zenpark là phân khu dòng Ruby, gồm bốn tòa R1.01, R1.02, R1.03 và R1.05, đã bàn giao. Mỗi tòa có lễ tân.
+
+## 2. Phí dịch vụ là bao nhiêu?
+
+Market Vinhomes ghi 18.000 đồng một mét vuông, trong đó chủ đầu tư hỗ trợ 2.000 đồng trong năm năm đầu. Ghi nhận tháng 9 năm 2026 còn khoảng 16.000 đồng. Anh chị xem phiếu thu trên ứng dụng để biết đúng số của căn mình.
 
 ## 3. Hồ bơi có mất phí không?
 
-Cư dân Ruby được ghi miễn phí hồ bơi phân khu. Khách không được miễn theo diện cư dân.
+Cư dân dòng Ruby được ghi là miễn phí hồ bơi phân khu. Khách không được miễn phí theo diện cư dân.
 
 ## 4. Nộp hồ sơ ở đâu?
 
-Nộp tại lễ tân sảnh tòa mình ở. Không nộp ở S1.03. An ninh 0858 001 080. Máy nội bộ R1.02 là 402, R1.03 là 403.
+Anh chị nộp hồ sơ tại lễ tân sảnh của tòa mình ở, không nộp ở S1.03. Cần gặp an ninh thì gọi số tổng 0858 001 080. Muốn gặp bảo vệ sảnh đúng tòa thì xin chuyển tới số máy lẻ nội bộ: R1.02 là 402, R1.03 là 403.
 
-## 5. R1.03 có gì riêng?
+## 5. Tòa R1.03 có gì riêng?
 
-Khoảng 594 căn, 20 căn mỗi sàn, tầng 20 có gian lánh nạn, sáu thang khách và một thang hàng.
+Tòa R1.03 có khoảng 594 căn, 20 căn mỗi sàn, sáu thang khách và một thang hàng. Tầng 20 có gian lánh nạn.
+
+## 6. Tòa R1.02 có gì riêng?
+
+Tòa R1.02 dùng dãy R2 trong hầm chung, xe máy đỗ ở dãy RM2. Gian lánh nạn ở tầng 20. Số máy lẻ nội bộ của bảo vệ sảnh là 402.
 
 ## 7. Phòng gym ở đâu?
 
-Phòng gym nằm trong nhà của phân khu. Vị trí ở tầng một khối tiện ích giữa R1.02 và R1.03, mở từ 6 giờ đến 22 giờ. Câu này chỉ nói gym.
+Phòng gym nằm trong nhà, ở tầng một khối tiện ích giữa R1.02 và R1.03, mở từ 6 giờ đến 22 giờ. Câu trả lời này chỉ nói về phòng gym.
 
 ## 8. Khách gửi ô tô thế nào?
 
-Lấy thẻ lượt tại hầm chung bốn tòa. Phí là 20.000 đồng giờ đầu nếu không đăng ký trước.
+Khách lấy thẻ lượt tại hầm chung của bốn tòa. Nếu không đăng ký trước, phí là 20.000 đồng cho giờ đầu.
 
-## 9. Nuôi chó thế nào?
+## 9. Nuôi chó phải tuân theo quy định nào?
 
-Đăng ký, rọ mõm, dây dắt, bế qua sảnh. Hạn mức là một con, dưới 10 kg. Phóng uế 100.000 đến 300.000 đồng.
+Chó phải được đăng ký. Khi ra khỏi căn phải rọ mõm, dây dắt và bế qua sảnh. Hạn mức là một con, dưới 10 kg. Để chó phóng uế bị phạt 100.000 đến 300.000 đồng.
 
-## 10. Cho thuê ngày được không?
+## 10. Căn hộ có được cho thuê theo ngày không?
 
-Không.
+Không. Căn hộ không được cho thuê theo ngày.
 
-## 11. Thang kẹt thì sao?
+## 11. Thang máy kẹt thì làm gì?
 
-Báo lễ tân, gọi 0858 001 080 và 114. Không cạy cửa. Bảo vệ lên trong 5 đến 10 phút.
+Anh chị báo lễ tân, đồng thời gọi 0858 001 080 và 114. Không cạy cửa cabin. Bảo vệ lên trong 5 đến 10 phút.
 
-## 12. Chạy thoát hiểm dừng ở tầng nào?
+## 12. Khi thoát hiểm thì dừng ở tầng nào?
 
-Gian lánh nạn tầng 20 nếu biển trong tòa ghi vậy. Không dùng tầng 13, vì đó là cách nói của Pavilion.
+Anh chị dừng ở gian lánh nạn tầng 20 nếu biển trong tòa ghi như vậy. Không dùng tầng 13, vì đó là cách gọi của Pavilion.
 
 ## 13. Sạc xe điện giá bao nhiêu?
 
-165.000 đồng một tháng, nhãn lấy tại lễ tân, sạc ở hầm, không quá 8 giờ.
+Phí thuê bao sạc xe điện là 165.000 đồng một tháng. Nhãn lấy tại lễ tân. Xe sạc ở hầm và không sạc quá 8 giờ.
 
-## 14. Xe tháng bao nhiêu?
+## 14. Gửi xe tháng hết bao nhiêu?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng.
+Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 45.000 đồng.
 
-## 15. Thẻ cư dân mấy cái?
+## 15. Mỗi căn được cấp mấy thẻ cư dân?
 
-Lần đầu miễn. Studio tối đa 4, từ hai phòng ngủ tối đa 8, theo thông báo ngày 1 tháng 7 năm 2026.
+Theo thông báo ngày 1 tháng 7 năm 2026, căn studio được tối đa 4 thẻ, căn từ hai phòng ngủ được tối đa 8 thẻ. Lần cấp đầu được miễn phí.
 
 ## 16. Xe buýt dừng ở đâu?
 
-Một số lịch trình OCP01 có điểm The Zenpark. OCP02 đi qua VinUni và Techno Park. Tuyến nội khu miễn phí. Hotline VinBus 1900 866 663.
+Một số lịch trình của tuyến OCP01 có điểm dừng The Zenpark. Tuyến OCP02 đi qua VinUni và Techno Park. Tuyến nội khu miễn phí. Hotline VinBus là 1900 866 663.
 
-## 17. Biển mặn cư dân vào thế nào?
+## 17. Cư dân vào biển mặn thế nào?
 
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mất vé.
+Cư dân quẹt thẻ để vào, không mất vé. Giờ tắm từ 9 giờ đến 18 giờ.
 
-## 18. Sơ đồ thoát nạn R1.02?
+## 18. Sơ đồ thoát nạn tòa R1.02 thế nào?
 
-Hai thang bộ hai đầu hành lang, gian lánh nạn tầng 20, điểm tập kết sân trước sảnh.
+Tòa R1.02 có hai thang bộ ở hai đầu hành lang, gian lánh nạn ở tầng 20 và điểm tập kết ở sân trước sảnh.
 
-## 19. Hầm chia thế nào?
+## 19. Hầm gửi xe được chia thế nào?
 
-Một hầm thông khoảng 24.000 mét vuông. R1.02 dùng dãy R2, R1.03 dùng dãy R3. Sơ đồ dán tại chân thang bộ.
+Bốn tòa dùng chung một hầm thông nhau, rộng khoảng 24.000 mét vuông. Tòa R1.02 dùng dãy R2, tòa R1.03 dùng dãy R3. Sơ đồ dán tại chân thang bộ.
 
 ## 20. Đóng phí bằng tiền mặt được không?
 
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
+Từ ngày 10 tháng 5 năm 2026, phí được đóng bằng chuyển khoản, mã QR hoặc trên ứng dụng.
 
 ## 21. Mấy giờ không được mở nhạc?
 
-Sau 22 giờ. Karaoke trong căn bị cấm.
+Sau 22 giờ không được mở nhạc. Karaoke trong căn bị cấm.
 
-## 22. Khách vào lounge?
+## 22. Khách vào sảnh lounge thế nào?
 
-Dừng tại lễ tân, xuất trình giấy tờ. Không đi theo người khác qua cửa từ.
+Khách dừng tại lễ tân và xuất trình giấy tờ. Không đi theo người khác qua cửa từ.
 
----
+## 23. Làm thẻ cư dân mất bao nhiêu?
 
-# Câu hỏi và trả lời
+Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.
 
-## 1. Phí dịch vụ Sapphire bao nhiêu?
+## 24. Hồ Ngọc Trai có được tắm không?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
-
-## 2. Phí Pavilion từng tòa?
-
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
-
-## 3. Phí Zenpark bao nhiêu?
-
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
-
-## 4. Phí thấp tầng bao nhiêu?
-
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
-
-## 5. Hồ bơi Sapphire có miễn phí không?
-
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
-
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
-
-Được ghi miễn phí hồ bơi phân khu.
-
-## 7. Gym Sapphire ở đâu?
-
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
-
-## 8. Xe tháng hết bao nhiêu?
-
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
-
-## 9. Sạc xe điện hết bao nhiêu?
-
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
-
-## 10. Làm thẻ cư dân mất bao nhiêu?
-
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
-
-## 11. Được mấy thẻ?
-
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
-
-## 12. Đóng phí bằng tiền mặt được không?
-
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
-
-## 13. Xe buýt nội khu có mất phí không?
-
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Không. Hồ Ngọc Trai chỉ để đi dạo và thả diều. Vào hồ không mất vé.

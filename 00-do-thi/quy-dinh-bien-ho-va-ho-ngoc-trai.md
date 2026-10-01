@@ -12,7 +12,7 @@ Hồ Ngọc Trai rộng khoảng 24,5 hecta, là hồ nước ngọt trải cát
 
 Khi tắm ở biển mặn, anh chị mặc đồ bơi và tắm tráng trước khi xuống. Trẻ dưới 12 tuổi phải có người lớn đi cùng. Không nhảy cắm đầu. Không bơi khi vừa ăn no hoặc đã uống rượu bia. Không mang đồ ăn xuống cát ướt, trừ nước uống. Không mang vật nuôi xuống bãi. Không chạy nhảy đùa giỡn trên khu đang có người tắm. Ghi nhận thêm là khu nông hơn 1,4 mét không được nhảy. Ý này lấy theo bảng cổng nếu biển ghi khác.
 
-Câu cá chỉ ở chòi được phép ven hồ Ngọc Trai. Không câu ở biển mặn. Đạp vịt và kayak phải đăng ký và mặc áo phao. Số tạm vé kayak là 100.000 đồng một người và 200.000 đồng một đôi, khung giờ 9 giờ đến 12 giờ và 14 giờ đến 17 giờ. Bếp nướng đặt trên ứng dụng. Số tạm là 200.000 đồng một bếp, khoảng năm người, trong hai giờ.
+Chỉ được câu cá ở các chòi được phép ven hồ Ngọc Trai. Không câu ở biển mặn. Đạp vịt và kayak phải đăng ký và mặc áo phao. Vé kayak tạm tính là 100.000 đồng một người và 200.000 đồng một đôi, khung giờ từ 9 giờ đến 12 giờ và từ 14 giờ đến 17 giờ. Bếp nướng đặt trên ứng dụng, mức tạm tính là 200.000 đồng một bếp, cho khoảng năm người, trong hai giờ.
 
 Không xả rác xuống cát và xuống hồ. Không dẫm thảm cỏ cảnh quan, không hái hoa. Không tự chuyển ghế, ô và phao cứu sinh của ban quản lý.
 
@@ -22,62 +22,54 @@ Phí hồ bơi trong phân khu Sapphire là khoản riêng, không lẫn với v
 
 # Câu hỏi và trả lời
 
-## 1. Phí dịch vụ Sapphire bao nhiêu?
+## 1. Biển mặn và hồ Ngọc Trai khác nhau thế nào?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
+Biển hồ nước mặn rộng khoảng 6,1 hecta, là nơi được tắm. Hồ Ngọc Trai rộng khoảng 24,5 hecta, là hồ nước ngọt trải cát trắng, chỉ để đi dạo và thả diều, không phải chỗ tắm.
 
-## 2. Phí Pavilion từng tòa?
+## 2. Cư dân vào biển mặn thế nào?
 
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
+Cư dân quẹt thẻ để vào, không phải mua vé. Giờ tắm từ 9 giờ đến 18 giờ.
 
-## 3. Phí Zenpark bao nhiêu?
+## 3. Khách ngoài vào biển mặn thế nào?
 
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
+Khách ngoài mua vé tại cổng.
 
-## 4. Phí thấp tầng bao nhiêu?
+## 4. Biển mặn mở cho tắm vào giờ nào?
 
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
+Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.
 
-## 5. Hồ bơi Sapphire có miễn phí không?
+## 5. Hồ Ngọc Trai có được tắm không?
 
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
+Không. Hồ Ngọc Trai chỉ để đi dạo và thả diều. Vào hồ không mất vé.
 
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
+## 6. Tắm ở biển mặn cần lưu ý gì?
 
-Được ghi miễn phí hồ bơi phân khu.
+Anh chị mặc đồ bơi và tắm tráng trước khi xuống. Không mang đồ ăn xuống cát ướt, trừ nước uống. Không chạy nhảy đùa giỡn trên khu đang có người tắm.
 
-## 7. Gym Sapphire ở đâu?
+## 7. Trẻ em ra biển có cần người lớn đi cùng không?
 
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
+Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
 
-## 8. Xe tháng hết bao nhiêu?
+## 8. Có được nhảy cắm đầu ở biển mặn không?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+Không. Anh chị cũng không bơi khi vừa ăn no hoặc đã uống rượu.
 
-## 9. Sạc xe điện hết bao nhiêu?
+## 9. Có được mang chó xuống bãi không?
 
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
+Không. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
 
-## 10. Làm thẻ cư dân mất bao nhiêu?
+## 10. Câu cá ở đâu?
 
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
+Chỉ được câu cá ở các chòi được phép ven hồ Ngọc Trai. Không câu ở biển mặn.
 
-## 11. Được mấy thẻ?
+## 11. Đạp vịt và chèo kayak cần gì?
 
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
+Đạp vịt và kayak phải đăng ký và mặc áo phao. Vé kayak tạm tính là 100.000 đồng một người và 200.000 đồng một đôi, khung giờ từ 9 giờ đến 12 giờ và từ 14 giờ đến 17 giờ.
 
-## 12. Đóng phí bằng tiền mặt được không?
+## 12. Đặt bếp nướng thế nào?
 
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
+Bếp nướng đặt trên ứng dụng, mức tạm tính là 200.000 đồng một bếp, cho khoảng năm người, trong hai giờ.
 
-## 13. Xe buýt nội khu có mất phí không?
+## 13. Có được xả rác hay hái hoa không?
 
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Không xả rác xuống cát và xuống hồ. Không dẫm thảm cỏ cảnh quan, không hái hoa. Không tự chuyển ghế, ô và phao cứu sinh của ban quản lý.

@@ -16,62 +16,26 @@ Hotline là 1900 2323 89, nhánh 4. Email là info@vinhomes.vn.
 
 # Câu hỏi và trả lời
 
-## 1. Nội quy xe có hiệu lực từ ngày nào?
+## 1. Để hàng ở sảnh có được không?
 
-Ngày 2 tháng 10 năm 2025.
+Không. Thông báo ngày 15 tháng 5 năm 2026 cấm để hàng ở sảnh.
 
-## 2. Tốc độ trong bãi tối đa?
+## 2. Có được nhờ người giao hàng để đồ ở sảnh không?
 
-5 km một giờ.
+Không. Anh chị không nhờ người giao hàng để hộ tại sảnh. Hãy hẹn giờ có người nhà nhận.
 
-## 3. Xe máy có được khóa cổ không?
+## 3. Để đồ ở sảnh thì bị xử lý thế nào?
 
-Không.
+Lần đầu sẽ được nhắc. Lần sau lập biên bản và gửi công văn. Nếu vẫn để, dịch vụ có thể bị ngừng và phải nộp 462.000 đồng đã gồm thuế để mở lại.
 
-## 4. Xe vãng lai giữ tối đa bao lâu?
+## 4. Đồ để ở sảnh bị mất thì ai chịu?
 
-30 ngày.
+Ban quản lý không bồi thường nếu đồ để sai chỗ bị mất hoặc hỏng.
 
-## 5. Sạc tối đa bao lâu?
+## 5. Quy định này theo thông báo nào?
 
-8 giờ, không qua đêm.
+Thông báo số 134/2026/TBCT-VHOCP ngày 15 tháng 5 năm 2026 cấm để thực phẩm, hàng hóa và đồ cá nhân ở sảnh hoặc khu chung của tòa.
 
-## 6. Muốn dừng gửi tháng thì báo khi nào?
+## 6. Cần hỏi thêm thì liên hệ đâu?
 
-Trước ngày 25 bằng văn bản.
-
-## 7. Quên thẻ tháng thì tính sao?
-
-Tính theo giá lượt.
-
-## 8. Ô tô tháng bao nhiêu?
-
-Khoảng 1.250.000 đồng.
-
-## 9. Xe máy tháng bao nhiêu?
-
-Khoảng 40.000 đến 45.000 đồng.
-
-## 10. Đỗ sai khoảng bao nhiêu?
-
-Ghi nhận cư dân khoảng 452.000 đồng.
-
-## 11. Phí mở lại dịch vụ?
-
-462.000 đồng, không gộp với phí đỗ sai.
-
-## 12. Khách không đăng ký trước thì sao?
-
-Tính 20.000 đồng giờ đầu.
-
-## 13. Khách có được cắm ổ cư dân không?
-
-Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
-
-## 14. Thuê bao sạc xe máy điện?
-
-165.000 đồng một tháng.
-
-## 15. Xe bị cẩu gọi ai?
-
-0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.
+Hotline là 1900 2323 89, nhánh 4. Email là info@vinhomes.vn.

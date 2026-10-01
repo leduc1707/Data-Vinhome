@@ -5,70 +5,58 @@ cap_nhat: 2026-10-01
 
 # Dịch vụ tại Pavilion
 
-Sảnh có lễ tân. Hồ bơi mở khoảng 6 giờ đến 20 giờ, chia ca, vào bằng nhận diện khuôn mặt và chỉ dành cho cư dân. Khách không tự vào hồ bơi. Phòng gym nằm ở tầng tiện ích. P3 có bể sục tầng 13 nên phí cao hơn.
+Sảnh có lễ tân. Hồ bơi mở khoảng 6 giờ đến 20 giờ, chia theo ca, vào bằng nhận diện khuôn mặt và chỉ dành cho cư dân. Khách không tự vào hồ bơi. Phòng gym nằm ở tầng tiện ích. Tòa P3 có bể sục ở tầng 13 nên phí cao hơn.
 
-Hai tầng hầm thông nhau. Nhãn sạc xe điện lấy tại lễ tân P1, P2, P4 hoặc nhà xe nổi Lý Thánh Tông. Biển mặn cư dân quẹt thẻ. Hồ Ngọc Trai không tắm.
+Pavilion có hai tầng hầm thông nhau. Nhãn sạc xe điện lấy tại lễ tân P1, P2, P4 hoặc nhà xe nổi Lý Thánh Tông. Vào biển mặn, cư dân quẹt thẻ. Hồ Ngọc Trai không được tắm.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Phí dịch vụ Sapphire bao nhiêu?
+## 1. Phí dịch vụ từng tòa Pavilion là bao nhiêu?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
+Tòa P1 khoảng 13.000 đồng. Tòa P2 và P4 khoảng 8.000 đồng, sau đó lên khoảng 13.000 đồng. Tòa P3 là 17.500 đồng vì có bể sục ở tầng 13.
 
-## 2. Phí Pavilion từng tòa?
+## 2. Hồ bơi Pavilion mở lúc nào, khách có vào được không?
 
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
+Hồ bơi mở khoảng 6 giờ đến 20 giờ, chia theo ca, vào bằng nhận diện khuôn mặt và chỉ dành cho cư dân. Khách không tự vào hồ bơi.
 
-## 3. Phí Zenpark bao nhiêu?
+## 3. Phòng gym của Pavilion ở đâu?
 
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
+Phòng gym nằm ở tầng tiện ích.
 
-## 4. Phí thấp tầng bao nhiêu?
+## 4. Lấy nhãn sạc xe điện ở đâu?
 
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
+Nhãn sạc xe điện lấy tại lễ tân P1, P2, P4 hoặc nhà xe nổi Lý Thánh Tông.
 
-## 5. Hồ bơi Sapphire có miễn phí không?
+## 5. Gửi xe tháng hết bao nhiêu?
 
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
+Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
 
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
+## 6. Sạc xe điện hết bao nhiêu?
 
-Được ghi miễn phí hồ bơi phân khu.
+Phí thuê bao sạc xe điện là 165.000 đồng một tháng. Không sạc quá 8 giờ và không sạc qua đêm.
 
-## 7. Gym Sapphire ở đâu?
+## 7. Làm thẻ cư dân mất bao nhiêu?
 
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
+Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.
 
-## 8. Xe tháng hết bao nhiêu?
+## 8. Mỗi căn được cấp tối đa mấy thẻ?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+Căn studio và căn dưới hai phòng ngủ được tối đa 4 thẻ. Căn từ hai phòng ngủ trở lên được tối đa 8 thẻ.
 
-## 9. Sạc xe điện hết bao nhiêu?
+## 9. Đóng phí bằng tiền mặt được không?
 
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
+Từ ngày 10 tháng 5 năm 2026, phí được đóng bằng chuyển khoản, mã QR hoặc trên ứng dụng.
 
-## 10. Làm thẻ cư dân mất bao nhiêu?
+## 10. Xe buýt nội khu có mất phí không?
 
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
+Không. Tuyến xe buýt nội khu OCP02 miễn phí. Hotline VinBus là 1900 866 663.
 
-## 11. Được mấy thẻ?
+## 11. Cư dân vào biển mặn thế nào?
 
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
+Cư dân quẹt thẻ để vào, không phải mua vé. Giờ tắm từ 9 giờ đến 18 giờ.
 
-## 12. Đóng phí bằng tiền mặt được không?
+## 12. Hồ Ngọc Trai có được tắm không?
 
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
-
-## 13. Xe buýt nội khu có mất phí không?
-
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Không. Hồ Ngọc Trai chỉ để đi dạo và thả diều. Vào hồ không mất vé.

@@ -22,68 +22,68 @@ Xe gửi tháng được cấp thẻ tháng. Khách vãng lai dùng thẻ lượ
 
 Mất thẻ hoặc mất chìa do chủ xe thì đơn vị không bồi thường. Mất xe hoặc hỏng xe do lỗi đơn vị thì đơn vị bồi thường theo giá thị trường hoặc chi phí sửa chữa. Hai bên cùng lỗi mà không thống nhất tỷ lệ thì đơn vị chịu 50 phần trăm.
 
-Cư dân phản ánh đỗ sai có thể bị khóa bánh và mức khoảng 452.000 đồng. Khoản 462.000 đồng trên thông báo tháng 5 năm 2026 là phí mở lại dịch vụ khi vi phạm khác, không gộp với phí đỗ sai. Xe bị cẩu thì gọi 0858 001 080 hoặc 0856 001 090 để hỏi bãi, rồi ra S1.03 hoặc S2.18 làm thủ tục. Có ghi nhận miễn phí năm giờ một ngày và miễn xe điện VinFast đã hết từ ngày 1 tháng 7 năm 2026. Hai ý này chờ bảng phí chụp tại cổng.
+Theo phản ánh của cư dân, xe đỗ sai có thể bị khóa bánh và bị thu khoảng 452.000 đồng. Khoản 462.000 đồng trên thông báo tháng 5 năm 2026 là phí mở lại dịch vụ khi vi phạm khác, không gộp với phí đỗ sai. Xe bị cẩu thì gọi 0858 001 080 hoặc 0856 001 090 để hỏi bãi, rồi ra S1.03 hoặc S2.18 làm thủ tục. Có ghi nhận miễn phí năm giờ một ngày và miễn xe điện VinFast đã hết từ ngày 1 tháng 7 năm 2026. Hai ý này chờ bảng phí chụp tại cổng.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Nội quy xe có hiệu lực từ ngày nào?
+## 1. Nội quy trông giữ xe có hiệu lực từ ngày nào?
 
-Ngày 2 tháng 10 năm 2025.
+Nội quy trông giữ xe có hiệu lực từ ngày 2 tháng 10 năm 2025.
 
-## 2. Tốc độ trong bãi tối đa?
+## 2. Tốc độ tối đa trong bãi xe là bao nhiêu?
 
-5 km một giờ.
+Tốc độ trong bãi xe không quá 5 km một giờ.
 
 ## 3. Xe máy có được khóa cổ không?
 
-Không.
+Không. Xe máy gửi trong bãi không được khóa cổ.
 
-## 4. Xe vãng lai giữ tối đa bao lâu?
+## 4. Xe vãng lai được giữ tối đa bao lâu?
 
-30 ngày.
+Xe vãng lai chỉ được giữ tối đa 30 ngày.
 
-## 5. Sạc tối đa bao lâu?
+## 5. Xe điện được sạc tối đa bao lâu?
 
-8 giờ, không qua đêm.
+Mỗi lần sạc không quá 8 giờ và không sạc qua đêm.
 
-## 6. Muốn dừng gửi tháng thì báo khi nào?
+## 6. Muốn dừng gửi xe tháng thì báo khi nào?
 
-Trước ngày 25 bằng văn bản.
+Anh chị báo bằng văn bản trước ngày 25.
 
-## 7. Quên thẻ tháng thì tính sao?
+## 7. Quên thẻ tháng thì tính phí thế nào?
 
-Tính theo giá lượt.
+Nếu quên thẻ tháng thì lượt gửi đó tính theo giá lượt.
 
-## 8. Ô tô tháng bao nhiêu?
+## 8. Gửi ô tô tháng hết bao nhiêu?
 
-Khoảng 1.250.000 đồng.
+Phí gửi ô tô tháng khoảng 1.250.000 đồng.
 
-## 9. Xe máy tháng bao nhiêu?
+## 9. Gửi xe máy tháng hết bao nhiêu?
 
-Khoảng 40.000 đến 45.000 đồng.
+Phí gửi xe máy tháng khoảng 40.000 đến 45.000 đồng.
 
-## 10. Đỗ sai khoảng bao nhiêu?
+## 10. Đỗ xe sai chỗ bị thu khoảng bao nhiêu?
 
-Ghi nhận cư dân khoảng 452.000 đồng.
+Theo ghi nhận của cư dân, đỗ sai bị thu khoảng 452.000 đồng.
 
-## 11. Phí mở lại dịch vụ?
+## 11. Phí mở lại dịch vụ là bao nhiêu?
 
-462.000 đồng, không gộp với phí đỗ sai.
+Phí mở lại dịch vụ là 462.000 đồng. Khoản này không gộp với phí đỗ sai.
 
-## 12. Khách không đăng ký trước thì sao?
+## 12. Khách gửi xe mà không đăng ký trước thì tính phí thế nào?
 
-Tính 20.000 đồng giờ đầu.
+Khách không đăng ký trước thì tính 20.000 đồng cho giờ đầu.
 
-## 13. Khách có được cắm ổ cư dân không?
+## 13. Khách có được sạc ở ổ của cư dân không?
 
-Không. Ổ có biển khách thì 10.000 đồng một giờ, tối đa 3 giờ.
+Không. Khách sạc ở ổ có biển dành cho khách, phí 10.000 đồng một giờ, tối đa 3 giờ.
 
-## 14. Thuê bao sạc xe máy điện?
+## 14. Thuê bao sạc xe máy điện là bao nhiêu?
 
-165.000 đồng một tháng.
+Thuê bao sạc xe máy điện là 165.000 đồng một tháng.
 
-## 15. Xe bị cẩu gọi ai?
+## 15. Xe bị cẩu thì gọi ai?
 
-0858 001 080 hoặc 0856 001 090, nhận tại S1.03 hoặc S2.18.
+Anh chị gọi 0858 001 080 hoặc 0856 001 090, rồi ra S1.03 hoặc S2.18 để nhận xe.

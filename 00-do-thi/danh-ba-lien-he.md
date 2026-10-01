@@ -20,62 +20,50 @@ Việc khẩn cấp gọi 114, 115 hoặc 113 tùy cháy, cấp cứu hay an nin
 
 # Câu hỏi và trả lời
 
-## 1. Phí dịch vụ Sapphire bao nhiêu?
+## 1. Cư dân chung cư gọi an ninh số nào?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông một tháng. S2.10 và S2.17 là 16.000 đồng.
+An ninh chung cư cao tầng là 0858 001 080.
 
-## 2. Phí Pavilion từng tòa?
+## 2. Cư dân thấp tầng gọi an ninh số nào?
 
-P1 khoảng 13.000 đồng. P2 và P4 khoảng 8.000 đồng rồi lên khoảng 13.000 đồng. P3 là 17.500 đồng vì có bể sục tầng 13.
+An ninh thấp tầng và biệt thự là 0856 001 090.
 
-## 3. Phí Zenpark bao nhiêu?
+## 3. Số an ninh hầm là số nào?
 
-Market ghi 18.000 đồng, hỗ trợ 2.000 đồng năm năm đầu. Ghi nhận khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
+Bài cũ còn ghi an ninh hầm là 0888 110 659. Số này cần hỏi lại trước khi đưa cho cư dân.
 
-## 4. Phí thấp tầng bao nhiêu?
+## 4. Cần việc ngay tại sảnh thì liên hệ thế nào?
 
-Ngọc Trai 16.000 đồng một mét vuông. San Hô, Sao Biển và Hải Âu 14.000 đồng.
+Anh chị tạo yêu cầu trên ứng dụng, vì sảnh không công khai số máy lẻ.
 
-## 5. Hồ bơi Sapphire có miễn phí không?
+## 5. Nộp hồ sơ ở đâu?
 
-Không. Cư dân khoảng 30.000 đồng một lượt, vé tháng khoảng 400.000 đồng, khách đi cùng khoảng 200.000 đồng.
+Hồ sơ Sapphire 1 nộp tại tòa S1.03. Hồ sơ Sapphire 2 nộp tại tòa S2.18. Pavilion và Zenpark nộp tại lễ tân sảnh từng tòa. Khu thấp tầng nộp tại cổng Ngọc Trai hoặc nhà xe Hải Âu, tùy tiểu khu.
 
-## 6. Cư dân Ruby và thấp tầng có mất phí hồ bơi không?
+## 6. Số chăm sóc khách hàng Vinhomes là số nào?
 
-Được ghi miễn phí hồ bơi phân khu.
+Chăm sóc khách hàng Vinhomes là 1900 2323 89, nhánh 4. Email là info@vinhomes.vn.
 
-## 7. Gym Sapphire ở đâu?
+## 7. Mất điện thì gọi điện lực số nào?
 
-Đa số tòa không có gym trong nhà. Tập máy ngoài trời dọc Hải Đăng, khoảng 5 giờ đến 22 giờ. S2.10 và S2.17 có gym tầng một.
+Điện lực Thăng Long là 0966 888 279 và 1900 633 505.
 
-## 8. Xe tháng hết bao nhiêu?
+## 8. Mất nước thì gọi số nào?
 
-Ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+Nước sạch số 2 Hà Nội là 1900 400 002.
 
-## 9. Sạc xe điện hết bao nhiêu?
+## 9. Số của Vinmec Ocean Park là số nào?
 
-Thuê bao 165.000 đồng một tháng. Không sạc quá 8 giờ và không qua đêm.
+Vinmec Ocean Park là 024 3975 6888.
 
-## 10. Làm thẻ cư dân mất bao nhiêu?
+## 10. Số của VinBus và Xanh SM là số nào?
 
-Lần đầu miễn. Thẻ thêm 50.000 đồng, thẻ làm lại 100.000 đồng, chưa gồm thuế.
+VinBus là 1900 866 663. Xanh SM là 1900 2088.
 
-## 11. Được mấy thẻ?
+## 11. Số điện lực Gia Lâm dùng khi nào?
 
-Studio và căn dưới hai phòng ngủ tối đa 4 thẻ. Từ hai phòng ngủ tối đa 8 thẻ.
+Số điện lực Gia Lâm trên tài liệu team chỉ dùng khi hỏi tòa The Zurich: đội phó 0966 126 699, tiếp nhận hợp đồng 0949 897 376, tổng đài 1900 1288.
 
-## 12. Đóng phí bằng tiền mặt được không?
+## 12. Việc khẩn cấp thì gọi số nào?
 
-Từ ngày 10 tháng 5 năm 2026 thì chuyển khoản, mã QR hoặc ứng dụng.
-
-## 13. Xe buýt nội khu có mất phí không?
-
-Tuyến OCP02 miễn phí. Hotline VinBus 1900 866 663.
-
-## 14. Biển mặn cư dân vào thế nào?
-
-Quẹt thẻ, tắm từ 9 giờ đến 18 giờ, không mua vé.
-
-## 15. Hồ Ngọc Trai có được tắm không?
-
-Không. Hồ này chỉ để đi dạo và thả diều, không mất vé.
+Cháy gọi 114, cấp cứu gọi 115, an ninh gọi 113.

@@ -5,70 +5,50 @@ cap_nhat: 2026-10-01
 
 # Cách tiếp nhận việc tại Zenpark
 
-Cư dân tạo phiếu trên ứng dụng, ghi đúng tòa R1. Việc ở sảnh báo lễ tân. An ninh là 0858 001 080. Cháy gọi 114.
+Cư dân tạo phiếu trên ứng dụng và ghi đúng mã tòa R1 mình ở. Việc phát sinh ở sảnh thì báo lễ tân. Số an ninh là 0858 001 080. Cháy thì gọi 114.
 
-Thang kẹt người được xử lý ngay. Không chuyển phiếu sang Sapphire hay Pavilion. Thời gian cam kết lấy bảng dán tại sảnh tòa.
+Thang kẹt người được xử lý ngay. Không chuyển phiếu sang Sapphire hay Pavilion. Thời gian cam kết lấy theo bảng dán tại sảnh tòa.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Tạo phiếu ở đâu?
+## 1. Tạo phiếu yêu cầu ở đâu?
 
-Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+Anh chị tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
 
-## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+## 2. Cư dân Zenpark nộp hồ sơ ở đâu?
 
-Tại văn phòng tòa S1.03.
+Cư dân Zenpark nộp tại lễ tân sảnh của tòa mình ở.
 
-## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+## 3. Cư dân chung cư gọi số nào?
 
-Tại văn phòng tòa S2.18.
+Cư dân chung cư gọi số 0858 001 080.
 
-## 4. S1.02 có nhận hồ sơ thẻ xe không?
+## 4. Ban quản lý làm việc giờ nào?
 
-Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
 
-## 5. Pavilion nộp hồ sơ ở đâu?
+## 5. Ngoài giờ làm việc thì gọi ai?
 
-Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+Ngoài giờ, anh chị gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
 
-## 6. Zenpark nộp hồ sơ ở đâu?
+## 6. Thang máy kẹt có phải chờ tạo phiếu không?
 
-Tại lễ tân sảnh tòa mình ở.
+Không. Anh chị gọi ngay 114 và số an ninh, phiếu tạo sau.
 
-## 7. Thấp tầng gọi số nào?
+## 7. Có chuyển phiếu sang phân khu khác không?
 
-0856 001 090.
+Không. Phiếu được xử lý tại đúng tòa cư dân đang ở.
 
-## 8. Chung cư gọi số nào?
+## 8. Đóng phí vào tài khoản nào?
 
-0858 001 080.
+Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
 
-## 9. Giờ ban quản lý?
+## 9. Email và hotline hỗ trợ là gì?
 
-8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
+Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.
 
-## 10. Ngoài giờ thì gọi ai?
+## 10. Muốn dừng gửi xe tháng thì báo khi nào?
 
-Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
-
-## 11. Thang kẹt có phải chờ phiếu không?
-
-Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
-
-## 12. Có chuyển phiếu sang phân khu khác không?
-
-Không. Phiếu xử lý đúng tòa cư dân đang ở.
-
-## 13. Đóng phí tài khoản nào?
-
-Công ty cổ phần Vinhomes, Techcombank 19010000858784.
-
-## 14. Email hỗ trợ?
-
-info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
-
-## 15. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.
+Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.

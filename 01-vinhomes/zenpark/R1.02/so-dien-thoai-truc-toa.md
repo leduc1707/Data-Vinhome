@@ -4,68 +4,36 @@ toa: R1.02
 
 # Số trực R1.02
 
-Bảo vệ sảnh máy lẻ 402. Tổng đài an ninh 0858 001 080. Hồ sơ tại lễ tân R1.02. Cháy 114, cấp cứu 115.
+Tổng đài an ninh là 0858 001 080. Muốn gặp bảo vệ sảnh R1.02 thì xin chuyển tới số máy lẻ nội bộ 402. Hồ sơ nộp tại lễ tân R1.02. Cháy gọi 114, cấp cứu gọi 115.
 
 ---
 
 # Câu hỏi và trả lời
 
-## 1. Tạo phiếu ở đâu?
+## 1. Cư dân tòa R1.02 gọi an ninh số nào?
 
-Trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+Anh chị gọi tổng đài an ninh 0858 001 080. Muốn gặp bảo vệ sảnh R1.02 thì xin chuyển tới số máy lẻ nội bộ 402.
 
-## 2. Hồ sơ Sapphire 1 nộp ở đâu?
+## 2. Cháy hoặc cần cấp cứu thì gọi số nào?
 
-Tại văn phòng tòa S1.03.
+Cháy gọi 114, cấp cứu gọi 115.
 
-## 3. Hồ sơ Sapphire 2 nộp ở đâu?
+## 3. Cư dân tòa R1.02 nộp hồ sơ ở đâu?
 
-Tại văn phòng tòa S2.18.
+Hồ sơ nộp tại lễ tân R1.02.
 
-## 4. S1.02 có nhận hồ sơ thẻ xe không?
+## 4. Ban quản lý làm việc giờ nào?
 
-Không. S1.02 là nơi nộp tạm trú và nơi trưởng tòa ngồi.
+Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
 
-## 5. Pavilion nộp hồ sơ ở đâu?
+## 5. Ngoài giờ làm việc thì gọi ai?
 
-Tại lễ tân sảnh tòa mình ở, không mang sang S1.03.
+Ngoài giờ, anh chị gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
 
-## 6. Zenpark nộp hồ sơ ở đâu?
+## 6. Thang máy kẹt có phải chờ tạo phiếu không?
 
-Tại lễ tân sảnh tòa mình ở.
+Không. Anh chị gọi ngay 114 và số an ninh, phiếu tạo sau.
 
-## 7. Thấp tầng gọi số nào?
+## 7. Email và hotline hỗ trợ là gì?
 
-0856 001 090.
-
-## 8. Chung cư gọi số nào?
-
-0858 001 080.
-
-## 9. Giờ ban quản lý?
-
-8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy, theo bài cư dân.
-
-## 10. Ngoài giờ thì gọi ai?
-
-Gọi an ninh trực. Việc khẩn không chờ sáng hôm sau.
-
-## 11. Thang kẹt có phải chờ phiếu không?
-
-Không. Gọi 114 và số an ninh ngay, phiếu tạo sau.
-
-## 12. Có chuyển phiếu sang phân khu khác không?
-
-Không. Phiếu xử lý đúng tòa cư dân đang ở.
-
-## 13. Đóng phí tài khoản nào?
-
-Công ty cổ phần Vinhomes, Techcombank 19010000858784.
-
-## 14. Email hỗ trợ?
-
-info@vinhomes.vn. Hotline 1900 2323 89, nhánh 4.
-
-## 15. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Bằng văn bản trước ngày 25. Không báo thì vẫn phải đóng tháng sau.
+Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.

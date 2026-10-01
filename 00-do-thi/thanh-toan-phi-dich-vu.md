@@ -22,60 +22,60 @@ Tờ trên tủ bảng còn ghi ban quản trị cụm nhà chung cư S1, số 0
 
 ## 1. Từ ngày nào không nộp tiền mặt?
 
-Từ ngày 10 tháng 5 năm 2026.
+Việc này áp dụng từ ngày 10 tháng 5 năm 2026.
 
 ## 2. Thanh toán bằng cách nào?
 
-Chuyển khoản, mã QR hoặc ứng dụng V-app và Vinhomes Resident.
+Anh chị thanh toán bằng chuyển khoản, mã QR hoặc trên ứng dụng V-app và Vinhomes Resident.
 
-## 3. Tài khoản nào?
+## 3. Chuyển khoản vào tài khoản nào?
 
-Công ty cổ phần Vinhomes, Techcombank 19010000858784.
+Tài khoản thụ hưởng là Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
 
-## 4. Những khoản nào áp dụng?
+## 4. Những khoản phí nào thanh toán theo cách này?
 
-Phí quản lý, gửi xe tháng, làm thẻ, cọc thi công, hồ bơi và bếp nướng.
+Các khoản gồm phí quản lý, phí gửi xe tháng, phí làm thẻ, tiền cọc thi công, phí hồ bơi và bếp nướng.
 
-## 5. Không thao tác được thì nhờ ai?
+## 5. Không tự thao tác được thì nhờ ai?
 
-Lễ tân tòa, nhân viên bàn thẻ hoặc điểm thu gần nhà.
+Anh chị nhờ lễ tân tòa, nhân viên bàn thẻ hoặc nhân viên tại điểm thu gần nhà.
 
-## 6. Email hỗ trợ?
+## 6. Email hỗ trợ là gì?
 
-info@vinhomes.vn.
+Email hỗ trợ là info@vinhomes.vn.
 
-## 7. Hotline?
+## 7. Hotline hỗ trợ là số nào?
 
-1900 2323 89, nhánh 4.
+Hotline hỗ trợ là 1900 2323 89, nhánh 4.
 
 ## 8. Số 0989 403 103 là số gì?
 
-Số ban quản trị cụm S1, không phải số máy bàn bảo vệ sảnh.
+Đó là số của ban quản trị cụm S1, không phải số máy bàn của bảo vệ sảnh.
 
-## 9. Phí Sapphire bao nhiêu?
+## 9. Phí dịch vụ ở Sapphire là bao nhiêu?
 
-Khoảng 13.000 đến 13.200 đồng một mét vuông.
+Phí dịch vụ ở Sapphire khoảng 13.000 đến 13.200 đồng một mét vuông.
 
-## 10. Phí Ngọc Trai bao nhiêu?
+## 10. Phí quản lý ở Ngọc Trai là bao nhiêu?
 
-16.000 đồng một mét vuông.
+Phí quản lý ở Ngọc Trai là 16.000 đồng một mét vuông.
 
-## 11. Phí ba khu thấp tầng còn lại?
+## 11. Phí quản lý ở ba khu thấp tầng còn lại là bao nhiêu?
 
-14.000 đồng một mét vuông.
+Phí quản lý ở ba khu thấp tầng còn lại là 14.000 đồng một mét vuông.
 
 ## 12. Có nhận tiền mặt ở sảnh không?
 
-Không khuyến khích. Ưu tiên chuyển khoản và ứng dụng.
+Ban quản lý không khuyến khích nộp tiền mặt. Anh chị nên chuyển khoản hoặc thanh toán trên ứng dụng.
 
-## 13. Phiếu thu xem ở đâu?
+## 13. Xem phiếu thu ở đâu?
 
-Trên ứng dụng Vinhomes Resident.
+Anh chị xem phiếu thu trên ứng dụng Vinhomes Resident.
 
-## 14. Chuyển nhầm tài khoản thì sao?
+## 14. Chuyển nhầm tài khoản thì làm gì?
 
-Gọi 1900 2323 89 nhánh 4, gửi biên lai.
+Anh chị gọi 1900 2323 89, nhánh 4, và gửi biên lai chuyển khoản.
 
 ## 15. Phí mở lại dịch vụ là bao nhiêu?
 
-462.000 đồng đã gồm thuế, theo thông báo tháng 5 năm 2026.
+Phí mở lại dịch vụ là 462.000 đồng, đã gồm thuế, theo thông báo tháng 5 năm 2026.

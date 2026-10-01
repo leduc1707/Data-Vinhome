@@ -11,62 +11,34 @@ Mất điện một nhà thì xem aptomat trước. Cả dãy mất thì gọi �
 
 # Câu hỏi và trả lời
 
-## 1. Thang kẹt người thì gọi ai?
+## 1. Một nhà mất điện thì kiểm tra gì trước?
 
-Gọi 114 và 0858 001 080, báo bảo vệ sảnh. Không cạy cửa cabin.
+Mất điện một nhà thì xem aptomat trước.
 
-## 2. Bảo vệ lên trong bao lâu?
+## 2. Cả dãy nhà thấp tầng mất điện thì gọi ai?
 
-Việc thang kẹt là ưu tiên. Bảo vệ lên trong 5 đến 10 phút, thợ thang trong 15 phút.
+Anh chị gọi Điện lực Thăng Long theo số 1900 633 505 hoặc 0966 888 279, và báo an ninh theo số 0856 001 090.
 
-## 3. Căn mất điện thì kiểm tra gì trước?
+## 3. Cống ngập thì ai xử lý?
 
-Xem aptomat trong căn. Nếu bật lại bị nhảy thì rút thiết bị lớn rồi báo kỹ thuật.
+Anh chị tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
 
-## 4. Kỹ thuật có mặt trong bao lâu?
+## 4. Khi cháy thì làm gì?
 
-Khung đã có là 15 đến 30 phút với mất điện hoặc rò nước trong căn.
+Anh chị gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt.
 
-## 5. Nước từ căn trên chảy xuống thì làm gì?
+## 5. Quên chìa khóa thì làm thế nào?
 
-Khóa van căn mình, chụp ảnh, tạo phiếu cho cả hai căn. Không tự sang căn hàng xóm.
+Bảo vệ đối chiếu giấy tờ với chủ nhà rồi mới gọi thợ.
 
-## 6. Có mùi gas thì sao?
+## 6. Có mùi gas thì làm gì?
 
-Không bật công tắc, mở cửa nếu an toàn, gọi an ninh và đơn vị gas.
+Anh chị không bật công tắc điện, mở cửa nếu an toàn, rồi gọi an ninh và đơn vị gas.
 
-## 7. Quên chìa khóa thì sao?
+## 7. Xe bị khóa bánh thì gọi ai?
 
-Bảo vệ đối chiếu căn cước với căn hộ rồi mới gọi thợ. Không phá cửa khi chưa xác minh.
+Cư dân chung cư gọi 0858 001 080. Cư dân thấp tầng gọi 0856 001 090. Xe nhận lại tại S1.03 hoặc S2.18.
 
-## 8. Cháy thì đi thang máy được không?
+## 8. Mất thẻ xe thì báo ở đâu?
 
-Không. Đi thang bộ, cúi thấp nếu có khói, ra điểm tập kết.
-
-## 9. Cả dãy thấp tầng mất điện gọi ai?
-
-Điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, và an ninh 0856 001 090.
-
-## 10. Cống ngập thì ai xử lý?
-
-Tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
-
-## 11. Xe bị khóa bánh thì gọi ai?
-
-Chung cư gọi 0858 001 080. Thấp tầng gọi 0856 001 090. Nhận xe tại S1.03 hoặc S2.18.
-
-## 12. Shipper để đồ sảnh thì sao?
-
-Không được để. Chủ nhà xuống nhận. Vi phạm có thể bị ngừng dịch vụ.
-
-## 13. Khách không được đăng ký thì vào được không?
-
-Phải khai báo tại sảnh và được chủ nhà xác nhận qua intercom.
-
-## 14. Mất thẻ xe thì báo ở đâu?
-
-Báo ngay ban quản lý đúng cụm để khóa thẻ cũ và làm lại.
-
-## 15. Hai căn cùng phản ánh một sự cố thì tạo mấy phiếu?
-
-Mỗi căn một phiếu, ghi rõ căn liên quan để kỹ thuật xử lý một lần.
+Anh chị báo ngay cho ban quản lý của đúng cụm mình ở để khóa thẻ cũ và làm lại thẻ.
