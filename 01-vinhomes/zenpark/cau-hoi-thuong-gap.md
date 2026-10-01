@@ -1,37 +1,34 @@
 ---
 trang_thai: da-thu-thap-mot-phan
-phan_khu: Zenpark
+phan_khu: The Zen Park
 cap_nhat: 2026-09-30
-loai: cau-hoi-thuong-gap
 ---
 
-# Câu hỏi thường gặp — Zenpark
+# Câu hỏi thường gặp — The Zen Park
 
-## Fact
+Bốn tòa R1.01, R1.02, R1.03, R1.05. Đất khoảng 28.834 mét vuông. Một hầm thông nhau khoảng 24.000 mét vuông. Hơn 2.500 căn, nguồn khác ghi khoảng 2.700 căn. Cao 31 tầng nổi. Vườn Nhật khoảng 6.208 mét vuông, hồ cá koi khoảng 692 mét vuông.
 
-### Ứng dụng cư dân nào được Vinhomes giới thiệu?
+Bàn giao: R1.02 và R1.05 khoảng tháng 7 năm 2021; R1.03 khoảng tháng 11 năm 2021; R1.01 khoảng tháng 6 năm 2022. Đã nhận nhà được.
 
-Vinhomes Resident được nêu trong tài liệu Z5, với các chức năng tra cứu, đặt/hủy tiện ích, yêu cầu dịch vụ và hóa đơn. [Z5](https://market.vinhomes.vn/blog/tro-ly-ao-vinhomes), kiểm tra 30/09/2026. Đây là giới thiệu cấp hệ thống; chưa xác nhận phiên bản, quyền tài khoản và chức năng đang áp dụng riêng Zenpark.
+Dòng Ruby, bàn giao liền tường: trần tường sàn xong, thiết bị vệ sinh Toto hoặc tương đương, tủ bếp tủ quần áo, điều hòa multi âm trần, khóa vân tay, nước nóng trung tâm.
 
-### Phí quản lý, gửi xe và làm thẻ hiện là bao nhiêu?
+## Phí
 
-Chưa thu được biểu phí BQL Zenpark có ngày hiệu lực. Chưa đủ cơ sở điền mức thu, VAT hoặc điều kiện miễn giảm. Chính sách bán hàng cũ không thay biểu phí vận hành hiện hành.
+Market Vinhomes: The Zen Park dòng Ruby 18.000 đồng một mét vuông một tháng, chủ đầu tư hỗ trợ 2.000 đồng trong năm năm đầu. Ghi nhận team tháng 9 năm 2026: Ruby khoảng 16.000 đồng. Lấy phiếu thu trên ứng dụng.
 
-### Tìm thông tin tòa và tiện ích ở đâu?
+Hồ bơi: cư dân Ruby được Market ghi miễn phí, khác Sapphire phải mua lượt.
 
-- [Thông tin R1.02](R1.02/THONG-TIN-TOA.md), [thông tin R1.03](R1.03/THONG-TIN-TOA.md).
-- [Dịch vụ và các mục cần xác nhận](huong-dan-dich-vu.md).
+Gửi xe: ô tô khoảng 1.250.000 đồng một tháng, xe máy khoảng 45.000 đồng. Nội quy xe hiệu lực 2 tháng 10 năm 2025.
 
-## Cần bổ sung
+Thanh toán phí từ 10 tháng 5 năm 2026: chuyển khoản, mã QR hoặc ứng dụng. Tài khoản Công ty cổ phần Vinhomes, 19010000858784, Techcombank hội sở.
 
-| Nội dung cần thu | Giá trị đã xác nhận | Chứng cứ cần có |
-|---|---|---|
-| Phí dịch vụ | | Mức thu, diện tích tính phí, VAT, kỳ thu, ngày hiệu lực |
-| Phí xe / sạc | | Loại phương tiện, nơi gửi, phí tháng/lượt, điều kiện đăng ký |
-| Thẻ cư dân / thẻ xe | | Hồ sơ cấp mới/cấp lại, phí, thời gian xử lý |
-| Đăng ký app | | Hướng dẫn chủ hộ/người thuê, đơn vị phát hành, mã tòa |
-| Ưu đãi | | Hợp đồng/chính sách, đối tượng và thời hạn cụ thể |
+## Nhãn sạc xe điện
+
+Thông báo 24 tháng 12 năm 2025: nhận nhãn tại quầy lễ tân The Zen Park và các quầy S2.10, S2.17, P3 ZR1.
 
 ## Nguồn
 
-- Z5: [Trợ lý ảo Vinhomes — Vinhomes Market](https://market.vinhomes.vn/blog/tro-ly-ao-vinhomes). Kiểm tra 30/09/2026; ngày bài có bất nhất, xem sổ nguồn.
+- vinhomeoceanpark.com.vn/the-zenpark
+- market.vinhomes.vn bài The Zenpark
+- Market Vinhomes bài phí Ocean City
+- OneHousing tòa R1.01, R1.03
