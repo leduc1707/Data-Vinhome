@@ -3,46 +3,27 @@ phan_khu: Hải Âu
 cap_nhat: 2026-10-01
 ---
 
-# Dịch vụ cư dân Hải Âu đang dùng
+# Hướng dẫn dịch vụ — Hải Âu
 
-Cư dân thấp tầng được ghi là miễn phí hồ bơi phân khu. Vào biển mặn thì quẹt thẻ, giờ tắm từ 9 giờ đến 18 giờ. Hồ Ngọc Trai chỉ để đi dạo. Xe buýt OCP02 miễn phí, đón tại điểm nhà để xe Hải Âu. Bếp nướng đặt trên ứng dụng, mức tạm tính là 200.000 đồng một bếp, cho khoảng năm người, trong hai giờ.
+Ngoài hướng dẫn dịch vụ chung ở `00-do-thi/huong-dan-dich-vu.md` và `01-vinhomes/huong-dan-dich-vu.md`, cư dân Hải Âu lưu ý:
 
----
+## Hồ bơi, biển mặn và hồ Ngọc Trai
 
-# Câu hỏi và trả lời
+- Cư dân thấp tầng được ghi là miễn phí hồ bơi phân khu.
+- Vào biển mặn thì quẹt thẻ, không phải mua vé, giờ tắm từ 9 giờ đến 18 giờ.
+- Hồ Ngọc Trai chỉ để đi dạo và thả diều, không được tắm. Vào hồ không mất vé.
 
-## 1. Cư dân Hải Âu có mất phí hồ bơi không?
+## Xe buýt
 
-Cư dân thấp tầng được ghi là miễn phí hồ bơi phân khu.
+- Xe buýt OCP02 miễn phí, đón tại điểm nhà để xe Hải Âu.
 
-## 2. Cư dân vào biển mặn thế nào?
+## Bếp nướng
 
-Cư dân quẹt thẻ để vào, không phải mua vé. Giờ tắm từ 9 giờ đến 18 giờ.
+- Bếp nướng đặt trên ứng dụng, mức tạm tính là 200.000 đồng một bếp, cho khoảng năm người, trong hai giờ.
 
-## 3. Hồ Ngọc Trai có được tắm không?
+## Phí, xe và thẻ
 
-Không. Hồ Ngọc Trai chỉ để đi dạo và thả diều. Vào hồ không mất vé.
-
-## 4. Cư dân Hải Âu đón xe buýt ở đâu?
-
-Xe buýt OCP02 miễn phí, đón tại điểm nhà để xe Hải Âu.
-
-## 5. Đặt bếp nướng thế nào?
-
-Bếp nướng đặt trên ứng dụng, mức tạm tính là 200.000 đồng một bếp, cho khoảng năm người, trong hai giờ.
-
-## 6. Phí quản lý ở Hải Âu là bao nhiêu?
-
-Phí quản lý ở Hải Âu là 14.000 đồng một mét vuông một tháng.
-
-## 7. Gửi xe tháng hết bao nhiêu?
-
-Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
-
-## 8. Làm thẻ cư dân mất bao nhiêu?
-
-Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.
-
-## 9. Đóng phí bằng tiền mặt được không?
-
-Từ ngày 10 tháng 5 năm 2026, phí được đóng bằng chuyển khoản, mã QR hoặc trên ứng dụng.
+- Phí quản lý ở Hải Âu là 14.000 đồng một mét vuông một tháng.
+- Phí gửi xe tháng: ô tô khoảng 1.250.000 đồng, xe máy khoảng 40.000 đến 45.000 đồng, xe đạp khoảng 25.000 đồng.
+- Lần cấp thẻ đầu tiên được miễn phí. Thẻ làm thêm giá 50.000 đồng, thẻ làm lại giá 100.000 đồng, chưa gồm thuế.
+- Từ ngày 10 tháng 5 năm 2026, phí được đóng bằng chuyển khoản, mã QR hoặc trên ứng dụng.

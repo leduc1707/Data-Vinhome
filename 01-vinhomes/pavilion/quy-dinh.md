@@ -3,72 +3,49 @@ phan_khu: The Pavilion
 cap_nhat: 2026-10-01
 ---
 
-# Quy định cư dân Pavilion
+# Quy định — Pavilion
 
-Pavilion có bốn tòa P1, P2, P3 và P4, do Vinhomes vận hành, thuộc dòng bàn giao cao hơn Sapphire. Mỗi tòa có lễ tân sảnh. Hồ sơ nộp tại lễ tân, không nộp ở S1.03.
+Ngoài quy định chung ở `00-do-thi/quy-dinh.md` và `01-vinhomes/quy-dinh.md`, cư dân Pavilion lưu ý:
 
-Cư dân ra vào bằng thẻ và ứng dụng. Khách khai báo tại lễ tân. Hành lang và thang bộ không được để đồ. Cải tạo phải đăng ký, không đục tường chịu lực và không bịt đầu báo cháy. Sau 22 giờ không gây ồn. Homestay và karaoke trong căn bị cấm.
+## Vận hành và hồ sơ
 
-Thú nuôi phải đăng ký, rọ mõm, dây dắt và bế qua sảnh. Không thả rông. Mỗi tòa có gian lánh nạn ở tầng giữa, cư dân thường gọi là tầng 13. Anh chị đọc biển trong tòa trước khi chỉ dẫn. Không để đồ cá nhân trong gian lánh nạn.
+- Pavilion có bốn tòa P1, P2, P3 và P4, do Vinhomes vận hành, thuộc dòng bàn giao cao hơn Sapphire.
+- Mỗi tòa có lễ tân sảnh. Hồ sơ nộp tại lễ tân, không nộp ở S1.03.
 
-Để hàng ở sảnh bị cấm. Phí mở lại dịch vụ khi vi phạm là 462.000 đồng đã gồm thuế.
+## Ra vào và khách
 
----
+- Cư dân ra vào bằng thẻ và ứng dụng.
+- Khách khai báo tại lễ tân, hoặc được đăng ký trước trên ứng dụng.
 
-# Câu hỏi và trả lời
+## Khu vực chung
 
-## 1. Căn hộ có được cho thuê theo ngày không?
+- Hành lang và thang bộ là đường thoát nạn, không được để đồ.
+- Để hàng ở sảnh bị cấm theo thông báo ngày 15 tháng 5 năm 2026.
+- Vi phạm thì trước hết là nhắc nhở, sau đó lập biên bản, rồi có thể ngừng dịch vụ. Phí mở lại dịch vụ khi vi phạm là 462.000 đồng đã gồm thuế.
 
-Không. Căn hộ chỉ dùng để ở. Homestay, nhà nghỉ và karaoke trong căn đều bị cấm.
+## Trong căn
 
-## 2. Nuôi chó có phải đăng ký không?
+- Cải tạo phải đăng ký, không đục tường chịu lực và không bịt đầu báo cháy.
+- Căn hộ chỉ dùng để ở, không cho thuê theo ngày. Homestay, nhà nghỉ và karaoke trong căn đều bị cấm.
+- Không cơi nới ban công, không lắp lồng sắt trái phép và không vứt rác từ ban công xuống.
+- Không tự lắp camera quay sang căn khác hoặc quay ra hành lang.
+- Xe đạp điện và xe máy điện không được đưa lên căn.
+- Tránh chuyển đồ từ 7 giờ đến 9 giờ và từ 17 giờ đến 19 giờ. Đồ cồng kềnh đi thang hàng.
 
-Có. Chó mèo cảnh phải được đăng ký. Khi ra khỏi căn phải rọ mõm, dây dắt và bế qua sảnh. Không thả rông.
+## Tiếng ồn
 
-## 3. Một căn chung cư được nuôi mấy con chó?
+- Sau 22 giờ không gây ồn.
+- Từ 22 giờ đến 6 giờ sáng không hát karaoke, không mở loa lớn và không đục tường.
+- Việc sửa nhà gây ồn được làm từ 8 giờ 30 đến 11 giờ 30 và từ 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu.
 
-Mỗi căn chung cư được nuôi một con, dưới 10 kg, không thuộc giống chó dữ.
+## Thú nuôi
 
-## 4. Chó phóng uế bị phạt bao nhiêu?
+- Thú nuôi phải đăng ký, rọ mõm, dây dắt và bế qua sảnh. Không thả rông.
+- Mỗi căn chung cư được nuôi một con chó, dưới 10 kg, không thuộc giống chó dữ.
+- Để chó phóng uế: mức đang áp dụng là 100.000 đến 300.000 đồng, kèm nhắc nhở nội bộ. Đến lần thứ ba có thể bị ngừng tiện ích.
 
-Mức đang áp dụng là 100.000 đến 300.000 đồng, kèm nhắc nhở nội bộ. Đến lần thứ ba có thể bị ngừng tiện ích.
+## Gian lánh nạn
 
-## 5. Mấy giờ thì không được gây ồn?
-
-Từ 22 giờ đến 6 giờ sáng không hát karaoke, không mở loa lớn và không đục tường.
-
-## 6. Sửa nhà gây ồn được làm vào giờ nào?
-
-Việc sửa nhà gây ồn được làm từ 8 giờ 30 đến 11 giờ 30 và từ 14 giờ đến 17 giờ, Thứ Hai đến Thứ Sáu.
-
-## 7. Có được cơi nới ban công không?
-
-Không. Ban công cũng không được lắp lồng sắt trái phép và không vứt rác từ ban công xuống.
-
-## 8. Hành lang có được để xe không?
-
-Không. Hành lang và thang bộ là đường thoát nạn, không để xe, tủ hay đồ cũ.
-
-## 9. Có được tự lắp camera quay hành lang không?
-
-Không. Camera không được quay sang căn khác hoặc quay ra hành lang.
-
-## 10. Để hàng ở sảnh có được không?
-
-Không. Thông báo ngày 15 tháng 5 năm 2026 cấm để hàng ở sảnh.
-
-## 11. Để đồ ở sảnh thì bị xử lý thế nào?
-
-Trước hết là nhắc nhở, sau đó lập biên bản, rồi có thể ngừng dịch vụ. Phí mở lại dịch vụ là 462.000 đồng.
-
-## 12. Khách vào nhà có phải khai báo không?
-
-Có. Khách được đăng ký trước trên ứng dụng hoặc khai báo tại sảnh.
-
-## 13. Có được chuyển đồ lúc cao điểm không?
-
-Anh chị tránh chuyển đồ từ 7 giờ đến 9 giờ và từ 17 giờ đến 19 giờ. Đồ cồng kềnh đi thang hàng.
-
-## 14. Đưa xe máy lên căn bằng thang có được không?
-
-Không. Xe đạp điện và xe máy điện không được đưa lên căn.
+- Mỗi tòa có gian lánh nạn ở tầng giữa, cư dân thường gọi là tầng 13.
+- Đọc biển trong tòa trước khi chỉ dẫn.
+- Không để đồ cá nhân trong gian lánh nạn.

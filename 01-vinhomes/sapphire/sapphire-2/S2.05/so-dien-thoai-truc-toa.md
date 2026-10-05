@@ -2,38 +2,23 @@
 toa: S2.05
 ---
 
-# Số trực S2.05
+# Số trực — tòa S2.05
 
-Tổng đài an ninh là 0858 001 080. Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205. Hồ sơ nộp tại S2.18. Cháy gọi 114, cấp cứu gọi 115.
+Danh bạ chung của đô thị nằm ở `00-do-thi/danh-ba-lien-he.md`. Riêng tòa S2.05:
 
----
+## An ninh
 
-# Câu hỏi và trả lời
+- Tổng đài an ninh là 0858 001 080.
+- Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205.
+- Ngoài giờ làm việc, gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
 
-## 1. Cư dân tòa S2.05 gọi an ninh số nào?
+## Khẩn cấp
 
-Anh chị gọi tổng đài an ninh 0858 001 080. Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205.
+- Cháy gọi 114, cấp cứu gọi 115.
+- Thang máy kẹt không phải chờ tạo phiếu: gọi ngay 114 và số an ninh, phiếu tạo sau.
 
-## 2. Cháy hoặc cần cấp cứu thì gọi số nào?
+## Hồ sơ và ban quản lý
 
-Cháy gọi 114, cấp cứu gọi 115.
-
-## 3. Cư dân tòa S2.05 nộp hồ sơ ở đâu?
-
-Hồ sơ nộp tại S2.18.
-
-## 4. Ban quản lý làm việc giờ nào?
-
-Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
-
-## 5. Ngoài giờ làm việc thì gọi ai?
-
-Ngoài giờ, anh chị gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
-
-## 6. Thang máy kẹt có phải chờ tạo phiếu không?
-
-Không. Anh chị gọi ngay 114 và số an ninh, phiếu tạo sau.
-
-## 7. Email và hotline hỗ trợ là gì?
-
-Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.
+- Hồ sơ nộp tại S2.18.
+- Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
+- Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.

@@ -3,42 +3,32 @@ phan_khu: Hải Âu
 cap_nhat: 2026-10-01
 ---
 
-# Xử lý việc phát sinh tại Hải Âu
+# Xử lý tình huống — Hải Âu
 
-Mất điện một nhà thì xem aptomat trước. Cả dãy mất thì gọi điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, đồng thời báo 0856 001 090. Cống ngập thì tạo phiếu, không tự đào đường. Cháy thì gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt. Quên chìa thì bảo vệ đối chiếu giấy tờ với chủ nhà rồi mới gọi thợ.
+Ngoài hướng dẫn xử lý tình huống chung ở `00-do-thi/huong-dan-xu-ly-tinh-huong.md` và `01-vinhomes/huong-dan-xu-ly-tinh-huong.md`, cư dân Hải Âu lưu ý:
 
----
+## Mất điện
 
-# Câu hỏi và trả lời
+- Mất điện một nhà thì xem aptomat trước.
+- Cả dãy mất thì gọi điện lực Thăng Long 1900 633 505 hoặc 0966 888 279, đồng thời báo 0856 001 090.
 
-## 1. Một nhà mất điện thì kiểm tra gì trước?
+## Cống ngập
 
-Mất điện một nhà thì xem aptomat trước.
+- Tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
 
-## 2. Cả dãy nhà thấp tầng mất điện thì gọi ai?
+## Cháy
 
-Anh chị gọi Điện lực Thăng Long theo số 1900 633 505 hoặc 0966 888 279, và báo an ninh theo số 0856 001 090.
+- Gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt.
 
-## 3. Cống ngập thì ai xử lý?
+## Quên chìa khóa
 
-Anh chị tạo phiếu trên ứng dụng và gọi an ninh. Không tự đào đường.
+- Bảo vệ đối chiếu giấy tờ với chủ nhà rồi mới gọi thợ.
 
-## 4. Khi cháy thì làm gì?
+## Mùi gas
 
-Anh chị gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt.
+- Không bật công tắc điện, mở cửa nếu an toàn, rồi gọi an ninh và đơn vị gas.
 
-## 5. Quên chìa khóa thì làm thế nào?
+## Xe và thẻ xe
 
-Bảo vệ đối chiếu giấy tờ với chủ nhà rồi mới gọi thợ.
-
-## 6. Có mùi gas thì làm gì?
-
-Anh chị không bật công tắc điện, mở cửa nếu an toàn, rồi gọi an ninh và đơn vị gas.
-
-## 7. Xe bị khóa bánh thì gọi ai?
-
-Cư dân chung cư gọi 0858 001 080. Cư dân thấp tầng gọi 0856 001 090. Xe nhận lại tại S1.03 hoặc S2.18.
-
-## 8. Mất thẻ xe thì báo ở đâu?
-
-Anh chị báo ngay cho ban quản lý của đúng cụm mình ở để khóa thẻ cũ và làm lại thẻ.
+- Xe bị khóa bánh: cư dân chung cư gọi 0858 001 080, cư dân thấp tầng gọi 0856 001 090. Xe nhận lại tại S1.03 hoặc S2.18.
+- Mất thẻ xe: báo ngay cho ban quản lý của đúng cụm mình ở để khóa thẻ cũ và làm lại thẻ.

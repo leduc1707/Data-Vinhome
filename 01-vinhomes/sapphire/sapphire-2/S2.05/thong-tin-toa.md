@@ -2,36 +2,27 @@
 toa: S2.05
 ---
 
-# Đầu mối tòa S2.05
+# Đầu mối — tòa S2.05
 
-Hồ sơ thẻ, xe và đăng ký thi công nộp tại S2.18. Tổng đài an ninh là 0858 001 080. Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205.
+## Nộp hồ sơ
 
-File này không ghi giá bán, số căn hay diện tích căn hộ.
+- Hồ sơ thẻ, xe và đăng ký thi công của tòa S2.05 nộp tại S2.18.
 
----
+## Gặp bảo vệ sảnh
 
-# Câu hỏi và trả lời
+- Tổng đài an ninh là 0858 001 080.
+- Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205.
 
-## 1. Hồ sơ thẻ, xe của tòa S2.05 nộp ở đâu?
+## Tạo phiếu
 
-Hồ sơ thẻ, xe và đăng ký thi công của tòa S2.05 nộp tại S2.18.
+- Tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+- Phiếu được xử lý tại đúng tòa cư dân đang ở, không chuyển sang phân khu khác.
 
-## 2. Muốn gặp bảo vệ sảnh tòa S2.05 thì gọi thế nào?
+## Phí
 
-Anh chị gọi tổng đài an ninh 0858 001 080. Muốn gặp bảo vệ sảnh S2.05 thì xin chuyển tới số máy lẻ nội bộ 205.
+- Phí chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
+- Muốn dừng gửi xe tháng, báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.
 
-## 3. Tạo phiếu yêu cầu ở đâu?
+## Phạm vi file
 
-Anh chị tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
-
-## 4. Có chuyển phiếu sang phân khu khác không?
-
-Không. Phiếu được xử lý tại đúng tòa cư dân đang ở.
-
-## 5. Đóng phí vào tài khoản nào?
-
-Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
-
-## 6. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.
+- File này không ghi giá bán, số căn hay diện tích căn hộ.

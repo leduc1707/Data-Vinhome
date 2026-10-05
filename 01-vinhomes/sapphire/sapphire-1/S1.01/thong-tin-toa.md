@@ -2,40 +2,28 @@
 toa: S1.01
 ---
 
-# Đầu mối tòa S1.01
+# Đầu mối — tòa S1.01
 
-Hồ sơ thẻ, xe và đăng ký thi công nộp tại S1.03. Tổng đài an ninh là 0858 001 080. Muốn gặp bảo vệ sảnh S1.01 thì xin chuyển tới số máy lẻ nội bộ 101.
+## Nộp hồ sơ
 
-File này không ghi giá bán, số căn hay diện tích căn hộ.
+- Hồ sơ thẻ, xe và đăng ký thi công của tòa S1.01 nộp tại S1.03.
+- Tòa S1.02 không nhận hồ sơ thẻ, xe. S1.02 là nơi nộp tạm trú và là nơi trưởng tòa ngồi.
 
----
+## Gặp bảo vệ sảnh
 
-# Câu hỏi và trả lời
+- Tổng đài an ninh là 0858 001 080.
+- Muốn gặp bảo vệ sảnh S1.01 thì xin chuyển tới số máy lẻ nội bộ 101.
 
-## 1. Hồ sơ thẻ, xe của tòa S1.01 nộp ở đâu?
+## Tạo phiếu
 
-Hồ sơ thẻ, xe và đăng ký thi công của tòa S1.01 nộp tại S1.03.
+- Tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
+- Phiếu được xử lý tại đúng tòa cư dân đang ở, không chuyển sang phân khu khác.
 
-## 2. Tòa S1.02 có nhận hồ sơ thẻ, xe không?
+## Phí
 
-Không. S1.02 là nơi nộp tạm trú và là nơi trưởng tòa ngồi.
+- Phí chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
+- Muốn dừng gửi xe tháng, báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.
 
-## 3. Muốn gặp bảo vệ sảnh tòa S1.01 thì gọi thế nào?
+## Phạm vi file
 
-Anh chị gọi tổng đài an ninh 0858 001 080. Muốn gặp bảo vệ sảnh S1.01 thì xin chuyển tới số máy lẻ nội bộ 101.
-
-## 4. Tạo phiếu yêu cầu ở đâu?
-
-Anh chị tạo phiếu trên ứng dụng Vinhomes Resident, ghi đúng mã tòa, tầng, số căn và số điện thoại.
-
-## 5. Có chuyển phiếu sang phân khu khác không?
-
-Không. Phiếu được xử lý tại đúng tòa cư dân đang ở.
-
-## 6. Đóng phí vào tài khoản nào?
-
-Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
-
-## 7. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.
+- File này không ghi giá bán, số căn hay diện tích căn hộ.

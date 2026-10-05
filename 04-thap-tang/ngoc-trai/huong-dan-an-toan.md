@@ -3,42 +3,24 @@ phan_khu: Ngọc Trai
 cap_nhat: 2026-10-01
 ---
 
-# An toàn tại Ngọc Trai
+# An toàn — Ngọc Trai
 
-Nhà phố không có thang máy như chung cư. Lối thoát hiểm là cửa chính, sân và đường nội khu. Không để xe chắn họng nước. Trẻ em ra hồ và ra biển phải có người lớn đi cùng. Không mang vật nuôi xuống bãi. Không sạc xe điện bằng dây kéo qua đường.
+Ngoài hướng dẫn an toàn chung ở `00-do-thi/huong-dan-an-toan.md` và `01-vinhomes/huong-dan-an-toan.md`, cư dân Ngọc Trai lưu ý:
 
----
+## Thoát hiểm
 
-# Câu hỏi và trả lời
+- Nhà phố không có thang máy như chung cư.
+- Lối thoát hiểm là cửa chính, sân và đường nội khu.
+- Không để xe chắn họng nước.
+- Khi cháy, gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt.
 
-## 1. Nhà phố thoát hiểm bằng lối nào?
+## Sạc xe điện
 
-Nhà phố không có thang máy như chung cư. Lối thoát hiểm là cửa chính, sân và đường nội khu.
+- Không sạc xe điện bằng dây kéo qua đường.
 
-## 2. Có được để xe chắn họng nước không?
+## Hồ và biển
 
-Không. Không để xe chắn họng nước.
-
-## 3. Có được kéo dây qua đường để sạc xe điện không?
-
-Không. Không sạc xe điện bằng dây kéo qua đường.
-
-## 4. Khi cháy thì làm gì?
-
-Anh chị gọi 114 và 0856 001 090, đưa người ra đường nội khu, không chạy vào ngõ cụt.
-
-## 5. Trẻ em ra biển có cần người lớn đi cùng không?
-
-Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
-
-## 6. Có được mang chó xuống bãi không?
-
-Không. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
-
-## 7. Có được nhảy cắm đầu ở biển mặn không?
-
-Không. Anh chị cũng không bơi khi vừa ăn no hoặc đã uống rượu.
-
-## 8. Biển mặn mở cho tắm vào giờ nào?
-
-Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.
+- Trẻ em ra hồ và ra biển phải có người lớn đi cùng. Trẻ dưới 12 tuổi ra biển phải có người lớn đi cùng.
+- Không mang vật nuôi xuống bãi. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
+- Không nhảy cắm đầu ở biển mặn. Không bơi khi vừa ăn no hoặc đã uống rượu.
+- Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.

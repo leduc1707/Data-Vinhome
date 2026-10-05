@@ -3,64 +3,33 @@ phan_khu: The Sapphire
 cap_nhat: 2026-10-01
 ---
 
-# An toàn khi ở Sapphire
+# An toàn — Sapphire
 
-Khi có chuông cháy, không dùng thang máy. Đi hai thang bộ xuống đất hoặc tới điểm tập kết ghi trên biển sảnh. Không bịt đầu báo khói. Không cất xăng trong căn hoặc trong hầm. Xe điện chỉ sạc ở ổ được cấp, không sạc trong căn.
+Ngoài hướng dẫn an toàn chung ở `00-do-thi/huong-dan-an-toan.md` và `01-vinhomes/huong-dan-an-toan.md`, cư dân Sapphire lưu ý:
 
-Sơ đồ thoát nạn và sơ đồ hầm team đã chụp. Gắn ảnh vào thư mục đúng tòa. Không vẽ sơ đồ từ mặt bằng bán hàng và không dùng sơ đồ tòa bên cạnh.
+## Khi có chuông cháy
 
----
+- Không dùng thang máy. Đi hai thang bộ xuống đất hoặc tới điểm tập kết ghi trên biển sảnh.
+- Các tòa mẫu Sapphire không có gian lánh nạn giữa nhà, cư dân thoát xuống đất bằng hai thang bộ.
+- Điểm tập kết ghi trên tấm mica cạnh thang máy của từng tòa. Mỗi tòa có một điểm riêng, không dùng điểm của tòa bên cạnh.
+- Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
 
-# Câu hỏi và trả lời
+## Trong căn và trong hầm
 
-## 1. Khi có chuông cháy có được dùng thang máy không?
+- Không bịt đầu báo khói.
+- Không cất xăng trong căn hoặc trong hầm.
+- Xe điện chỉ sạc ở ổ được cấp, không sạc trong căn. Xe phải có nhãn và không sạc quá 8 giờ.
+- Không khóa cổ xe máy trong hầm, vì bảo vệ cần đẩy xe đi khi có sự cố.
+- Tốc độ trong hầm không quá 5 km một giờ.
 
-Không. Anh chị đi thang bộ theo biển thoát hiểm.
+## Sơ đồ
 
-## 2. Điểm tập kết ở đâu?
+- Sơ đồ thoát nạn và sơ đồ hầm team đã chụp. Gắn ảnh vào thư mục đúng tòa.
+- Không vẽ sơ đồ từ mặt bằng bán hàng và không dùng sơ đồ tòa bên cạnh.
 
-Điểm tập kết ghi trên tấm mica cạnh thang máy của từng tòa. Mỗi tòa có một điểm riêng, không dùng điểm của tòa bên cạnh.
+## Biển mặn và hồ
 
-## 3. Sapphire có gian lánh nạn giữa nhà không?
-
-Không. Các tòa mẫu Sapphire không có gian lánh nạn giữa nhà, cư dân thoát xuống đất bằng hai thang bộ.
-
-## 4. Bảo vệ kiểm tra điểm tập kết trong bao lâu?
-
-Bảo vệ kiểm tra điểm tập kết trong 3 phút sau khi chuông kêu.
-
-## 5. Có được bịt đầu báo khói không?
-
-Không. Đầu báo khói không được bịt.
-
-## 6. Có được sạc xe điện trong căn không?
-
-Không. Xe điện chỉ sạc ở ổ đã đăng ký trong hầm, xe phải có nhãn và không sạc quá 8 giờ.
-
-## 7. Có được cất xăng trong hầm không?
-
-Không. Trong hầm không được cất xăng.
-
-## 8. Có được khóa cổ xe máy trong hầm không?
-
-Không, vì bảo vệ cần đẩy xe đi khi có sự cố.
-
-## 9. Tốc độ tối đa trong hầm là bao nhiêu?
-
-Tốc độ trong hầm không quá 5 km một giờ.
-
-## 10. Trẻ em ra biển có cần người lớn đi cùng không?
-
-Có. Trẻ dưới 12 tuổi phải có người lớn đi cùng.
-
-## 11. Có được mang chó xuống bãi không?
-
-Không. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
-
-## 12. Có được nhảy cắm đầu ở biển mặn không?
-
-Không. Anh chị cũng không bơi khi vừa ăn no hoặc đã uống rượu.
-
-## 13. Biển mặn mở cho tắm vào giờ nào?
-
-Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.
+- Trẻ dưới 12 tuổi ra biển phải có người lớn đi cùng.
+- Không mang chó xuống bãi. Cả biển mặn và bãi cát hồ Ngọc Trai đều cấm vật nuôi.
+- Không nhảy cắm đầu ở biển mặn. Không bơi khi vừa ăn no hoặc đã uống rượu.
+- Biển mặn mở cho tắm từ 9 giờ đến 18 giờ. Ngoài giờ này không được bơi.

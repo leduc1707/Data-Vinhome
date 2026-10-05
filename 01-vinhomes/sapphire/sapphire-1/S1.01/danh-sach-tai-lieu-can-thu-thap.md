@@ -2,26 +2,15 @@
 toa: S1.01
 ---
 
-# Tài liệu tòa S1.01
+# Tài liệu — tòa S1.01
 
-Sơ đồ thoát nạn và sơ đồ hầm của tòa S1.01 đã có trong hai file cùng thư mục. Ảnh chụp thực tế chỉ dùng để đối chiếu, agent vẫn trả lời được khi chưa có ảnh.
+## Tài liệu của tòa S1.01 nằm ở đâu
 
----
+- Sơ đồ thoát nạn: `phong-chay-chua-chay-va-thoat-hiem.md`.
+- Sơ đồ hầm: `so-do-ham-gui-xe.md`.
+- Số trực và nơi nộp hồ sơ: `so-dien-thoai-truc-toa.md` và `thong-tin-toa.md`.
+- Ảnh mặt bằng tòa: `mat-bang-toa-s101-vinhomes-ocean-park.jpg`.
 
-# Câu hỏi và trả lời
+## Ảnh chụp thực tế
 
-## 1. Sơ đồ thoát nạn của tòa S1.01 xem ở file nào?
-
-Xem file `phong-chay-chua-chay-va-thoat-hiem.md` trong cùng thư mục.
-
-## 2. Sơ đồ hầm của tòa S1.01 xem ở file nào?
-
-Xem file `so-do-ham-gui-xe.md` trong cùng thư mục.
-
-## 3. Số trực và nơi nộp hồ sơ của tòa S1.01 xem ở file nào?
-
-Xem file `so-dien-thoai-truc-toa.md` và `thong-tin-toa.md` trong cùng thư mục.
-
-## 4. Chưa có ảnh chụp thực tế thì có trả lời cư dân được không?
-
-Được. Ảnh chụp thực tế chỉ dùng để đối chiếu, agent vẫn trả lời được khi chưa có ảnh.
+- Ảnh chụp thực tế chỉ dùng để đối chiếu, agent vẫn trả lời được khi chưa có ảnh.

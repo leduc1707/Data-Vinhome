@@ -3,50 +3,31 @@ phan_khu: Hải Âu
 cap_nhat: 2026-10-01
 ---
 
-# Cách tiếp nhận việc tại Hải Âu
+# Quy trình vận hành — Hải Âu
 
-Cư dân tạo phiếu trên ứng dụng và ghi đúng tiểu khu, số nhà. Việc liên quan đến cổng, điện đường và ngập thì gọi thêm 0856 001 090. Cháy thì gọi 114. Không chuyển phiếu của khu thấp tầng sang lễ tân chung cư.
+Ngoài quy trình chung ở `00-do-thi/quy-trinh-van-hanh.md` và `01-vinhomes/quy-trinh-van-hanh.md`, cư dân Hải Âu lưu ý:
 
----
+## Tạo phiếu
 
-# Câu hỏi và trả lời
+- Cư dân tạo phiếu trên ứng dụng và ghi đúng tiểu khu, số nhà.
+- Không chuyển phiếu của khu thấp tầng sang lễ tân chung cư.
 
-## 1. Tạo phiếu yêu cầu thế nào?
+## Gọi khi cần
 
-Cư dân tạo phiếu trên ứng dụng và ghi đúng tiểu khu, số nhà.
+- Việc liên quan đến cổng, điện đường và ngập thì gọi thêm 0856 001 090.
+- Cháy thì gọi 114.
 
-## 2. Việc về cổng, điện đường hoặc ngập thì gọi ai?
+## Nơi nộp hồ sơ
 
-Việc liên quan đến cổng, điện đường và ngập thì gọi thêm 0856 001 090.
+- Hồ sơ nộp tại nhà để xe Hải Âu, không nộp ở S1.03.
 
-## 3. Cháy thì gọi số nào?
+## Giờ làm việc
 
-Cháy thì gọi 114.
+- Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
+- Ngoài giờ làm việc, gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
 
-## 4. Phiếu của khu thấp tầng có chuyển sang lễ tân chung cư không?
+## Phí và liên hệ
 
-Không. Không chuyển phiếu của khu thấp tầng sang lễ tân chung cư.
-
-## 5. Cư dân Hải Âu nộp hồ sơ ở đâu?
-
-Hồ sơ nộp tại nhà để xe Hải Âu, không nộp ở S1.03.
-
-## 6. Ban quản lý làm việc giờ nào?
-
-Theo bài của cư dân, ban quản lý làm việc từ 8 giờ 30 đến 17 giờ 30, Thứ Hai đến Thứ Bảy.
-
-## 7. Ngoài giờ làm việc thì gọi ai?
-
-Ngoài giờ, anh chị gọi an ninh trực. Việc khẩn không chờ đến sáng hôm sau.
-
-## 8. Đóng phí vào tài khoản nào?
-
-Anh chị chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
-
-## 9. Email và hotline hỗ trợ là gì?
-
-Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.
-
-## 10. Muốn dừng gửi xe tháng thì báo khi nào?
-
-Anh chị báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.
+- Phí chuyển vào tài khoản Công ty cổ phần Vinhomes, số 19010000858784, ngân hàng Techcombank.
+- Email hỗ trợ là info@vinhomes.vn. Hotline là 1900 2323 89, nhánh 4.
+- Muốn dừng gửi xe tháng, báo bằng văn bản trước ngày 25. Nếu không báo thì vẫn phải đóng phí tháng sau.

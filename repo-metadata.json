@@ -1,0 +1,13 @@
+{
+  "updated": "2026-10-05",
+  "file_count": 197,
+  "folders": [
+    "00-do-thi",
+    "01-vinhomes",
+    "02-masterise",
+    "04-thap-tang"
+  ],
+  "scope": "resident-support-only",
+  "dynamic_data_policy": "verify-current-notice",
+  "note": "Giữ cấu trúc chi tiết của bản trước: phân khu, tòa, tiểu khu thấp tầng và 02-masterise."
+}
